@@ -166,7 +166,7 @@ h3 { clear: both; font-size: 1.1em; color: #000; background: #fff url(h3bg.gif) 
 		margin:0px 0 20px 0;	
 		padding: 5px 20px;
 		border: 1px solid #ccc;
-		background: #eee;
+		xbackground: #eee;
 		color: #444;
 	}
 
