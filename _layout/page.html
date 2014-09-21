@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>
+{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}
+</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<link rel="stylesheet" href="{{site.baseurl}}/img/style.css" type="text/css" media="screen,projection" />
+
+  <meta name="description" content="{{site.description}}"/>
+  <meta name="author" content="{{site.author}}"/>
+  <!-- link rel="icon" href="{{site.baseurl}}/img/favicon.png" type="image/png" --->
+
+</head>
+<body>
+<div id="wrapper1">
+  <div id="wrapper2">
+    <div id="header">
+      <h1><a href="#">Solemnity</a> </h1>
+
+
+{% include nav.html %}
+
+    
+    </div>
+    <div id="container">
+      <p class="description"> 
+&nbsp;<br>
+&nbsp;<br>
+&nbsp;<br>
+</p>
+      <div id="sidebar">
+        <h2>Latest News or Comments</h2>
+      
+{% include latestnews.html %}
+
+        <h2>Sub Navigation</h2>
+	<p>sdads</p>
+        <!--- ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Examples</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul --->
+        <h2>Search</h2>
+        <input name="" type="text" />
+      </div>
+      <div id="content">
+        <!--- ol class="subnav">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Examples</a></li>
+          <li><a href="#">Contact</a></li>
+        </ol --->
+      
+{{contents}}
+
+    </div>
+    </div>
+  </div>
+</div>
+<div id="footer">
+  <p>Template design by <a href="http://www.sixshootermedia.com">Six Shooter Media</a>.<br />
+    © All your copyright information here.</p>
+</div>
+</body>
+</html>
