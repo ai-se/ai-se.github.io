@@ -3,6 +3,6 @@ title: Home
 layout: post
 ---
 
-## Hello world
+### Hello world
 
 here's some stuff
