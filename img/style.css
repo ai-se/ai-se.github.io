@@ -21,7 +21,7 @@ body {
 
 #wrapper2 {
 	width:740px;
-	background:url(xwrapper2.jpg) bottom repeat-x #fff;
+	background:url(wrapper2.jpg) bottom repeat-x #fff;
 	border-left:1px solid #000;
 	border-right:1px solid #000;
 	border-bottom:1px solid #000;
@@ -67,7 +67,7 @@ body {
 	float:left;
 	padding:30px 20px 14px 45px;
 
-	background:url(h1.gif) left bottom no-repeat;
+	xbackground:url(h1.gif) left bottom no-repeat;
 }
 #header h1 a {
 	color:#222;
