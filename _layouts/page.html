@@ -39,11 +39,13 @@
             </p>
            {% endif %}
         {% endfor %}
-
+        <p class="news">
+	  <a href="{{site.url}}/news">Read all news.</a>
+	</p>
 
 	<h2>Search</h2>
         <input name="" type="text" />
-      </div>
+      </div>x
       <div id="content">   
         {% if page.title %} <h1>{{ page.title }}</h1>  {% endif %} 
           {{content}}
