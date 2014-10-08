@@ -25,7 +25,7 @@
         <h2>Latest News</h2>
            
           
-        {% for post in site.posts do %}
+        {% for post in site.posts  limit:5 do  %}
            {% if post.category == "news" %}
             <p class="news">
                <em>
