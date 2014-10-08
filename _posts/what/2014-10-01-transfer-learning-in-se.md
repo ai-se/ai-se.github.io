@@ -3,9 +3,10 @@ title: Transfer Learning in SE
 layout: page
 category: projects
 
-exerpt: Transfer Learning in Software Engineering, NSF funded, 2013 to 2017
+
 ---
 
+exerpt: Transfer Learning in Software Engineering, NSF funded, 2013 to 2017
 
 _2013 -- 2017_
 
