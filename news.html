@@ -3,8 +3,8 @@ title: News
 layout: page
 ---
 
-
-  {% for post in site.posts   do  %}
+ 
+         {% for post in site.posts   do  %}
            {% if post.category == "news" %}
             <h2> {{ post.date | date: "%b%-d '%y" }}:
 		 {{ post.title}}:
