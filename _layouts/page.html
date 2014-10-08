@@ -23,7 +23,24 @@
       </p>
       <div id="sidebar">
         <h2>Latest News or Comments</h2>
-           {% include latestnews.html %}
+           
+          
+        {% for post in site.posts do %}
+           {% if post.category == "news" %}
+            <p class="news">
+               <em>
+                 {{ post.date | date: "%b%-d '%y" }}
+               </em>
+               <b>
+		 {{ post.title}}:
+	       </b>
+                  {{post.excerpt}}
+	          <a href="{{post.url}}" class="more">Read more »</a>  
+            </p>
+           {% endif %}
+        {% endfor %}
+
+
 	<h2>Search</h2>
         <input name="" type="text" />
       </div>
