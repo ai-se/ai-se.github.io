@@ -4,8 +4,6 @@ layout: page
 category: projects
 ---
 
-## Transfer Learning in Software Engineering
-
 _2013 -- 2017_
 
 NSF, SHF: Medium: Collaborative, #1302216
