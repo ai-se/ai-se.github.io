@@ -7,6 +7,8 @@ excerpt: Quick overview on how to post code snippets using Liquid tags and how t
 
 ---
 
+ {% if page.title %} <h1>{{ page.title }}!!!</h1>  {% endif %} 
+
 Whenever you need to post a code snippet, use the liquid tags `hilight` and `endhilight` like this:
 
 {% highlight ruby %}
