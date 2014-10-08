@@ -5,4 +5,4 @@ layout: page
 
 ## Hello world
 
-here's some stuff more
+mere's some stuff more
