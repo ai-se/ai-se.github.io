@@ -35,13 +35,11 @@
 		 {{ post.title}}:
 	       </b>
                   {{post.excerpt}}
-	          <a href="{{post.url}}" class="more">Read more »</a>  
+	          <a href="{{post.url}}" class="more">More »</a>  
             </p>
            {% endif %}
         {% endfor %}
-        <p class="news">
-	  <a href="{{site.url}}/news">Read all news.</a>
-	</p>
+	     <a href="{{post.url}}" class="more">All the news »</a> 
 
 	<h2>Search</h2>
         <input name="" type="text" />
