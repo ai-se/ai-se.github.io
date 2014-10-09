@@ -16,8 +16,7 @@ software engineering.
   effort associated with AI tools.
 
 So we explore AI for SE applications as well as
-SE for AI applications.
-
+SE for AI applications. 
 To learn more about the lab, learn some more about...
 
 + [Our people](people);
