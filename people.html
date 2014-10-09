@@ -4,11 +4,10 @@ layout: page
 ---
 
 
- 
          {% for post in site.posts   do  %}
            {% if post.category == "people" %}
-             <h2> {{ post.title}} </h2>
-                <p> <em>{{post.excerpt}}</em>
+             <h2>{{post.title}}</h2>
+                <p><em>{{post.excerpt}}</em>
 
                 {{post.content}}
             
