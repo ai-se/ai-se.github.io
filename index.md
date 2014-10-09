@@ -3,7 +3,7 @@ title: Exploring AI and SE synergies
 layout: page
 ---
 
-The NcState iSERL research lab explores the synergy between AI and
+The NcState RAISE research lab explores the synergy between AI and
 software engineering.
 
 + As SE is asked to answer
@@ -15,8 +15,8 @@ software engineering.
   alleviate development costs and the development
   effort associated with AI tools.
 
-So iSERL explores AI for SE applications as well as
-SE for AI applications. 
+So researchers at RAISE apply AI to SE applications )as well as
+applying SE to AI). 
 
 
 + Meet [our people](people);
