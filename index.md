@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-<img align=left width=100
+<img align=left width=120
      src="{{site.url}}/img/marvin.jpg">
 <em>All this talk about artificial intelligence is really just hype. It will take at
 lease fifty years before we have to let them vote.<br></em>
