@@ -15,12 +15,10 @@ software engineering.
   alleviate development costs and the development
   effort associated with AI tools.
 
-So we explore:
+So we explore AI for SE applications as well as
+SE for AI applications.
 
-+ AI for SE applications as well as
-+ SE for AI applications.
-
-What to learn more? Then please read more on...
+To learn more about the lab, learn some more about...
 
 + [Our people](people);
 + [Our projects](projects).
