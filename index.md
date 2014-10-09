@@ -1,5 +1,5 @@
 ---
-title: The NcState "AI for SE" Lab
+title: Exploring AI and SE synergies 
 layout: page
 ---
 
