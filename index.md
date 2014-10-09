@@ -15,7 +15,7 @@ software engineering.
   alleviate development costs and the development
   effort associated with AI tools.
 
-So iSERL explore AI for SE applications as well as
+So iSERL explores AI for SE applications as well as
 SE for AI applications. 
 
 
