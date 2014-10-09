@@ -1,7 +1,7 @@
 ---
 title: Welcome to the AI Lab
 layout: page
---
+---
 
 
 <img align=left width=150
