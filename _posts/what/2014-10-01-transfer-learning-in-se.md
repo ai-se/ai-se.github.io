@@ -4,9 +4,11 @@ layout: page
 category: projects
 ---
 
-_2013 -- 2017_
+
 
 NSF, SHF: Medium: Collaborative, #1302216
+
+_2013 -- 2017_
 
 <img align=right src="{{site.url}}/img/nsf1v.jpg">
 
