@@ -2,11 +2,13 @@
 title: Transfer Learning in SE
 layout: page
 category: projects
+
+exeprt: NSF, SHF: Medium: Collaborative, #1302216
 ---
 
 
 
-NSF, SHF: Medium: Collaborative, #1302216
+
 
 _2013 -- 2017_
 
