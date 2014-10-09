@@ -16,6 +16,8 @@ The AI-for-SE lab is a research laboratory at the
 North Carolina State University, Department of
 Computer Science.
 
+<br clear=all>
+
 ### Focus
 
 This lab is focused on the synergy between AI and
