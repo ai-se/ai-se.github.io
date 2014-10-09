@@ -1,5 +1,5 @@
 ---
-title: LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction
+title: LACE2- Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction
 layout: page
 category: projects
 

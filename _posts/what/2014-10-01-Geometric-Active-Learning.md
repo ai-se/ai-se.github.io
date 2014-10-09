@@ -1,5 +1,5 @@
 ---
-title: GALE: Geometric Active Learning for Search-Based Software Engineering
+title: GALE- Geometric Active Learning for Search-Based Software Engineering
 layout: page
 category: projects
 
