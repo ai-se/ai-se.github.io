@@ -1,5 +1,5 @@
 ---
-title: Welcome to the NcState AI for SE Lab
+title: The NcState "AI for SE" Lab
 layout: page
 ---
 
