@@ -229,7 +229,7 @@ blockquote {
 ul {	
 	margin:10px 10px 10px 0;
 	padding:0 0 0 15px;
-	border:1px solid #eee;
+	xborder:1px solid #eee;
 }
 li {
 	margin:0 0 0 10px;
