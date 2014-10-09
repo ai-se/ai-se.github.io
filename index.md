@@ -3,7 +3,7 @@ title: Exploring AI and SE synergies
 layout: page
 ---
 
-The AI-for-SE lab  research laboratory focuses on the synergy between AI and
+The NcState iSERL research lab explores the synergy between AI and
 software engineering.
 
 + As SE is asked to answer
@@ -15,9 +15,9 @@ software engineering.
   alleviate development costs and the development
   effort associated with AI tools.
 
-So we explore AI for SE applications as well as
+So iSERL explore AI for SE applications as well as
 SE for AI applications. 
-To learn more about the lab, learn some more about...
 
-+ [Our people](people);
-+ [Our projects](projects).
+
++ Meet [our people](people);
++ See [our projects](projects).
