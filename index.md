@@ -4,8 +4,6 @@ layout: page
 ---
 
 
-<img align=left width=120
-     src="{{site.url}}/img/marvin.jpg">
 <em>All this talk about artificial intelligence is really just hype. It will take at
 lease fifty years before we have to let them vote.<br></em>
 -- Kenneth Boulding
@@ -16,7 +14,6 @@ The AI-for-SE lab is a research laboratory at the
 North Carolina State University, Department of
 Computer Science.
 
-<br clear=all>
 
 ### Focus
 
