@@ -15,7 +15,7 @@ software engineering.
   alleviate development costs and the development
   effort associated with AI tools.
 
-So researchers at RAISE apply AI to SE applications )as well as
+So researchers at RAISE apply AI to SE applications (as well as
 applying SE to AI). 
 
 
