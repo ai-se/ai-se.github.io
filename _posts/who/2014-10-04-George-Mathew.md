@@ -7,7 +7,7 @@ excerpt: Member
 
  
 <img align=left width=150
-src="{{site.url}}/img/george.jpg"> George Mathew is a first 
+src="https://www.linkedin.com/mpr/pub/image-PuRn2wm2jLJ5z7ojgtfTtLmbQNgiiVBL3JuTO9W2x2Uij5LL4uRTOrDmxnciSHgekrq/george-mathew.jpg"> George Mathew is a first 
 year Masters student in CS at North Carolina State University.
 He is a full stack web developer. His prime areas of interests
 are machine learning and software development. In his free time
