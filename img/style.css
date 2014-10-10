@@ -147,13 +147,12 @@ p.description a:hover {
 
 
 .gsc-search-box {
-font-size: 50%;
-background-color: yellow;
+font-size: 100%;
 margin-top: 0;
 margin-right: 0;
 margin-bottom: 0px;
 margin-left: 0;
-width: 120%;
+width: 200%;
 }
 
 ol.subnav {
