@@ -145,7 +145,7 @@ p.description a:hover {
 }
 
 
-
+input.gsc-input { font-size: 50%; background-color: yellow; }
 .gsc-search-box {
 font-size: 100%;
 margin-top: 0;
