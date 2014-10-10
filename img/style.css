@@ -145,10 +145,10 @@ p.description a:hover {
 }
 
 
-div.gsc-control-cse { width: 100%; padding:0px; margin:0px; 
-		      	font: 62.5%/1.6em "Lucida Grande", "Lucida Sans Unicode", verdana, geneva, sans-serif; }
+div.gsc-control-cse { width: 100%; padding:0px; margin:0px;}
 
-xgsc-control-cse, .xgsc-control-cse {
+
+gsc-control-cse, .gsc-control-cse {
     font-family: Arial,sans-serif;
     font-size: 80%;
 }
