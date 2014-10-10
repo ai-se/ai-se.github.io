@@ -1,0 +1,20 @@
+---
+title: Research Blog
+layout: page
+---
+
+<p>
+This page shows our weekly research progress reports. Note that this material is very much "work in progress"
+and any "result" here can disappear faster than Homer Simpson can say "D'oh!".
+</p>
+ 
+         {% for post in site.posts   do  %}
+           {% if post.category == "blog" %}
+            <h2> {{post.date | date: "%b%-d '%y"}}:
+		 {{post.title}}:
+	       </h2>
+                  <p> <em>{{post.excerpt}}</em>
+                  <p>{{post.content}}</p> 
+            </p>
+           {% endif %}
+        {% endfor %}
