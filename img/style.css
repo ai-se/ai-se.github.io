@@ -144,9 +144,9 @@ p.description a:hover {
 	line-height:21px;
 }
 
-form.gsc-input { font-size: 1px; }
 
-form.gsc-search-box {
+
+.gsc-search-box {
 font-size: 100%;
 margin-top: 0;
 margin-right: 0;
