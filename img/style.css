@@ -149,7 +149,7 @@ div.gsc-control-cse { width: 100%; padding:0px; margin:0px;}
 
 
 gsc-control-cse, .gsc-control-cse {
-    font-family: Arial,sans-serif;
+    font-family: Arial,sans-serif !important;
     font-size: 80%;
 }
 
