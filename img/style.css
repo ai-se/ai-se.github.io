@@ -143,6 +143,16 @@ p.description a:hover {
 	font-size:110%;
 	line-height:21px;
 }
+
+form.gsc-search-box {
+font-size: 100%;
+margin-top: 0;
+margin-right: 0;
+margin-bottom: 0px;
+margin-left: 0;
+width: 120%;
+}
+
 ol.subnav {
 	margin:-10px 0 0 -5px;
 	padding:0;
@@ -267,3 +277,4 @@ li {
 #footer a {
 	color:#eee;
 }
+
