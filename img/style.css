@@ -145,7 +145,7 @@ p.description a:hover {
 }
 
 
-div.gsc-control-cse { font-size: 50%; background-color: yellow;  } 
+div.gsc-control-cse { width: 130%; font-size: 50%; background-color: blue;  } 
 
 .gsc-search-box {
 font-size: 100%;
