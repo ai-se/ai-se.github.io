@@ -145,9 +145,9 @@ p.description a:hover {
 }
 
 
-div.gsc-control-cse { width: 90%;  } 
+div.gsc-control-cse { width: 95%;  } 
 
-
+input.gsc-search-button { width: 20px;}
 
 ol.subnav {
 	margin:-10px 0 0 -5px;
