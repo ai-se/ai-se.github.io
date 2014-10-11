@@ -44,14 +44,13 @@ body {
 	}
 
 #nav ul {
-        text-align: right;
 	margin:0;
 	margin-left: 20px; 
 	padding: 0;
 	}
 
 #nav li{
-	text-transform:uppercase;
+	xtext-transform:uppercase;
 	display: inline;
 	list-style-type: none;
 	}
