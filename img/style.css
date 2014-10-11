@@ -29,37 +29,43 @@ body {
 	padding:0 10px 10px 10px;
 }
 
-#nav {
-	float:right;
-	border:none;
-	padding:0;
+
+
+#nav, #nav-inner, .nav-list {
+	background-color: #fff;
+	border: 0;
+	}
+
+#nav { border-top: 5px solid #D10000; }
+
+#nav a:link,a:visited { 
+	border-radius: 0 0 8px 8px; 
+	padding:0px 15px;
+	}
+
+#nav ul {
 	margin:0;
-}
+	margin-left: 20px; 
+	padding: 0;
+	}
 
-#nav li {
-	float:left;
-	list-style:none;
-	margin:0 4px 0 0;
-	padding:0;
-}
-
-#nav li a {
-	display:block;
-	padding:20px 5px 21px 10px;
-	background:#fff;
-	color:#444;
-	text-decoration:none;
+#nav li{
 	text-transform:uppercase;
-	margin:0 1px 0 0;
-	
-	
-}
-#nav li a:hover {
-	background:url(nav_a_hover.jpg) top center no-repeat #fff;
-	
-	color:#000;
-	
-}
+	}
+
+#nav a {
+	float: left;
+	font-weight: bold;
+	color: #000;
+	margin: 0 5px 0 0; /* Margin between each menu item */
+	background-color: #eee; /* Default tab color */
+	}
+
+#nav a:hover {
+	background-color: #D10000; 
+	color: #fff;
+	}
+
 
 #header h1 {
 	font:2.7em Arial;
@@ -141,15 +147,8 @@ p.description a:hover {
 #content p {
 	margin:15px 0;
 	font-size:110%;
-	Xline-height:21px;
+	line-height:21px;
 }
-
-
-div.gsc-control-cse { width: 100%; padding:0px; margin:0px;}
-
-
-
-
 ol.subnav {
 	margin:-10px 0 0 -5px;
 	padding:0;
@@ -241,7 +240,7 @@ ul {
 }
 li {
 	margin:0 0 0 10px;
-	xpadding:5px;
+	padding:5px;
 }
 #content img {
 	padding:3px;
@@ -268,4 +267,3 @@ li {
 #footer a {
 	color:#eee;
 }
-
