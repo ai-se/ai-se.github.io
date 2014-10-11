@@ -18,6 +18,5 @@ software engineering.
 So researchers at RAISE apply AI to SE applications (as well as
 applying SE to AI). 
 
-
 + Meet [our people](people);
 + See [our projects](projects).
