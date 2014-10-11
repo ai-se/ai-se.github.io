@@ -29,8 +29,6 @@ body {
 	padding:0 10px 10px 10px;
 }
 
-
-
 #nav, #nav-inner, .nav-list {
 	background-color: #fff;
 	border: 0;
@@ -162,7 +160,7 @@ ol.subnav li {
 	padding:0;
 }
 ol.subnav a {
-	font-weight:bold;
+	gsefont-weight:bold;
 	color:#555;
 	border-top:2px solid #fff;
 	display:block;
