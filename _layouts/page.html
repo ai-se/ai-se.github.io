@@ -18,10 +18,10 @@
   <div id="wrapper2">
    
     <div id="header">
-      {% include nav.html %}
+     
     <table width=100%>
       <tr>
-        <td align=left valign=bottom>
+        <td align=left valign=bottom colspan=2>
           <h1>
             <a href="{{site.url}}">
                The RAISE Lab: <u>r</u>eal-world 
@@ -29,9 +29,14 @@
             </a>
           </h1>
         </td>
-        <td align=right valign=bottom> 
-           <img src="{{site.url}}/img/r-header.jpg" width=300>
+	<td>
+             {% include nav.html %}
         </td>
+      </tr>
+      <tr> 
+          <td align=right valign=bottom> 
+           <img src="{{site.url}}/img/r-header.jpg" width=300>
+          </td>
       </tr>
     </table>
     </div>
