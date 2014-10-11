@@ -51,6 +51,8 @@ body {
 
 #nav li{
 	text-transform:uppercase;
+	display: inline;
+	list-style-type: none;
 	}
 
 #nav a {
