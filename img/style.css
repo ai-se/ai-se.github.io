@@ -19,6 +19,9 @@ body {
 	padding:0 0px 10px 10px;
 	width:760px;
 	margin:0 auto;
+	padding-top: -10px;
+	margin-top: -10px;
+
 }
 
 #wrapper2 {
@@ -28,6 +31,8 @@ body {
 	border-right:1px solid #000;
 	border-bottom:1px solid #000;
 	padding:0 10px 10px 10px;
+	padding-top: -10px;
+	margin-top: -10px;
 }
 
 #nav, #nav-inner, .nav-list {
