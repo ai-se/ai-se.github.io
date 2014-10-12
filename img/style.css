@@ -1,6 +1,7 @@
 body {
 	font: 62.5%/1.6em "Lucida Grande", "Lucida Sans Unicode", verdana, geneva, sans-serif;
 	color:#888;
+	padding:0;
 	margin:0;
 	xbackground: #FFF;
         background:url(body.jpg) top repeat-x #121212;
@@ -17,7 +18,7 @@ body {
 	background:black;
 	padding:0 0px 10px 10px;
 	width:760px;
-	xmargin:0 auto;
+	margin:0 auto;
 }
 
 #wrapper2 {
