@@ -13,3 +13,5 @@ He is a full stack web developer. His prime areas of interests
 are machine learning and software development. In his free time
 he works on his [pet project](http://region.io).
 To know more about George, visit [his website](http://www.insaneinc.info/).
+
+
