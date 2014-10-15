@@ -1,7 +1,6 @@
 ---
 title: Transfer Learning in SE
 layout: page
-category: projects
 
 excerpt: NSF, SHF, Medium Collaborative number 1302216
 ---

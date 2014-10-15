@@ -1,7 +1,6 @@
 ---
 title: Evolutionary Search with Strong Heuristics for Software Product Line Configuration
 layout: page
-category: projects
 
 excerpt: Faster reasoning about software product lines
 ---
