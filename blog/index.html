@@ -1,0 +1,10 @@
+---
+title: Blog
+layout: page
+---
+ 
+ {% for post in site.categories.blog   do  %}
+   <h2> {{post.date | date: "%b%-d '%y"}}: {{post.title}}: </h2>
+      <p> <em>{{post.excerpt}}</em></p>
+      <p>{{post.content}}</p> 
+ {% endfor %}
