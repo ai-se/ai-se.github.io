@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Tim Menzies
-category: people
-
 excerpt: Lab Director, Ph.D. (UNSW), Professor 
 
 ---

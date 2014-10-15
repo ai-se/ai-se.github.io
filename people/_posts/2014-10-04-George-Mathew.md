@@ -1,7 +1,6 @@
 ---
 layout: post
 title: George Mathew
-category: people
 excerpt: Member 
 ---
 

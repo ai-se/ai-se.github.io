@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Vivek Nair
-category: people
 excerpt: Member 
 ---
 
