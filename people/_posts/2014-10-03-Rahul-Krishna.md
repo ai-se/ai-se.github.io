@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Rahul Krishna
-category: people
-
 excerpt: Lab Member, M.S. Student, Electrical Engineering
-
 ---
 
  

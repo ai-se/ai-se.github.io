@@ -1,7 +1,6 @@
 ---
 title: GALE- Geometric Active Learning for Search-Based Software Engineering
 layout: page
-category: projects
 
 excerpt: Faster multi-objective optimization
 ---

@@ -71,8 +71,7 @@
          <h2>Latest News</h2>
            
           
-        {% for post in site.posts  limit:5 do  %}
-           {% if post.category == "news" %}
+        {% for post in site.categories.news  limit:5 do  %}
             <p class="news">
                <em>
                  {{ post.date | date: "%b%-d '%y" }}
@@ -83,7 +82,6 @@
                   {{post.excerpt}}
 	          <a href="{{post.url}}" class="more">More »</a>  
             </p>
-           {% endif %}
         {% endfor %}
 	     <a href="{{post.url}}" class="more">All the news »</a> 
 
