@@ -90,7 +90,7 @@
       </div>
       <div id="content">   
         {% if page.title %} <h1>{{ page.title }}</h1>  {% endif %} 
-        <p><em>{% if page.date %} {{ page.date | "%b%-d '%y" }}  {% endif %} 
+        <p><em>{% if page.date %} {{ page.date | date: "%b%-d '%y" }}  {% endif %} 
         {% if page.author %}  by {{ page.author }}  {% endif %} 
 </em></p>
 
