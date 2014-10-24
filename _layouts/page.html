@@ -74,7 +74,7 @@
         {% for post in site.categories.news  limit:5 do  %}
             <p class="news">
                <em>
-                 {{ post.date | date: "%b%-d '%y" }} by {{ post.author }}
+                 {{ post.date | date: "%b%-d '%y" }} 
                </em>
                <b>
 		 {{ post.title}}:
@@ -90,7 +90,13 @@
       </div>
       <div id="content">   
         {% if page.title %} <h1>{{ page.title }}</h1>  {% endif %} 
+        <p><em>{% if page.date %} {{ page.date | "%b%-d '%y" }}  {% endif %} 
+        {% if page.author %}  by {{ page.author }}  {% endif %} 
+</em></p>
+
           {{content}}
+
+
       <div style="clear:both;">&nbsp;</div>
     </div>
     </div>
