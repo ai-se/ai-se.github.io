@@ -1,3 +1,9 @@
+---
+layout: page
+title: News of GALE
+excerpt: Kicking ass and taking names
+---
+
 
 DTLZ, d=20,o-2,4,6,8
 
