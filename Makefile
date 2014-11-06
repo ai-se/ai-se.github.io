@@ -1,12 +1,12 @@
 
 typo:
 	- git status
-	- git commit -a
+	- git commit -am "typo"
 	- git push origin master
 
 commit:
 	- git status
-	- git commit -am "stuff"
+	- git commit -a
 	- git push origin master
 
 update:
