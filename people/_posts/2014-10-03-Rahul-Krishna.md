@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rahul Krishna
-excerpt: Lab Member, M.S. Student, Electrical Engineering
+excerpt: Member
 ---
 
  
