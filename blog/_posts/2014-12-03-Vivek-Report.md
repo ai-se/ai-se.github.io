@@ -4,5 +4,5 @@ title: Vivek's report
 excerpt: 
 ---
 
-(https://github.com/vivekaxl/Courses/blob/master/Misc/LN/findingfuncs/readme.md)
+####[Report](https://github.com/vivekaxl/Courses/blob/master/Misc/LN/findingfuncs/readme.md)
 
