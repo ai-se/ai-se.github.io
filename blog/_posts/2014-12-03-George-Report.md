@@ -1,7 +1,7 @@
 ---
 layout: post
 title: George's report
-excerpt: Kloc Weight experiments
+excerpt: 
 ---
 
-####[Report](https://github.com/ai-se/george/blob/master/Reports/12-10-14.md)
+####[Report](https://docs.google.com/a/ncsu.edu/spreadsheets/d/1DFK7e6uzbmybwNKq0Q-0XWiRspC-FLCiyJNSMQv2ZDM/edit#gid=0)
