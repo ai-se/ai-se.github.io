@@ -15,5 +15,5 @@ to get this system to the users. In this pursuit he is supported
 by wonderful people from the industry(read wild!) and academia
  alike. Before taking up this challenging task, he received his 
 master degree and worked in the industry for a period of  2 years.
-For more information, visit [his website](https://vivekaxl.com).
+For more information, visit [his website](http://vivekaxl.com).
 
