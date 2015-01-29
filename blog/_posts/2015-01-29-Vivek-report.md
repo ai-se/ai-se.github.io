@@ -5,5 +5,5 @@ excerpt:
 ---
 
 ======
-Go to [my WiKi](https://github.com/ai-se/Vivek/wiki/Report-Jan29)
+[my WiKi](https://github.com/ai-se/Vivek/wiki/Report-Jan29)
 
