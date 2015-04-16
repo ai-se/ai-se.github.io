@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vivek's report
-excerpt: LINKEDIN + R, MOEA/D  
+excerpt: NSGAIII
 ---
 
 ======
