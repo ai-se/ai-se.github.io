@@ -8,7 +8,7 @@ excerpt: When reasoning, we have to think smarter, not faster.
 _With [Xipeng Shen](http://people.engr.ncsu.edu/xshen5/)_
 
 <img align=left width=300
-src="{{site.url}}/img/level_.pdf">
+src="{{site.url}}/img/levels_.pdf">
 
 Increasingly, our society and research is making
 more use of computational methods. For example, in
