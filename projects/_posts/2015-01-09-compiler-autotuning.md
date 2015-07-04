@@ -7,8 +7,6 @@ excerpt: When reasoning, we have to think smarter, not faster.
 
 _With [Xipeng Shen](http://people.engr.ncsu.edu/xshen5/)_
 
-<img align=left width=500
-src="{{site.url}}/img/levels_.png">
 
 Increasingly, our society and research is making
 more use of computational methods. For example, in
@@ -38,6 +36,10 @@ _  and_ memory _and_ power while ensuring good output from our
 algorithms.  Hence, current research explores very
 _narrow autotuners_ that explore just a few options while trying to improve
 on just one or two goals.
+
+
+<img align=left width=450
+src="{{site.url}}/img/levels_.png">
 
 This research proposes very _broad autotuning_ that takes
 advantage of the _synergies_ between all those options and goals by
