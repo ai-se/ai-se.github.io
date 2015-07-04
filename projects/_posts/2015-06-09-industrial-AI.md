@@ -1,7 +1,8 @@
 ---
-title:  SEbig lab: validation of industrial AI
+title:  SEbig lab- validation of industrial AI
 layout: page
-excerpt: Learning SE principles for  Commercial Big Data Applications
+
+excerpt: Learning SE principles for Commercial Big Data Applications
 ---
 
 
