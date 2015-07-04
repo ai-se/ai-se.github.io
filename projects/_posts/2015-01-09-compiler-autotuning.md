@@ -7,7 +7,7 @@ excerpt: When reasoning, we have to think smarter, not faster.
 
 _With [Xipeng Shen](http://people.engr.ncsu.edu/xshen5/)_
 
-<img align=left width=300
+<img align=left width=500
 src="{{site.url}}/img/levels_.png">
 
 Increasingly, our society and research is making
