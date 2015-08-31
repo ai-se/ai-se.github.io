@@ -7,7 +7,7 @@ excerpt: Tune your learner before using it
 
 with _Wei Fu,_ NC State
 
-<img align=left width=150 height = 200 src="{{site.url}}/img/tunelearner.png">     
+<img align=left width=300 src="{{site.url}}/img/tunelearner.png">     
 
 One of the “black arts” of data mining is setting the tuning parameters that control the miner. We offer a simple, automatic, and very effective method for finding those tunings.
 
