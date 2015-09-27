@@ -282,7 +282,10 @@ Social Media Styles
 */
 .social-wrapper{
     position: absolute;
-    left: -15px;
+    left: -40px;
+    background-color: #fff;
+    border-bottom-left-radius: 5px;
+    top: 9px;
 }
 
 .social-wrapper a{
