@@ -276,3 +276,15 @@ li {
 }
 
 div.gsc-control-cse { width: 100%; padding:0px; margin:0px;}
+
+/*
+Social Media Styles
+*/
+.social-wrapper{
+    position: absolute;
+    left: -15px;
+}
+
+.social-wrapper a{
+	display: block;
+}
