@@ -286,5 +286,12 @@ Social Media Styles
 }
 
 .social-wrapper a{
-	display: block;
+    display: block;
+    text-decoration: none;
+    border: 0px;
+}
+
+.social-wrapper a img {
+    height: 40px;	
+}
 }
