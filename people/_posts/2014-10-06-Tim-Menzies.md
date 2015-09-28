@@ -6,7 +6,7 @@ excerpt: Lab Director, Ph.D. (UNSW), Professor
 ---
 
  
-<img align=left width=150
+<img align=left
 src="{{site.url}}/img/timm.png"> Tim Menzies (Ph.D.,
 UNSW, 1995) is a full Professor in CS at North
 Carolina State University where he teaches software
