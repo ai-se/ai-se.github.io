@@ -188,6 +188,11 @@ ol.subnav a:hover {
 	font-size:1.3em;
 }
 
+.news-wrapper{
+	overflow-y:scroll;
+	max-height:300px;
+}
+
 p.news {
 	background:#f4f4f4;
 	padding:10px;
@@ -299,4 +304,5 @@ Social Media Styles
 .social-wrapper a img {
     height: 40px;	
 }
-}
+
+
