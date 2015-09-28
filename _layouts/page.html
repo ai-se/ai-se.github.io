@@ -74,7 +74,7 @@ style="font-size: 17px; text-transform: none;  color: #000;">
 
          <h2>Latest News</h2>
            
-          
+          <div class="news-wrapper">
         {% for post in site.categories.news  limit:10 do  %}
             <p class="news">
                <em>
@@ -87,6 +87,7 @@ style="font-size: 17px; text-transform: none;  color: #000;">
 	          <a href="{{post.url}}" class="more">More »</a>  
             </p>
         {% endfor %}
+            </div>
 	     <a href="{{post.url}}" class="more">All the news »</a> 
 
 	 
