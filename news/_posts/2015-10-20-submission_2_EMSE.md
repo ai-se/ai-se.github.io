@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Menzies submits his paper to EMSE 
+title: Relax! Most stats yields the same results
 author: Admin
 excerpt: Submission-EMSE
 ---

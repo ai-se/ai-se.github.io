@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dr. Menzies submits his paper to EMSE 
+title:  Older methods just as good or better than anything else
 author: Admin
 excerpt: Submission-EMSE
 ---
