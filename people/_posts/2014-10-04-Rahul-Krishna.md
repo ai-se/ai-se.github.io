@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rahul Krishna
-excerpt: Member
+excerpt: Ph.D. candidate
 ---
 
  

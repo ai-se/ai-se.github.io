@@ -1,7 +1,7 @@
 ---
 layout: post
 title: George Mathew
-excerpt: Member 
+excerpt: Masters Researcher
 ---
 
  

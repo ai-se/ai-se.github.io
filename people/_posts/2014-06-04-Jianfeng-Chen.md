@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jianfeng Chen
-excerpt: Member 
+excerpt: Ph.D. candidate
 ---
 
  

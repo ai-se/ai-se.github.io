@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amritanshu Agrawal
-excerpt: Member 
+excerpt: Programmer
 ---
 
  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vivek Nair
-excerpt: Member 
+excerpt: Ph.D. candidate
 ---
 
  
