@@ -10,5 +10,5 @@ src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.p
 Ph.D student in Computer Science at North Carolina State University. 
 His interests include Data Mining, Machine learning, and AI. He is working with Dr. Timothy Menzies.
 To know more about him, please visit his [website](http://amritag.wix.com/amrit) 
-and his resume can be downloaded from [here] (http://media.wix.com/ugd/1bf308_e90098584f014deb88d3713c1a3f0a7a.pdf).
+and his resume can be downloaded from [here] (https://drive.google.com/file/d/0B6L_ShRNMys7QzBRczlhd2wzZDg/view?usp=sharing).
 
