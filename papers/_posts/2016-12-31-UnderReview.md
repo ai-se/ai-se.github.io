@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Paper under Review
 author: Admin
 excerpt: Paper under Review
