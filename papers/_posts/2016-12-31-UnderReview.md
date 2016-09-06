@@ -2,7 +2,7 @@
 layout: post
 title: Under Submission
 author: Admin
-excerpt: 
+excerpt: ""
 ---
 + Chen, Jianfeng, et al. "Is" Sampling" better than" Evolution" for Search-based Software Engineering?." arXiv preprint arXiv:1608.07617 (2016). - Submitted to TSE
 + Mathew, George, and Amritanshu Agarwal. "Trends in Topics at SE Conferences (1993-2013)." arXiv preprint arXiv:1608.08100 (2016). - Submitted to ICSE'17
