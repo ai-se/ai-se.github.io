@@ -1,16 +1,16 @@
 ---
 layout: post
 title: George Mathew
-excerpt: Masters Researcher
+excerpt: PhD Student
 ---
 
  
 <img align=left width=150
-src="https://www.linkedin.com/mpr/pub/image-PuRn2wm2jLJ5z7ojgtfTtLmbQNgiiVBL3JuTO9W2x2Uij5LL4uRTOrDmxnciSHgekrq/george-mathew.jpg"> George Mathew is a first 
-year Masters student in CS at North Carolina State University.
-He is a full stack web developer. His prime areas of interests
+src="https://avatars0.githubusercontent.com/u/5582924?v=3&s=460"> George Mathew is a first 
+year PhD student in CS at North Carolina State University.
+He is a full stack software engineer. His prime areas of interests
 are machine learning and software development. In his free time
-he works on his [pet project](http://region.io).
+he works on his [pet project](http://region.io) and maintaining a repository of [optimization algorithms](https://github.com/bigfatnoob/optima).
 To know more about George, visit [his website](http://georgevmathew.com/).
 
 
