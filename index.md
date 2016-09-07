@@ -17,6 +17,7 @@ software engineering.
 
 So researchers at RAISE apply AI to SE applications (as well as
 applying SE to AI). 
+
 + See [our projects](projects).
 
 <img src=http://ai4se.net/img/timm.png height=75 width=75>
