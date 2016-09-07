@@ -29,5 +29,7 @@ applying SE to AI).
 <img src=https://avatars0.githubusercontent.com/u/5582924?v=3&s=460 width=75>
 <img src=http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz height=75 width=75>
 <img src=http://dichen.me/images/Jack.jpg height=75 width=75>
+<img src=http://www4.ncsu.edu/~gferrei/Foto.jpg height=75 width=75>
+
 
 
