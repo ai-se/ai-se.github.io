@@ -14,7 +14,7 @@ Among all the work for analyzing the development of open source projcts in SE fi
 Our experiments on Amazon Mechanical Turk have proved the feasibility of turk workers to analyze comments on Github. Now, we are leveraging the advantages of crowdsourcing and machine learning to analyze thousands of pull request discussions from GitHub, which contains tens of thousands comments. The final target is to find out:
 
 - What's the cause for intense discussion around pull requests? 
-- Are they disapproving the solusions being proposed or the problems being solved? 
+- Are they disapproving the solutions being proposed or the problems being solved? 
 - Do core members always agree with each other? What happens when disagreements happen? 
 - How audience pressure affect pull requests' results? 
-- What role does alert/mention system play? Does that have influence the final results?
+- What role does alert/mention system play? Does that have influenced the final results?
