@@ -31,5 +31,5 @@ applying SE to AI).
 <img src=http://dichen.me/images/Jack.jpg alt="Di Chen" height=75 width=75>
 <img src=http://www4.ncsu.edu/~gferrei/Foto.jpg alt="Guilherme Ferreira" height=75 width=75>
 
-
++ Meet [our people](people);
 
