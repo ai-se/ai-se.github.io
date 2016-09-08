@@ -30,6 +30,7 @@ applying SE to AI).
 <img src=http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz alt="Amritanshu Agrawal" height=75 width=75>
 <img src=http://dichen.me/images/Jack.jpg alt="Di Chen" height=75 width=75>
 <img src=http://www4.ncsu.edu/~gferrei/Foto.jpg alt="Guilherme Ferreira" height=75 width=75>
+<img src=http://ai4se.net/img/hill.jpg alt="Andrew Hill" height=75 width=75>
 
 + Meet [our people](people);
 
