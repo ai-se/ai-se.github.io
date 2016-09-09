@@ -190,7 +190,7 @@ ol.subnav a:hover {
 
 .news-wrapper{
 	overflow-y:scroll;
-	max-height:300px;
+	max-height:1000px;
 }
 
 p.news {
