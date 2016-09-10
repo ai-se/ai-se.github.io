@@ -52,7 +52,7 @@ publications](pubs.html).
 
  <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img width=150 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/shareBookCover.png"></a>&nbsp;<a
  href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width=150 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/asdbookCover.png"></a>&nbsp;<a
-  href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width=150 src="https://github.com/timm/timm.github.io/master/img/perspectivesBook.jpg"></a>
+  href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width=150 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/perspectivesBook.jpg"></a>
 
 <p>
 Career funding= $8M including support from:
@@ -61,7 +61,7 @@ Career funding= $8M including support from:
 <img height=56 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"><img
 height=60   src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"><img
 height=56 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png"><img
-height=56 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/ln.png"><img
+height=56 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/ln.png"><br><img
 height=56 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png"><img
 height=56 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg"><img
 height=56 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png">
