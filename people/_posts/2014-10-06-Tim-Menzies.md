@@ -21,7 +21,6 @@ For more information, see [his
 vita](http://menzies.us) or [his list of
 publications](pubs.html).
 
-# Some stats:
 
 **Funding**
 
@@ -51,9 +50,9 @@ publications](pubs.html).
 
 **Books:**
 
- <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img width=150 src="img/shareBookCover.png"></a>&nbsp;<a
- href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width=150 src="img/asdbookCover.png"></a>&nbsp;<a
- href="https://www.amazon.com/Perspectives-Data-Science-Software-E
+ <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img width=150 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/shareBookCover.png"></a>&nbsp;<a
+ href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width=150 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/asdbookCover.png"></a>&nbsp;<a
+  href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width=150 src="https://github.com/timm/timm.github.io/master/img/perspectivesBook.jpg"></a>
 
 <p>
 Career funding= $8M including support from:
