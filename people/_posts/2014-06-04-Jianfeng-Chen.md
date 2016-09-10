@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Jianfeng Chen
 excerpt: Ph.D. candidate
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Andrew Hill
 excerpt: Ph.D. Student
 ---

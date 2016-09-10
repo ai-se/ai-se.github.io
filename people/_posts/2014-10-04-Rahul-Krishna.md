@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Rahul Krishna
 excerpt: Ph.D. candidate
 ---

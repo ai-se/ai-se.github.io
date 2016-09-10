@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Amritanshu Agrawal
 excerpt: PhD Student
 ---

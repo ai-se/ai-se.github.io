@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Vivek Nair
 excerpt: Ph.D. candidate
 ---

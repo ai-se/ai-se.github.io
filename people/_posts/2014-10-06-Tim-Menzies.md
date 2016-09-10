@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Tim Menzies
 excerpt: Lab Director, Ph.D. (UNSW), Professor 
 

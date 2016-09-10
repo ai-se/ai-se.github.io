@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Guilherme Ferreira
 excerpt: PhD Student
 ---
