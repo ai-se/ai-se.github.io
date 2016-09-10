@@ -20,7 +20,7 @@ applying SE to AI).
 
 + See [our projects](projects).
 
-<img src=http://ai4se.net/img/timm.png alt="Tim Menzies" height=75 width=75>
+<img href=http://ai4se.net/people/2014/10/06/Tim-Menzies/ src=http://ai4se.net/img/timm.png alt="Tim Menzies" height=75 width=75>
 <img src=http://ai4se.net/img/wei.jpg alt="Wei FU" height=75 width=75>
 <img src=http://ai4se.net/img/rahlk.jpg alt="Rahul Krishna"height=75 width=75>
 <img src=http://ai4se.net/img/vivek.jpg alt="Vivek Nair" height=75 width=75>
