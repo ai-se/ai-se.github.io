@@ -80,7 +80,7 @@ Currently:
 
 - Documenting what was:
        - <a href="http://openscience.us/repo">Methods for open science</a>
-       - <a href="books.html">Textbooks on software science</a>
+       - <a href="http://menzies.us/books.html">Textbooks on software science</a>
        - Belief and proof in software engineering.
 
 - Building what's next:
