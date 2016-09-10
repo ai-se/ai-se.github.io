@@ -17,6 +17,7 @@
 <div id="wrapper1">   
   <div id="wrapper2">
     {% include nav.html %}
+    {% include social_media.html %}
     <div id="header">
      
    
@@ -73,8 +74,8 @@ style="font-size: 17px; text-transform: none;  color: #000;">
 
          <h2>Latest News</h2>
            
-          
-        {% for post in site.categories.news  limit:5 do  %}
+          <div class="news-wrapper">
+        {% for post in site.categories.news  limit:10 do  %}
             <p class="news">
                <em>
                  {{ post.date | date: "%b%-d '%y" }} 
@@ -86,7 +87,8 @@ style="font-size: 17px; text-transform: none;  color: #000;">
 	          <a href="{{post.url}}" class="more">More »</a>  
             </p>
         {% endfor %}
-	     <a href="{{post.url}}" class="more">All the news »</a> 
+            </div>
+	     <a href="http://ai4se.net/news/" class="more">All the news »</a> 
 
 	 
        
