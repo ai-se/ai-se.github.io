@@ -17,10 +17,10 @@ mining for software engineering.  He is the author
 of over 230 referred publications; and is the author of one of the
 100 most cited papers in SE (cites/year).
 
-For more information, see [his
-vita](http://menzies.us) or [his list of
-publications](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en).
+For more information, see:
 
++ [his home page](http://menzies.us) 
++ [his list of publications](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en).
 
 **Funding**
 
