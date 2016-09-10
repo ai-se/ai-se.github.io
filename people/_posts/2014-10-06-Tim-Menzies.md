@@ -19,7 +19,7 @@ of over 230 referred publications; and is the author of one of the
 
 For more information, see [his
 vita](http://menzies.us) or [his list of
-publications](pubs.html).
+publications](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en).
 
 
 **Funding**
