@@ -32,5 +32,7 @@ applying SE to AI).
 <a href=http://ai4se.net/people/2014/05/16/Di-Chen/> <img src=http://dichen.me/images/Jack.jpg alt="Di Chen" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/> <img src=http://www4.ncsu.edu/~gferrei/Foto.jpg alt="Guilherme Ferreira" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/05/14/Andrew-Hill/> <img src=http://ai4se.net/img/hill.jpg alt="Andrew Hill" height=75 width=75></a>
+<a href=http://ai4se.net/people/2014/05/13/Sushma-ravichandran/> <img src=http://ai4se.net/img/sushma.jpg alt="Sushma Ravichandran" height=75 width=75></a>
+
 
 
