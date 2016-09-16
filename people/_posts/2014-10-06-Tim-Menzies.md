@@ -28,7 +28,7 @@ of over 230 referred publications; and is the author of one of the
 - **Papers:**: 250+ refereed [research papers](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao); h-index = 41
 - **Books**: 
 
- <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img width=100 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/shareBookCover.png"></a>&nbsp;<a
- href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width=100 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/asdbookCover.png"></a>&nbsp;<a
-  href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width=100 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/perspectivesBook.jpg"></a>
+ <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img width=120 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/shareBookCover.png"></a>&nbsp;<a
+ href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width=120 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/asdbookCover.png"></a>&nbsp;<a
+  href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width=120 src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/perspectivesBook.jpg"></a>
 
