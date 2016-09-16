@@ -15,11 +15,9 @@ relates to synergies between human and artificial
 intelligence, with particular application to data
 mining for software engineering.  He is the author
 of over 230 referred publications; and is the author of one of the
-100 most cited papers in SE (cites/year). 
+100 most cited papers in SE (cites/year).  For more information, see [his home page](http://menzies.us)  or [his list of publications](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en). Also:
 
-For more information, see [his home page](http://menzies.us)  or [his list of publications](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en). Also:
-
-+**Funding**: $8M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-) from  NSF, NIJ, DoD, NASA, NARA, USDA, LEXIS NEXIS, GRAMMATECH and others.
++ **Funding**: $8M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-) from  NSF, NIJ, DoD, NASA, NARA, USDA, LEXIS NEXIS, GRAMMATECH and others.
 + **Grad students:**: 8 + 23 graduated [Ph.D. + masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing); and 10 + 1 current Ph.D. + masters;
 + **Editorial boards:**: TSE, EMSE, IST, ASE, SQJ, Big Data journal
 + **Conference Work**
