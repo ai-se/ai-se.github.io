@@ -127,7 +127,6 @@ p.description a:hover {
 #sidebar {	
 	width:230px;
 	float:right;
-	background:url(sidebar.jpg) top right no-repeat #fff;
 	padding:10px 20px 10px 10px;
 	margin: 0;
 }
