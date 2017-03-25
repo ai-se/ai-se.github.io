@@ -6,8 +6,6 @@ excerpt: ""
 ---
 + Rahul Krishna and Tim Menzies. ["Simpler Transfer Learning (Using "Bellwethers")"](https://arxiv.org/abs/1703.06218) arXiv preprint arXiv:1703.06218 (2017). - Submitted to TSE.
 
-+ Rahul Krishna, Tim Menzies, and Lucas Layman. ["Less is More: Minimizing Code Reorganization using XTREE"](https://arxiv.org/abs/1609.03614) arXiv preprint arXiv:1609.03614 (2016). - Submitted to IST.
-
 + Chen, Jianfeng, et al. ["Is" Sampling" better than" Evolution" for Search-based Software Engineering?."](https://arxiv.org/abs/1608.07617) arXiv preprint arXiv:1608.07617 (2016). - Submitted to TSE.
 
 + George Mathew and Amritanshu Agarwal. ["Trends in Topics at SE Conferences (1993-2013)."](https://arxiv.org/abs/1608.08100) arXiv preprint arXiv:1608.08100 (2016). - Submitted to ICSE'17
