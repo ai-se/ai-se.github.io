@@ -21,7 +21,7 @@ applying SE to AI).
 + See [our projects](projects).
 + Click on a pic to meet [our people](people):
 
-<a href=http://ai4se.net/people/2014/10/06/Tim-Menzies/> <img src=http://ai4se.net/img/timm.png alt="Tim Menzies" height=75 width=75></a>
+<img src=http://ai4se.net/img/timm.png alt="Tim Menzies" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/10/05/Wei-Fu/> <img src=http://ai4se.net/img/wei.jpg alt="Wei FU" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/10/04/Rahul-Krishna/> <img src=http://ai4se.net/img/rahlk.jpg alt="Rahul Krishna"height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/10/03/Vivek-Nair/> <img src=http://ai4se.net/img/vivek.jpg alt="Vivek Nair" height=75 width=75></a>
