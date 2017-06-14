@@ -38,7 +38,7 @@ _narrow autotuners_ that explore just a few options while trying to improve
 on just one or two goals.
 
 
-<img align=left width=450
+<img align="left" width="450"
 src="{{site.url}}/img/levels_.png">
 
 This research proposes very _broad autotuning_ that takes

@@ -7,7 +7,7 @@ excerpt: Faster multi-objective optimization
 
 with _Joseph Krall,_, WVU
 
-<img align=left width=300 
+<img align="left" width="300" 
 src="{{site.url}}/img/gale.png">
 Multi-objective evolutionary algorithms
 (MOEAs) help software engineers find novel solutions

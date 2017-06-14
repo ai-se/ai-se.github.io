@@ -8,7 +8,7 @@ excerpt: Sharing data, without revealing private data
 
 with _Fayola Peters_, Lero, Irish SE Research Centre
 
-<img align=left width=150 src="{{site.baseurl}}/img/lace.png">
+<img align="left" width="150" src="{{site.baseurl}}/img/lace.png">
 Before a community can learn general principles, it
 must share individual experiences. A wide range of
 privacy con- siderations complicates sharing of data

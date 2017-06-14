@@ -7,7 +7,7 @@ excerpt: Decades old COCOMO still works well
 
 with _Barry Boehm, Ye Yang, Jairus Hihn,_ from USC, Stevens Institute,  JPL
 
-<img align=left width=150 src="{{site.baseurl}}/img/cocreport.png">
+<img align="left" width="150" src="{{site.baseurl}}/img/cocreport.png">
 The longevity of parametric effort estimation is
 remarkable. Decades after their invention, these
 methods are still both widely used and widely
