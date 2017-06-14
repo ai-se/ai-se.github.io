@@ -20,7 +20,7 @@ applying SE to AI).
 
 + See [our projects](projects).
 + Click on a pic to meet [our people](people):
-```html
+
 <a href=http://ai4se.net/people/2014/10/06/Tim-Menzies/> <img src=http://ai4se.net/img/timm.png alt="Tim Menzies" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/10/05/Wei-Fu/> <img src=http://ai4se.net/img/wei.jpg alt="Wei FU" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/10/04/Rahul-Krishna/> <img src=http://ai4se.net/img/rahlk.jpg alt="Rahul Krishna" height=75 width=75></a>
@@ -32,6 +32,6 @@ applying SE to AI).
 <a href=http://ai4se.net/people/2014/05/16/Di-Chen/> <img src=http://dichen.me/images/Jack.jpg alt="Di Chen" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/> <img src=http://www4.ncsu.edu/~gferrei/Foto.jpg alt="Guilherme Ferreira" height=75 width=75></a>
 <a href=http://ai4se.net/people/2014/05/13/Sushma-ravichandran/> <img src=http://ai4se.net/img/sushma.jpg alt="Sushma Ravichandran" height=75 width=75></a>
-```
+
 
 
