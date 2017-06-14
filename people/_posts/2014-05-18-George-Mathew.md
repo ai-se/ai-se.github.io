@@ -5,7 +5,7 @@ excerpt: PhD Student
 ---
 
  
-<img align=left width=150
+<img align="left" width="150"
 src="https://avatars0.githubusercontent.com/u/5582924?v=3&s=460"> George Mathew is a first 
 year PhD student in CS at North Carolina State University.
 He is a full stack software engineer. His prime areas of interests
