@@ -31,8 +31,6 @@ url: "http://ai4se.net"
 # If you don't have it install it via gem install rdiscount
 #markdown: kramdown 
 markdown: kramdown
-kramwdown:
-  parse_block_html: true
 # pygments: true
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
