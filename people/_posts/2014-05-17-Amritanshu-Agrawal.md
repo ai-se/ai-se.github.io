@@ -10,5 +10,5 @@ src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.p
 Ph.D student in Computer Science at North Carolina State University. 
 His interests include Topic Modelling, Text Mining and Machine learning. He is working with Dr. Timothy Menzies.
 To know more about him, please visit his [website](http://amritag.wixsite.com/amrit) 
-and his resume can be downloaded from [here] (http://tiny.cc/amritag).
+and his resume can be downloaded from [here](http://tiny.cc/amritag).
 
