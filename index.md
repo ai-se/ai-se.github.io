@@ -32,6 +32,7 @@ applying SE to AI).
 <a href="{{site.url}}/people/2014/05/16/Di-Chen/"> <img src="http://dichen.me/images/Jack.jpg" alt="Di Chen" height="75" width="75"></a>
 <a href="{{site.url}}/people/2014/05/15/Guilherme-Ferreira/"> <img src="http://www4.ncsu.edu/~gferrei/Foto.jpg" alt="Guilherme Ferreira" height="75" width="75"></a>
 <a href="{{site.url}}/people/2014/05/13/Sushma-ravichandran/"> <img src="{{site.url}}/img/sushma.jpg" alt="Sushma Ravichandran" height="75" width="75"></a>
+<a href="{{site.url}}/people/2014/05/12/Huy-Tu/"> <img src="{{site.url}}/img/huy.jpg" alt="Huy Tu" height="75" width="75"></a>
 
 
 
