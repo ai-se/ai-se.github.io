@@ -106,7 +106,7 @@ body {
 }
 
 p.description {
-	background:url(description1.jpg) left top no-repeat;
+	background:url(description1.jpg) top no-repeat;
 ##005A97;
 	padding:10px 10px 40px 10px;
 	color:#fff;
