@@ -30,5 +30,5 @@ applying SE to AI).
 <a href="{{site.url}}/people/2015/08/30/Zhe-Yu/"> <img src="{{site.url}}/img/Zhe.jpg" alt="Zhe Yu" height="75"  width="75"></a>
 <a href="{{site.url}}/people/2015/09/01/Amritanshu-Agrawal/"> <img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz" alt="Amritanshu Agrawal" height="75" width="75"></a>
 <a href="{{site.url}}/people/2016/01/20/Di-Chen/"> <img src="http://dichen.me/images/Jack.jpg" alt="Di Chen" height="75" width="75"></a>
-<a href="{{site.url}}/people/2014/05/15/Guilherme-Ferreira/"> <img src="http://www4.ncsu.edu/~gferrei/Foto.jpg" alt="Guilherme Ferreira" height="75" width="75"></a>
-<a href="{{site.url}}/people/2014/09/03/Junjie-Wang/"> <img src="{{site.url}}/img/wang.jpg" alt="Junjie wang" height="75" width="75"></a>
+<a href="{{site.url}}/people/2016/01/25/Guilherme-Ferreira/"> <img src="http://www4.ncsu.edu/~gferrei/Foto.jpg" alt="Guilherme Ferreira" height="75" width="75"></a>
+<a href="{{site.url}}/people/2017/09/03/Junjie-Wang/"> <img src="{{site.url}}/img/wang.jpg" alt="Junjie wang" height="75" width="75"></a>
