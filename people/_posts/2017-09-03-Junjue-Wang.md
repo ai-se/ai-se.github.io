@@ -2,7 +2,6 @@
 layout: page
 title: Junjie Wang
 excerpt: Visting Scholor, Chinese Academy of Science
-
 ---
 
  
