@@ -21,7 +21,7 @@ applying SE to AI).
 + See [our projects](projects).
 + Click on a pic to meet [our people](people):
 
-You can find us at *room number 3240 of the Engineering Building 2 of N.C. State University.*
+You can find us at **EB2- 3240** at N.C. State's centennial campus.
 
 <a href="{{site.url}}/people/2014/08/15/Tim-Menzies/"> <img src="{{site.url}}/img/timm.png" alt="Tim Menzies" height="75" width="75"></a>
 <a href="{{site.url}}/people/2014/09/30/Wei-Fu/"> <img src="{{site.url}}/img/wei.jpg" alt="Wei FU" height="75" width="75"></a>
