@@ -3,7 +3,7 @@ title: Exploring AI and SE synergies
 layout: page
 ---
 
-The NcState RAISE research lab explores the synergy between AI and
+The N.C. State RAISE research lab explores the synergy between AI and
 software engineering.
 
 + As SE is asked to answer
@@ -20,6 +20,8 @@ applying SE to AI).
 
 + See [our projects](projects).
 + Click on a pic to meet [our people](people):
+
+You can find us at *room number 3240 of the Engineering Building 2 of N.C. State University.*
 
 <a href="{{site.url}}/people/2014/08/15/Tim-Menzies/"> <img src="{{site.url}}/img/timm.png" alt="Tim Menzies" height="75" width="75"></a>
 <a href="{{site.url}}/people/2014/09/30/Wei-Fu/"> <img src="{{site.url}}/img/wei.jpg" alt="Wei FU" height="75" width="75"></a>
