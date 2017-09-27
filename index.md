@@ -21,8 +21,6 @@ applying SE to AI).
 + See [our projects](projects).
 + Click on a pic to meet [our people](people):
 
-You can find us at **EB2- 3240** at N.C. State's centennial campus.
-
 <a href="{{site.url}}/people/2014/08/15/Tim-Menzies/"> <img src="{{site.url}}/img/timm.png" alt="Tim Menzies" height="75" width="75"></a>
 <a href="{{site.url}}/people/2014/09/30/Wei-Fu/"> <img src="{{site.url}}/img/wei.jpg" alt="Wei FU" height="75" width="75"></a>
 <a href="{{site.url}}/people/2014/10/04/Rahul-Krishna/"> <img src="{{site.url}}/img/rahlk.jpg" alt="Rahul Krishna" height="75" width="75"></a>
@@ -34,3 +32,6 @@ You can find us at **EB2- 3240** at N.C. State's centennial campus.
 <a href="{{site.url}}/people/2016/01/20/Di-Chen/"> <img src="http://dichen.me/images/Jack.jpg" alt="Di Chen" height="75" width="75"></a>
 <a href="{{site.url}}/people/2016/01/25/Guilherme-Ferreira/"> <img src="http://www4.ncsu.edu/~gferrei/Foto.jpg" alt="Guilherme Ferreira" height="75" width="75"></a>
 <a href="{{site.url}}/people/2017/09/03/Junjie-Wang/"> <img src="{{site.url}}/img/wang.jpg" alt="Junjie wang" height="75" width="75"></a>
+
+You can find us at **EB2- 3240** at N.C. State's centennial campus.
+<img src="{{site.url}}/img/timm.png" alt="Tim Menzies" height="100" width="400">
