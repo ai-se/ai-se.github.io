@@ -34,4 +34,4 @@ applying SE to AI).
 <a href="{{site.url}}/people/2017/09/03/Junjie-Wang/"> <img src="{{site.url}}/img/wang.jpg" alt="Junjie wang" height="75" width="75"></a>
 
 You can find us at **EB2- 3240** at N.C. State's centennial campus.
-<img src="{{site.url}}/img/labpic.JPG" alt="Lab Picture" height="250" width="500">
+<img src="{{site.url}}/img/labpic.JPG" alt="Lab Picture" height="200" width="450">
