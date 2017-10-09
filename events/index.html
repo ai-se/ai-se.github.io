@@ -30,12 +30,29 @@ Every Wednesday<br>
 </div>
 
 <div class="span3">
-<h3>Next week's paper (Oct 4th, 2017)</h3>
+<h3>Next week's paper (Oct 11th, 2017)</h3>
 <h4>
-	<a href="http://www.se.uni-hannover.de/pub/File/pdfpapers/Pham2012.pdf" target="_blank">Creating a shared understanding of testing culture on a social coding site</a>
+	<a href="http://www.cs.yale.edu/homes/zhai-ennan/configv-oopsla17.pdf" target="_blank">Synthesizing Configuration File Specifications with Association Rule Learning</a>
 </h4>
 <p>
-	<h5 style="text-align:justify">Many software development projects struggle with creating and communicating a testing culture that is appropriate for the project's needs. This may degrade software quality by leaving defects undiscovered. Previous research suggests that social coding sites such as GitHub provide a collaborative environment with a high degree of social transparency. This makes developers' actions and interactions more visible and traceable. We conducted interviews with 33 active users of GitHub to investigate how the increased transparency found on GitHub influences developers' testing behaviors. Subsequently, we validated our findings with an online questionnaire that was answered by 569 members of GitHub. We found several strategies that software developers and managers can use to positively influence the testing behavior in their projects. However, project owners on GitHub may not be aware of them. We report on the challenges and risks caused by this and suggest guidelines for promoting a sustainable testing culture in software development projects.</h5></p>
+	<h5 style="text-align:justify">
+		System failures resulting from configuration errors are one of the major reasons for the compromised
+reliability of today’s software systems. Although many techniques have been proposed for configuration error
+detection, these approaches can generally only be applied after an error has occurred. Proactively verifying
+configuration files is a challenging problem, because 1) software configurations are typically written in poorly
+structured and untyped “languages”, and 2) specifying rules for configuration verification is challenging in
+practice. This paper presents ConfigV, a verification framework for general software configurations. Our
+framework works as follows: in the pre-processing stage, we first automatically derive a specification. Once we
+have a specification, we check if a given configuration file adheres to that specification. The process of learning
+a specification works through three steps. First, ConfigV parses a training set of configuration files (not
+necessarily all correct) into a well-structured and probabilistically-typed intermediate representation. Second,
+based on the association rule learning algorithm, ConfigV learns rules from these intermediate representations.
+These rules establish relationships between the keywords appearing in the files. Finally, ConfigV employs
+rule graph analysis to refine the resulting rules. ConfigV is capable of detecting various configuration errors,
+including ordering errors, integer correlation errors, type errors, and missing entry errors. We evaluated
+ConfigV by verifying public configuration files on GitHub, and we show that ConfigV can detect known
+configuration errors in these files.
+	</h5></p>
 </div>
 <h3>Do you have paper for us to read?</h3>
 <p>We maintain a list of papers we read every week <a href="http://tiny.cc/raise_read" target="_blank">here</a>. If you have more recommendations please submit your recommendations <a href="https://goo.gl/forms/PXF1CJhuoDfL6zLK2" target="_blank">here</a>.</p>	
