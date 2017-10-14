@@ -32,11 +32,13 @@ Every Wednesday<br>
 <div class="span3">
 <h3>Next week's paper (Oct 18th, 2017)</h3>
 <h4>
-	<a href="https://github.com/ai-se/ai-se.github.io/files/1376475/p1487-golovin.pdf" target="_blank">Google Vizier: A Service for Black-Box Optimization</a>
+	<a href="http://dl.acm.org/authorize?N33461">An Efficient Bandit Algorithm for Realtime Multivariate Optimization</a>
 </h4>
 <p>
 	<h5 style="text-align:justify">
-		Any sufficiently complex system acts as a black box when it becomes easier to experiment with than to understand. Hence, black-box optimization has become increasingly important as systems have become more complex. In this paper we describe Google Vizier, a Google-internal service for performing black-box optimization that has become the de facto parameter tuning engine at Google. Google Vizier is used to optimize many of our machine learning models and other systems, and also provides core capabilities to Google’s Cloud Machine Learning HyperTune subsystem. We discuss our requirements, infrastructure design, underlying algorithms, and advanced features such as transfer learning and automated early stopping that the service provides.
+		Optimization is commonly employed to determine the content of web pages, such as to maximize conversions on landing pages or click-through rates on search engine result pages. Often the layout of these pages can be decoupled into several separate decisions. For example, the composition of a landing page may involve deciding which image to show, which wording to use, what color background to display, etc. Such optimization is a combinatorial problem over an exponentially large decision space. Randomized experiments do not scale well to this setting, and therefore, in practice, one is typically limited to optimizing a single aspect of a web page at a time. This represents a missed opportunity in both the speed of experimentation and the exploitation of possible interactions between layout decisions
+
+Here we focus on multivariate optimization of interactive web pages. We formulate an approach where the possible interactions between different components of the page are modeled explicitly. We apply bandit methodology to explore the layout space efficiently and use hill-climbing to select optimal content in realtime. Our algorithm also extends to contextualization and personalization of layout selection. Simulation results show the suitability of our approach to large decision spaces with strong interactions between content. We further apply our algorithm to optimize a message that promotes adoption of an Amazon service. After only a single week of online optimization, we saw a 21% conversion increase compared to the median layout. Our technique is currently being deployed to optimize content across several locations at Amazon.com.
 	</h5></p>
 </div>
 <h3>Do you have paper for us to read?</h3>
