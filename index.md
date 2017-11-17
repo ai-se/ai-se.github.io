@@ -32,6 +32,8 @@ applying SE to AI).
 <a href="{{site.url}}/people/2016/01/20/Di-Chen/"> <img src="http://dichen.me/images/Jack.jpg" alt="Di Chen" height="75" width="75"></a>
 <!--<a href="{{site.url}}/people/2016/01/25/Guilherme-Ferreira/"> <img src="http://www4.ncsu.edu/~gferrei/Foto.jpg" alt="Guilherme Ferreira" height="75" width="75"></a>-->
 <a href="{{site.url}}/people/2017/09/03/Junjie-Wang/"> <img src="{{site.url}}/img/wang.jpg" alt="Junjie wang" height="75" width="75"></a>
+<a href="{{site.url}}/people/2017/09/01/Tianpei-Xia/"> <img src="{{site.url}}/img/Patrick.png" alt="Tianpei-Xia" height="75" width="75"></a>
+<a href="{{site.url}}/people/2017/09/02/Huy-Tu/"> <img src="{{site.url}}/img/huy.jpg" alt="Huy-Tu" height="75" width="75"></a>
 
 You can find us at **EB2- 3240** at N.C. State's centennial campus.
 <a href="{{site.url}}/img/labpic.JPG"><img src="{{site.url}}/img/labpic.JPG" alt="Lab Picture" height="200" width="450"></a>
