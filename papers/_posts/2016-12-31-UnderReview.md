@@ -12,11 +12,17 @@ excerpt: ""
 
 + Akond Rahman, Amritanshu Agrawal, Rahul Krishna, Alexander Sobran and Tim Menzies. ["Continuous Integration: The Silver Bullet?"](https://arxiv.org/pdf/1711.03933.pdf) arXiv preprint arXiv:1711.03933 (2017). - Submitted to ICSE'18 
 
+
 + Amritanshu Agrawal, Akond Rahman, Rahul Krishna, Alexander Sobran and Tim Menzies ["We Don't Need Another Hero? The Impact of "Heroes" on Software Development"](https://arxiv.org/pdf/1710.09055.pdf)  arXiv preprint arXiv:1710.09055. - Submitted to ICSE SEIP'18
+
+
++ Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang ["Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information"] - Submitted to ICSE SEIP'18
 
 + Rahul Krishna, Amritanshu Agrawal, Akond Rahman, Alexander Sobran and Tim Menzies ["What is the Connection Between Issues, Bugs, and Enhancements? (Lessons Learned from 800+ Software Projects)"](https://arxiv.org/pdf/1710.08736.pdf) arXiv preprint arXiv:1710.08736. - Submitted to ICSE SEIP'18
 
 + Rahul Krishna and Tim Menzies. ["Bellwethers: A Baseline Method For Transfer Learning"](https://arxiv.org/abs/1703.06218) arXiv preprint arXiv:1703.06218 (2017). - Submitted to TSE.
+
++ Rahul Krishna and Tim Menzies. ["Leearning Effective Changes for Software Prjects"](https://arxiv.org/pdf/1708.05442.pdf) - Submitted to TOESM
 
 + Vivek Nair, Zhe Yu and Tim Menzies. ["FLASH: A Faster Optimizer for SBSE Tasks"](https://arxiv.org/pdf/1705.05018.pdf) arXiv preprint arXiv:1705.05018 (2017).
 
