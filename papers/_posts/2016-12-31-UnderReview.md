@@ -16,7 +16,7 @@ excerpt: ""
 + Amritanshu Agrawal, Akond Rahman, Rahul Krishna, Alexander Sobran and Tim Menzies ["We Don't Need Another Hero? The Impact of "Heroes" on Software Development"](https://arxiv.org/pdf/1710.09055.pdf)  arXiv preprint arXiv:1710.09055. - Submitted to ICSE SEIP'18
 
 
-+ Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang ["Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information"] - Submitted to ICSE SEIP'18
++ Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang "Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information" - Submitted to ICSE SEIP'18
 
 + Rahul Krishna, Amritanshu Agrawal, Akond Rahman, Alexander Sobran and Tim Menzies ["What is the Connection Between Issues, Bugs, and Enhancements? (Lessons Learned from 800+ Software Projects)"](https://arxiv.org/pdf/1710.08736.pdf) arXiv preprint arXiv:1710.08736. - Submitted to ICSE SEIP'18
 
