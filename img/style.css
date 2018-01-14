@@ -4,7 +4,7 @@ body {
 	padding:0;
 	margin:0;
 	xbackground: #FFF;
-        /*background:url(body.jpg) top repeat-x #121212;*/
+        background:url(body.jpg) top repeat-x #121212;
 	background-attachment:fixed;
 }
 
@@ -15,7 +15,7 @@ body {
 
 #wrapper1 {
 	xbackground:#1e1e1e;
-	background:white;
+	background:black;
 	padding:0 0px 10px 10px;
 	width:760px;
 	margin:0 auto;
@@ -28,9 +28,9 @@ body {
 #wrapper2 {
 	width:740px;
 	background:url(wrapper2.jpg) bottom repeat-x #fff;
-/*	border-left:1px solid #000;
+	border-left:1px solid #000;
 	border-right:1px solid #000;
-	border-bottom:1px solid #000;*/
+	border-bottom:1px solid #000;
 	padding:0 10px 10px 10px;
 	padding-top: -10px;
 	margin-top: -10px;
@@ -41,7 +41,7 @@ body {
 	border: 0;
 	}
 
-#nav { border-top: 15px solid  #CC0303; }
+#nav { border-top: 10px solid  #CC0303; }
 
 #nav a:link,a:visited { 
 	border-radius: 0 0 8px 8px; 
@@ -125,7 +125,6 @@ p.description a {
 p.description a:hover {
 	border-bottom:1px solid #8CD1FF;
 }
-
 
 #sidebar {	
 	width:230px;
@@ -271,7 +270,7 @@ li {
 }
 #footer {
 	text-align:center;
-	/*border-top:2px solid #000;*/
+	border-top:2px solid #000;
 	padding:10px;
 	margin:10px 0 0 0;
 	color:#ccc;
