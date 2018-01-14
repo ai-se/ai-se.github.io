@@ -126,6 +126,28 @@ p.description a:hover {
 	border-bottom:1px solid #8CD1FF;
 }
 
+p.descriptioneve {
+	height: auto;
+	background-size: 720px;
+	background-image:url(reading.jpg);
+	background-repeat: no-repeat;
+	padding:10px 10px 40px 10px;
+	color:#fff;
+	font-size:1.5em;
+	line-height:78px;
+	xborder-top:4px solid #003C64;
+}
+p.descriptioneve a {
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	border-bottom:1px dotted #8CD1FF;
+}
+p.descriptioneve a:hover {
+	border-bottom:1px solid #8CD1FF;
+}
+
+
 #sidebar {	
 	width:230px;
 	float:right;
