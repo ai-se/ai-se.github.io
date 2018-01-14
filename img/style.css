@@ -4,7 +4,7 @@ body {
 	padding:0;
 	margin:0;
 	xbackground: #FFF;
-        background:url(body.jpg) top repeat-x #121212;
+        background:url(bodyw.jpg) top repeat-x #121212;
 	background-attachment:fixed;
 }
 
@@ -15,7 +15,7 @@ body {
 
 #wrapper1 {
 	xbackground:#1e1e1e;
-	background:black;
+	background:white;
 	padding:0 0px 10px 10px;
 	width:760px;
 	margin:0 auto;
