@@ -4,7 +4,7 @@ body {
 	padding:0;
 	margin:0;
 	xbackground: #FFF;
-        background:url(bodyw.jpg) top repeat-x #121212;
+        /*background:url(body.jpg) top repeat-x #121212;*/
 	background-attachment:fixed;
 }
 
@@ -28,9 +28,9 @@ body {
 #wrapper2 {
 	width:740px;
 	background:url(wrapper2.jpg) bottom repeat-x #fff;
-	border-left:1px solid #000;
+/*	border-left:1px solid #000;
 	border-right:1px solid #000;
-	border-bottom:1px solid #000;
+	border-bottom:1px solid #000;*/
 	padding:0 10px 10px 10px;
 	padding-top: -10px;
 	margin-top: -10px;
@@ -41,7 +41,7 @@ body {
 	border: 0;
 	}
 
-#nav { border-top: 10px solid  #CC0303; }
+#nav { border-top: 15px solid  #CC0303; }
 
 #nav a:link,a:visited { 
 	border-radius: 0 0 8px 8px; 
@@ -123,27 +123,6 @@ p.description a {
 	border-bottom:1px dotted #8CD1FF;
 }
 p.description a:hover {
-	border-bottom:1px solid #8CD1FF;
-}
-
-p.descriptioneve {
-	height: auto;
-	background-size: 720px;
-	background-image:url(reading.jpg);
-	background-repeat: no-repeat;
-	padding:10px 10px 40px 10px;
-	color:#fff;
-	font-size:1.5em;
-	line-height:78px;
-	xborder-top:4px solid #003C64;
-}
-p.descriptioneve a {
-	color:#fff;
-	text-decoration:none;
-	font-weight:bold;
-	border-bottom:1px dotted #8CD1FF;
-}
-p.descriptioneve a:hover {
 	border-bottom:1px solid #8CD1FF;
 }
 
@@ -292,7 +271,7 @@ li {
 }
 #footer {
 	text-align:center;
-	border-top:2px solid #000;
+	/*border-top:2px solid #000;*/
 	padding:10px;
 	margin:10px 0 0 0;
 	color:#ccc;
