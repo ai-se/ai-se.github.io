@@ -57,10 +57,11 @@ style="font-size: 17px; text-transform: none;  color: #000;">
           <div class="news-wrapper">
         {% for post in site.categories.news  limit:10 do  %}
             <p class="news">
-               <b><em>
-                 {{ post.date | date: "%b %d, %Y" }} ::
-               </em></b>
-		 {{   post.title}}
+               
+		 <font color="#CC0303">
+     <b><em>{{ post.date | date: "%b %d, %Y"}}
+               </em></b></font>&nbsp
+               {{post.title}}
 	          <a href="{{post.url}}" class="more">More »</a>  
             </p>
         {% endfor %}
