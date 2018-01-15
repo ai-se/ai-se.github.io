@@ -19,6 +19,7 @@ So researchers at RAISE apply AI to SE applications (as well as
 applying SE to AI). 
 
 + See [our projects](projects).
++ Visit our [github page](https://github.com/ai-se).
 + Click on a pic to meet [our people](people):
 
 <a href="{{site.url}}/people/2014/08/15/Tim-Menzies/"> <img src="{{site.url}}/img/timm.png" alt="Tim Menzies" height="75" width="75"></a>
