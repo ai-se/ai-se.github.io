@@ -30,16 +30,14 @@ Every Wednesday<br>
 </div>
 
 <div class="span3">
-<h3>Next week's paper (Jan 10, 2018)</h3>
+<h3>Next week's paper (Jan 17, 2018)</h3>
 <h4>
-	<a href="https://arxiv.org/abs/1709.07101">FairFuzz: Targeting Rare Branches to Rapidly Increase Greybox Fuzz Testing Coverage
-
-
-</a>
+	<a href="https://arxiv.org/abs/1709.07101">The Plastic Surgery Hypothesis</a>
 </h4>
 <p>
 	<h5 style="text-align:justify">
-In recent years, fuzz testing has proven itself to be one of the most effective techniques for finding correctness bugs and security vulnerabilities in practice. One particular fuzz testing tool, American Fuzzy Lop or AFL, has become popular thanks to its ease-of-use and bug-finding power. However, AFL remains limited in the depth of program coverage it achieves, in particular because it does not consider which parts of program inputs should not be mutated in order to maintain deep program coverage. We propose an approach, FairFuzz, that helps alleviate this limitation in two key steps. First, FairFuzz automatically prioritizes inputs exercising rare parts of the program under test. Second, it automatically adjusts the mutation of inputs so that the mutated inputs are more likely to exercise these same rare parts of the program. We conduct evaluation on real-world programs against state-of-the-art versions of AFL, thoroughly repeating experiments to get good measures of variability. We find that on certain benchmarks FairFuzz shows significant coverage increases after 24 hours compared to state-of-the-art versions of AFL, while on others it achieves high program coverage at a significantly faster rate		</h5></p>
+	Recent work on genetic-programming-based approaches to automatic program patching have relied on the insight that the content of new code can often be assembled out of fragments of code that already exist in the code base. This insight has been dubbed the plastic surgery hypothesis; successful, well-known automatic repair tools such as GenProg rest on this hypothesis, but it has never been validated. We formalize and validate the plastic surgery hypothesis and empirically measure the extent to which raw material for changes actually already exists in projects. In this paper, we mount a large-scale study of several large Java projects, and examine a history of 15,723 commits to determine the extent to which these commits are graftable, i.e., can be reconstituted from existing code, and find an encouraging degree of graftability, surprisingly independent of commit size and type of commit. For example, we find that changes are 43% graftable from the exact version of the software being changed. With a view to investigating the difficulty of finding these grafts, we study the abundance of such grafts in three possible sources: the immediately previous version, prior history, and other projects. We also examine the contiguity or chunking of these grafts, and the degree to which grafts can be found in the same file. Our results are quite promising and suggest an optimistic future for automatic program patching methods that search for raw material in already extant code in the project being patched.
+	</h5></p>
 </div>
 <h3>Do you have paper for us to read?</h3>
 <p>We maintain a list of papers we read every week <a href="http://tiny.cc/raise_read" target="_blank">here</a>. If you have more recommendations please submit your recommendations <a href="https://goo.gl/forms/PXF1CJhuoDfL6zLK2" target="_blank">here</a>.</p>	
