@@ -1,0 +1,9 @@
+<script type="text/javascript">
+	var title = document.getElementsByTagName("title")[0].innerHTML;	
+	var filename = "nov-16-17.jpg";
+	if (title.includes("Contact"))
+		{filename="labpic.JPG"}
+	if (title.includes("Events"))
+		{filename="reading.jpg"}
+	document.write("<img src={{site.url}}/img/" + filename + " width=\"1000px\">")
+</script>

@@ -1,5 +1,5 @@
 body {
-	font: 75%/1.6em "Lucida Grande", "Lucida Sans Unicode", verdana, geneva, sans-serif;
+	font: 75%/1.8em "Lucida Grande", "Lucida Sans Unicode", verdana, geneva, sans-serif;
 	color:#222;
 	padding:0;
 	margin:0;
@@ -26,7 +26,7 @@ body {
 }
 
 #wrapper2 {
-	width:740px;
+	width:1000px;
 	background:url(wrapper2.jpg) bottom repeat-x #fff;
 	border-left:1px solid #000;
 	border-right:1px solid #000;
@@ -105,14 +105,14 @@ body {
 	padding:0px 0 0 0;
 }
 
-p.description {
-	height: auto;
-	background-size: 720px;
+/*p.description {
+	height: 430px;
+	background-size: 980px;
 	background-image:url(nov-16-17.jpg);
 	background-repeat: no-repeat;
 	padding:10px 10px 40px 10px;
 	color:#fff;
-	font-size:1.5em;
+	font-size:1.8em;
 	line-height:78px;
 	xborder-top:4px solid #003C64;
 }
@@ -125,9 +125,11 @@ p.description a {
 p.description a:hover {
 	border-bottom:1px solid #8CD1FF;
 }
+*/
+
 
 #sidebar {	
-	width:230px;
+	width:400px;
 	float:right;
 	padding:10px 20px 10px 10px;
 	margin: 0;
@@ -136,7 +138,7 @@ p.description a:hover {
 #content {
 	margin:0 260px 0 5px;
 	padding:10px 20px 0 0;
-	background:url(content.jpg) top right no-repeat;
+	/*background:url(content.jpg) top right no-repeat;*/
 }
 
 #content h2 {
