@@ -6,18 +6,11 @@ excerpt: ""
 ---
 + Jianfeng Chen and Tim Menzies ["RIOT: a Novel Stochastic Method for Rapidly Configuring Cloud-Based Workflows"](https://arxiv.org/pdf/1708.08127.pdf) arXiv preprint arXiv:1708.08127 (2017).
 
-+ Zhe Yu and Tim Menzies ["FAST2: a Better Text Miner for Faster Understanding of the SE Literature"](https://arxiv.org/pdf/1705.05420.pdf)
++ Zhe Yu and Tim Menzies ["FAST2: a Better Text Miner for Faster Understanding of the SE Literature"](https://arxiv.org/pdf/1705.05420.pdf) Submitted to TSE.
 
 
-+ Akond Rahman, Amritanshu Agrawal, Rahul Krishna, Alexander Sobran and Tim Menzies. ["Continuous Integration: The Silver Bullet?"](https://arxiv.org/pdf/1711.03933.pdf) arXiv preprint arXiv:1711.03933 (2017).
++ Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang "Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information"
 
-
-+ Amritanshu Agrawal, Akond Rahman, Rahul Krishna, Alexander Sobran and Tim Menzies ["We Don't Need Another Hero? The Impact of "Heroes" on Software Development"](https://arxiv.org/pdf/1710.09055.pdf)  arXiv preprint arXiv:1710.09055. - Submitted to ICSE SEIP'18
-
-
-+ Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang "Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information" - Submitted to ICSE SEIP'18
-
-+ Rahul Krishna, Amritanshu Agrawal, Akond Rahman, Alexander Sobran and Tim Menzies ["What is the Connection Between Issues, Bugs, and Enhancements? (Lessons Learned from 800+ Software Projects)"](https://arxiv.org/pdf/1710.08736.pdf) arXiv preprint arXiv:1710.08736. - Submitted to ICSE SEIP'18
 
 + Rahul Krishna and Tim Menzies. ["Bellwethers: A Baseline Method For Transfer Learning"](https://arxiv.org/abs/1703.06218) arXiv preprint arXiv:1703.06218 (2017). - Submitted to TSE.
 
