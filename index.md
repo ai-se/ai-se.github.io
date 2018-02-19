@@ -32,7 +32,7 @@ applying SE to AI).
 <a href="{{site.url}}/people/2015/09/01/Amritanshu-Agrawal/"> <img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz" alt="Amritanshu Agrawal" height="75" width="75"></a>
 <a href="{{site.url}}/people/2016/01/20/Di-Chen/"> <img src="http://dichen.me/images/Jack.jpg" alt="Di Chen" height="75" width="75"></a>
 <a href="{{site.url}}/people/2017/09/03/Junjie-Wang/"> <img src="{{site.url}}/img/wang.jpg" alt="Junjie wang" height="75" width="75"></a>
-<a href="{{site.url}}/people/2017/09/01/Tianpei-Xia/"> <img src="{{site.url}}/img/Patrick.png" alt="Tianpei-Xia" height="75" width="75"></a>
+<a href="{{site.url}}/people/2017/09/01/Tianpei-Xia/"> <img src="{{site.url}}/img/xia.jpg" alt="Tianpei-Xia" height="75" width="75"></a>
 <a href="{{site.url}}/people/2017/09/02/Huy-Tu/"> <img src="{{site.url}}/img/huy.jpg" alt="Huy-Tu" height="75" width="75"></a>
 <a href="{{site.url}}/people/2018/01/15/dhivya/"> <img src="{{site.url}}/img/dhivya.png" alt="Huy-Tu" height="75" width="75"></a>
 
