@@ -11,9 +11,6 @@ excerpt: ""
 
 + Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang "Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information"
 
-
-+ Rahul Krishna and Tim Menzies. ["Bellwethers: A Baseline Method For Transfer Learning"](https://arxiv.org/abs/1703.06218) arXiv preprint arXiv:1703.06218 (2017). - Submitted to TSE.
-
 + Rahul Krishna and Tim Menzies. ["Learning Effective Changes for Software Prjects"](https://arxiv.org/pdf/1708.05442.pdf) - Submitted to TOESM
 
 + Vivek Nair, Zhe Yu and Tim Menzies. ["FLASH: A Faster Optimizer for SBSE Tasks"](https://arxiv.org/pdf/1705.05018.pdf) arXiv preprint arXiv:1705.05018 (2017).
@@ -28,7 +25,5 @@ excerpt: ""
 
 + Morakot Choetkiertikul, Hoa Khanh Dam, Truyen Tran, Trang Pham, Aditya Ghose and Tim Menzies. ["A deep learning model for estimating story points"](https://arxiv.org/pdf/1609.00489) arXiv preprint arXiv:1609.00489 (2016).
 
-
-+ Agrawal, Amritanshu, Wei Fu, and Tim Menzies. ["What is Wrong with Topic Modeling?(and How to Fix it Using Search-based SE)."](https://arxiv.org/abs/1608.08176) arXiv preprint arXiv:1608.08176 (2016). - Submitted to ICSE'17
 
 + Wei Fu, Vivek Nair, and Tim Menzies. ["Why is Differential Evolution Better than Grid Search for Tuning Defect Predictors?"](http://arxiv.org/abs/1609.02613) arXiv preprint arXiv:1609.02613 (2016). - Submitted to IST
