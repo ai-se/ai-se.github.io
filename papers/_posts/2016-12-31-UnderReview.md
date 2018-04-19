@@ -4,7 +4,6 @@ title: Under Submission
 author: Admin
 excerpt: ""
 ---
-+ Jianfeng Chen and Tim Menzies ["RIOT: a Novel Stochastic Method for Rapidly Configuring Cloud-Based Workflows"](https://arxiv.org/pdf/1708.08127.pdf) arXiv preprint arXiv:1708.08127 (2017).
 
 + Zhe Yu and Tim Menzies ["FAST2: a Better Text Miner for Faster Understanding of the SE Literature"](https://arxiv.org/pdf/1705.05420.pdf) Submitted to TSE.
 
