@@ -33,8 +33,8 @@ applying SE to AI).
 <a href="{{site.url}}/people/2016/01/20/Di-Chen/"> <img src="{{site.url}}/img/jack.jpg" alt="Di Chen" height="75" width="75"></a>
 <a href="{{site.url}}/people/2017/09/03/Junjie-Wang/"> <img src="{{site.url}}/img/wang.jpg" alt="Junjie wang" height="75" width="75"></a>
 <a href="{{site.url}}/people/2017/09/01/Tianpei-Xia/"> <img src="{{site.url}}/img/xia.jpg" alt="Tianpei-Xia" height="75" width="75"></a>
-<a href="{{site.url}}/people/2017/09/02/Huy-Tu/"> <img src="{{site.url}}/img/huy.jpg" alt="Huy-Tu" height="75" width="75"></a>
-<a href="{{site.url}}/people/2018/01/15/dhivya/"> <img src="{{site.url}}/img/dhivya.jpg" alt="Huy-Tu" height="75" width="75"></a>
+<a href="{{site.url}}/people/2017/09/02/Huy-Tu/"> <img src="{{site.url}}/img/huy.jpg" alt="Huy-Tu" height="75"></a>
+<a href="{{site.url}}/people/2018/01/15/dhivya/"> <img src="{{site.url}}/img/dhivya.jpg" alt="dhivya" height="75" width="75"></a>
 
 
 <!-- You can find us at **EB2- 3240** at N.C. State's centennial campus.
