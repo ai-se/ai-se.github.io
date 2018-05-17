@@ -35,7 +35,7 @@ applying SE to AI).
 
 + Former Group Members:
 
-<a href="{{site.url}}/people/2014/05/13/Sushma-ravichandran/"> <img src="{{site.url}}/img/sushma.jpg" alt="sushma" height="75"></a>
+<a href="{{site.url}}/people/2015/05/13/Sushma-ravichandran/"> <img src="{{site.url}}/img/sushma.jpg" alt="sushma" height="75"></a>
 <a href="{{site.url}}/people/2016/01/20/Di-Chen/"> <img src="{{site.url}}/img/jack.jpg" alt="Di Chen" height="75" ></a>
 <a href="{{site.url}}/people/2014/09/30/Wei-Fu/"> <img src="{{site.url}}/img/wei.jpg" alt="Wei FU" height="75" ></a>
 
