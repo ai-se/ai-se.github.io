@@ -33,7 +33,7 @@ applying SE to AI).
 <a href="{{site.url}}/people/2017/09/01/Tianpei-Xia/"> <img src="{{site.url}}/img/xia.jpg" alt="Tianpei-Xia" height="75" ></a>
 <a href="{{site.url}}/people/2017/09/02/Huy-Tu/"> <img src="{{site.url}}/img/huy.jpg" alt="Huy-Tu" height="75"></a>
 
-+ Former Group Members:
++ Alumnus:
 
 <a href="{{site.url}}/people/2015/05/13/Sushma-ravichandran/"> <img src="{{site.url}}/img/sushma.jpg" alt="sushma" height="75"></a>
 <a href="{{site.url}}/people/2016/01/20/Di-Chen/"> <img src="{{site.url}}/img/jack.jpg" alt="Di Chen" height="75" ></a>
