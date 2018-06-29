@@ -39,7 +39,7 @@ on just one or two goals.
 
 
 <img align="left" width="450"
-src="{{site.url}}/img/levels_.png">
+src="/img/levels_.png">
 
 This research proposes very _broad autotuning_ that takes
 advantage of the _synergies_ between all those options and goals by

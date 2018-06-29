@@ -7,7 +7,7 @@ excerpt: Faster reasoning about software product lines
 
 with _Abdel Salam Sayyad,_ WVU
 
-<img align="left" width="150" src="{{site.url}}/img/spl.png">
+<img align="left" width="150" src="/img/spl.png">
 Software design is a process of trading off
 competing objectives. In this study, we configure
 software product lines (expressed as feature

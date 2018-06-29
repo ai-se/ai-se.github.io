@@ -8,7 +8,7 @@ excerpt: NSF, SHF, Medium Collaborative number 1302216
 
 _2013 -- 2017_
 
-<img align="left" src="{{site.url}}/img/nsf1v.jpg">
+<img align="left" src="/img/nsf1v.jpg">
 
 The goal of the research is to enable software
 engineers to find software development best
