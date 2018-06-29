@@ -1,51 +1,51 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
-<title> {% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+<title> {{ site.name }}</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" 
-      href="{{url}}/img/style.css" 
-      type="text/css" 
+<link rel="stylesheet"
+      href="{{url}}/img/style.css"
+      type="text/css"
       media="screen,projection" />
   <meta name="description" content="{{site.description}}"/>
   <meta name="author" content="{{site.author}}"/>
-  <link rel="icon" 
-	type="image/ico" 
+  <link rel="icon"
+	type="image/ico"
 	href="{{site.url}}/img/favicon.ico">
 </head>
 <body>
-<div id="wrapper1">   
+<div id="wrapper1">
   <div id="wrapper2">
     {% include nav.html %}
     <!-- {% include social_media.html %} -->
     <div id="header">
-     
-   
+
+
     <table width=100% >
       <tr>
-	 
+
         <td align=left >
           <h1>
             <a href="{{site.url}}">
-               The RAISE Lab <br><span 
+               The RAISE Lab <br><span
 style="font-size: 17px; text-transform: none;  color: #000;">
 (<u>R</u>eal-world <u>A</u>rtifical <u>I</u>ntelligence for <u>S</u>oftware <u>E</u>ngineering.)
 </span>
             </a>
           </h1>
-	
+
         </td>
 	  <td align=right valign=bottom>
-             <img src="{{site.url}}/img/ncstate.png" 
+             <img src="{{site.url}}/img/ncstate.png"
                   width=175>
           </td>
 	  <td align=right valign=left width=55>
-             <img src="{{site.url}}/img/ncsu-logo.png" 
+             <img src="{{site.url}}/img/ncsu-logo.png"
                   width=45>
           </td>
-	   
-	
-        
+
+
+
       </tr>
     </table>
     </div>
@@ -53,28 +53,28 @@ style="font-size: 17px; text-transform: none;  color: #000;">
       {% include landimg.html %}
       <div id="sidebar">
          <h2>Latest News</h2>
-           
+
           <div class="news-wrapper">
         {% for post in site.categories.news  limit:7 do  %}
             <p class="news">
-               
+
 		 <font color="#CC0303">
      <b><em>{{ post.date | date: "%b %d, %Y"}}
                </em></b></font>&nbsp
                {{post.title}}
-	          <a href="{{post.url}}" class="more">More »</a>  
+	          <a href="{{post.url}}" class="more">More »</a>
             </p>
         {% endfor %}
             </div>
-	     <a href="http://ai4se.net/news/" class="more">All the news »</a> 
+	     <a href="{{site.url}}/news/" class="more">All the news »</a>
 
-	 
-       
+
+
       </div>
-      <div id="content">   
-        {% if page.title %} <h1>{{ page.title }}</h1>  {% endif %} 
-        <p><em>{% if page.date %} {{ page.date | date: "%b%-d '%y" }}  {% endif %} 
-        {% if page.author %}  by {{ page.author }}  {% endif %} 
+      <div id="content">
+        {% if page.title %} <h3 style="color: #000000;weight=bold; font-size:20px;font-family:sans-serif;">{{ page.title }}</h3>  {% endif %}
+        <p><em>{% if page.date %} {{ page.date | date: "%b%-d '%y" }}  {% endif %}
+        {% if page.author %}  by {{ page.author }}  {% endif %}
 </em></p>
 
           {{content}}
@@ -86,11 +86,11 @@ style="font-size: 17px; text-transform: none;  color: #000;">
   </div>
 </div>
 <div id="footer">
-  <p><img  align=middle alt="Creative Commons License" 
-              style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> &copy; Creative Commons Attribution 4.0 International License. 
+  <p><img  align=middle alt="Creative Commons License"
+              style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> &copy; Creative Commons Attribution 4.0 International License.
     Design:
        <a href="http://www.sixshootermedia.com">6 Shooter Media</a>.<br>
-          
+
   </p>
 </div>
 <script>

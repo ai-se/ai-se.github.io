@@ -4,7 +4,7 @@ title: Mr. Rahul Krishna submits his paper to ICSE'16
 author: Admin
 excerpt: How to Learn Useful Changes to Software Projects
 ---
-Mr. Rahul Krishna submits his paper titled "How to Learn Useful Changes to Software Projects (to Reduce Runtimes and Software Defects)" to ICSE 2016. This is a joint work with [Dr. Xipeng Shen](http://people.engr.ncsu.edu/xshen5/), [Andrian Marcus](http://www.utdallas.edu/~amarcus/), [Naveen Lekkalapudi](https://www.linkedin.com/in/nave91) and [Lucas Layman](http://www.fc-md.umd.edu/People/LucasLayman). For more see [notes](http://ai4se.net/projects/2014/10/01/40-Cross-Trees/).
+Mr. Rahul Krishna submits his paper titled "How to Learn Useful Changes to Software Projects (to Reduce Runtimes and Software Defects)" to ICSE 2016. This is a joint work with [Dr. Xipeng Shen](http://people.engr.ncsu.edu/xshen5/), [Andrian Marcus](http://www.utdallas.edu/~amarcus/), [Naveen Lekkalapudi](https://www.linkedin.com/in/nave91) and [Lucas Layman](http://www.fc-md.umd.edu/People/LucasLayman). For more see [notes]({{site.url}}/projects/2014/10/01/40-Cross-Trees/).
 
 **Title:** How to Learn Useful Changes to Software Projects (to Reduce Runtimes and Software Defects)
 

@@ -5,7 +5,7 @@ layout: page
 excerpt: For SE data that text mining doesn't work, try crowdsourcing.
 ---
 
-with _[Di (Jack) Chen](http://ai4se.net/people/2014/05/16/Di-Chen/),_ NC State
+with _[Di (Jack) Chen]({{site.url}}/people/2014/05/16/Di-Chen/),_ NC State
      
 <img align="right" width="300"
  src="https://raw.githubusercontent.com/ai-se/ai-se.github.io/master/img/crowdsourcing_cloud.jpg"/>     
