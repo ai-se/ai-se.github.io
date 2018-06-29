@@ -1,6 +1,6 @@
 ---
 title: Exploring AI and SE synergies
-layout: page
+layout: cover
 ---
 
 The N.C. State RAISE research lab explores the synergy between AI and
