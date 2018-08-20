@@ -4,10 +4,11 @@ title: Under Submission
 author: Admin
 excerpt: ""
 ---
++ Tianpei Xia, Rahul Krishna, Jianfeng Chen, George Mathew, Xipeng Shen, Tim Menzies [Hyperparameter Optimization for Effort Estimation](https://arxiv.org/pdf/1805.00336.pdf)
 
 + Wei Fu, Tim Menzies, Di Chen, Amritanshu Agrawal [Building Better Quality Predictors Using "Epsilon-Dominance"](https://arxiv.org/abs/1803.04608)
 
-+ Vivek Nair, Rahul Krishna, Tim Menzies, Pooyan Jamshidi ["Transfer Learning with Bellwethers to find Good Configurations"](https://arxiv.org/abs/1803.03900) 
++ Vivek Nair, Rahul Krishna, Tim Menzies, Pooyan Jamshidi ["Transfer Learning with Bellwethers to find Good Configurations"](https://arxiv.org/abs/1803.03900)
 
 + Rahul Krishna, Suvodeep Majumder, Tim Menzies, Martin Shepperd ["Bad Smells in Software Analytics Papers"](https://arxiv.org/abs/1803.05518)
 
@@ -22,7 +23,7 @@ excerpt: ""
 + Vivek Nair, Zhe Yu and Tim Menzies. ["FLASH: A Faster Optimizer for SBSE Tasks"](https://arxiv.org/pdf/1705.05018.pdf) arXiv preprint arXiv:1705.05018 (2017).
 
 
-+ Di Chen, Kathryn T. Stolee and Tim Menzies. ["Replicating and Scaling up Qualitative Analysis using Crowdsourcing: A Github-based Case Study"](https://arxiv.org/pdf/1702.08571.pdf) 
++ Di Chen, Kathryn T. Stolee and Tim Menzies. ["Replicating and Scaling up Qualitative Analysis using Crowdsourcing: A Github-based Case Study"](https://arxiv.org/pdf/1702.08571.pdf)
 
 + Mitch Rees-Jones, Matthew Martin and Tim Menzies. ["Better Predictors for Issue Lifetime"](https://arxiv.org/pdf/1702.07735.pdf)
 
