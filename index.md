@@ -42,6 +42,13 @@ Former members:
 <a href="/people/2014/09/30/Wei-Fu/"> <img src="/img/wei.jpg" alt="Wei FU" height="75" ></a>
 <a href="/people/2017/09/03/Junjie-Wang/"> <img src="/img/wang.jpg" alt="Junjie wang" height="75" ></a>
 
+Contact:
+
+Contact the lab's director <a
+ href="mailto:{{site.author_email}}">{{site.author}}</a>
+
+ Physical Location: 3240, Engineering Building II, Raleigh, NC 27695
+
 
 <!-- You can find us at **EB2- 3240** at N.C. State's centennial campus.
 <a href="/img/labpic.JPG"><img src="/img/labpic.JPG" alt="Lab Picture" height="200" width="450"></a> -->

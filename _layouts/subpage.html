@@ -21,7 +21,6 @@
 <div id="wrapper1">
   <div id="wrapper2">
     {% include nav.html %}
-    <!-- {% include social_media.html %} -->
     <div id="header">
       <h1>
            The <b><font color="#CC0000">RAISE</font></b> Lab @<a href="https://www.ncsu.edu" ><img src="https://brand.ncsu.edu/img/downloads/logo-08.jpg" alt="NCSU" height="50"></a> <br><span
@@ -34,7 +33,7 @@ style="font-size: 22px; text-transform: none;  color: #000;">
       {% include landimg.html %}
       </div>
       <div id="content">
-        {% if page.title %} <h1>{{ page.title }}</h1>  {% endif %}
+        <!-- {% if page.title %} <h1>{{ page.title }}</h1>  {% endif %} -->
         <p><em>{% if page.date %} {{ page.date | date: "%b%-d '%y" }}  {% endif %}
         {% if page.author %}  by {{ page.author }}  {% endif %}
 </em></p>

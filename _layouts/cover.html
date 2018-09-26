@@ -40,7 +40,6 @@ style="font-size: 22px; text-transform: none;  color: #000;">
           <div class="news-wrapper">
         {% for post in site.categories.news  limit:7 do  %}
             <p class="news">
-
 		 <font color="#CC0303">
      <b><em>{{ post.date | date: "%b %d, %Y"}}
                </em></b></font>&nbsp
@@ -50,19 +49,13 @@ style="font-size: 22px; text-transform: none;  color: #000;">
         {% endfor %}
             </div>
 	     <a href="/news/" class="more">All the news »</a>
-
-
-
       </div>
       <div id="content">
-        {% if page.title %} <h3 style="color: #000000;weight=bold; font-size:20px;font-family:sans-serif;">{{ page.title }}</h3>  {% endif %}
+        <!-- {% if page.title %} <h3 style="color: #000000;weight=bold; font-size:20px;font-family:sans-serif;">{{ page.title }}</h3>  {% endif %} -->
         <p><em>{% if page.date %} {{ page.date | date: "%b%-d '%y" }}  {% endif %}
         {% if page.author %}  by {{ page.author }}  {% endif %}
 </em></p>
-
           {{content}}
-
-
       <div style="clear:both;">&nbsp;</div>
     </div>
     </div>
