@@ -18,11 +18,6 @@ The RAISE lab is a world leader in this area with tools that (e.g.)
 + let humans explore huge sets of documents or software modules to find the "important" parts (i.e. + least/most buggy or least/most interesting for some current goal).
 + open science methods to enable faster scientific exploration in our areas of research
 
-
-See [our projects](projects).
-
-Visit our [github page](https://github.com/ai-se).
-
 Members:
 
 <a href="/people/2014/08/15/Tim-Menzies/"> <img src="/img/timm.png" alt="Tim Menzies" height="75" ></a>
@@ -42,12 +37,12 @@ Former members:
 <a href="/people/2014/09/30/Wei-Fu/"> <img src="/img/wei.jpg" alt="Wei FU" height="75" ></a>
 <a href="/people/2017/09/03/Junjie-Wang/"> <img src="/img/wang.jpg" alt="Junjie wang" height="75" ></a>
 
-Contact:
+<!-- Contact:
 
 Contact the lab's director <a
  href="mailto:{{site.author_email}}">{{site.author}}</a>
 
- Physical Location: 3240, Engineering Building II, Raleigh, NC 27695
+ Physical Location: 3240, Engineering Building II, Raleigh, NC 27695 -->
 
 
 <!-- You can find us at **EB2- 3240** at N.C. State's centennial campus.
