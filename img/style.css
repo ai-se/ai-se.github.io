@@ -6,8 +6,7 @@ body {
   padding: 0;
   margin: 0;
   text-align: justify;
-  /* xbackground: #FFF;
-        background:url(body.jpg) top repeat-x #121212; */
+
   background-attachment: fixed;
 }
 
@@ -49,7 +48,7 @@ body {
 
 #nav a:link, a:visited {
   border-radius: 0 0 8px 8px;
-  padding: 0px 15px;
+  padding: 0px 28px;
 }
 
 #nav ul {
@@ -119,7 +118,7 @@ body {
   margin: 0;
 }
 
-#newselect h2 {
+#hgdiv h2 {
   font: 1.3em Arial;
   color: #121212;
   letter-spacing: -1px;
@@ -127,6 +126,9 @@ body {
   clear: left;
 }
 
+#hgdiv h2 a{
+  color: #CC0000;
+}
 .column {
     float: left;
     width: 33.33%;
@@ -167,13 +169,15 @@ body {
   color: #121212;
   letter-spacing: -1px;
   margin: 10px 0;
-  /* border-bottom: 2px solid #eee; */
   clear: left;
 }
 
 #content h2 a {
+  font: 1.3em Arial;
   color: #121212;
-  text-decoration: none;
+  letter-spacing: -1px;
+  margin: 10px 0;
+  clear: left;
 }
 
 #content p {
