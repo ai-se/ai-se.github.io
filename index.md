@@ -3,13 +3,14 @@ title: Exploring AI and SE synergies
 layout: cover
 ---
 
-Welcome to the next era of software engineering. Now that DevOps is done, what's next? This current generation of software engineers now understand how to apply AI to everyday problems. While this can be applied to traditional SE problems, it can also be used in many other areas. So, working with our industrial and government partners, we ask:
+Welcome to the next era of software engineering. This current generation of software engineers can now easily apply AI to everyday problems. While this can be applied to traditional SE problems, it can also be used in many other areas. So, working with our industrial and government partners, we ask:
 
-"What methodologies, tools, assistants will software engineers need to build, validate, extend and maintain software systems where human and artificial intelligence understand and help each other to solve 21st century engineering and business problems?"
+- <em>What methodologies, tools, assistants will software engineers need to build, validate, extend and maintain software systems where human and artificial intelligence understand and help each other to solve 21st century engineering and business problems?</em>
 
 So we explore systems where humans and AI offer hints to each other on how to quickly solve complex problems. In this work, we avoid complex combinations of existing tools. Rather, our approach is "less, but better" where we refactor existing tools to prune away superfluous details.
 
-The RAISE lab is a world leader in this area with tools that (e.g.)
+The RAISE lab is a world leader in this area with tools that (e.g.):
+
 + tame large scale data collection
 + configure complex systems, very quickly
 + tune data miners to the particulars of the task at hand
