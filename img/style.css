@@ -44,11 +44,12 @@ body {
 
 #nav {
   border-top: 10px solid #CC0303;
+  padding: 0 0px 0px 0px;
 }
 
 #nav a:link, a:visited {
   border-radius: 0 0 8px 8px;
-  padding: 0px 28px;
+  padding: 3px 25px;
 }
 
 #nav ul {
@@ -122,7 +123,7 @@ body {
   font: 1.3em Arial;
   color: #121212;
   letter-spacing: -1px;
-  margin: 10px 0;
+  margin: 10px 10;
   clear: left;
 }
 
@@ -151,7 +152,18 @@ body {
 	border-left:10px solid #FFFFFF;
 }
 
-#newdetail {
+#peoplecontent {
+	font-size:15px;
+	background:#f4f4f4;
+	padding:10px;
+  width: 1000px;
+  /* height: 170px; */
+	margin:0 0 10px 0;
+	border-left:10px solid #FFFFFF;
+}
+
+
+#mores {
 	display:block;
 	text-decoration:none;
 	text-align:justify;
@@ -160,7 +172,7 @@ body {
 
 #content {
   margin: 0px 0px 0 0px;
-  padding: 10px 20px 0 0;
+  padding: 10px 10px 0 0;
   /*background:url(content.jpg) top right no-repeat;*/
 }
 
@@ -252,7 +264,7 @@ p.news a.more {
 }
 
 #sidebar ul li a:hover {
-  color: #0033aa;
+  color: #CC0000;
 }
 
 input {

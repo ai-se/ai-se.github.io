@@ -2,6 +2,7 @@
 title: Exploring AI and SE synergies
 layout: cover
 ---
+## Exploring AI and SE synergies
 
 Welcome to the next era of software engineering. This current generation of software engineers can now easily apply AI to everyday problems. While this can be applied to traditional SE problems, it can also be used in many other areas. So, working with our industrial and government partners, we ask:
 
