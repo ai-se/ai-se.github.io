@@ -78,6 +78,8 @@ a:hover {
   color: #fff;
 }
 
+
+
 #header h1 {
   font: 2.7em Arial;
   letter-spacing: -1px;
@@ -441,3 +443,43 @@ Social Media Styles
 .no-underline {
   text-decoration: none;
 }
+
+.dropbtn {
+    background-color: transparent;
+    color: white;
+    font-family: Helvetica;
+    font-size: 15pt;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: transparent;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #CC0000;
+
+    min-width: 160px;
+    overflow: auto;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    font-family: Helvetica;
+    font-size: 13pt;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #FF0000  ;}
+
+.show {display: block;}

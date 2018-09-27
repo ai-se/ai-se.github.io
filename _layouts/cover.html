@@ -13,9 +13,27 @@
   <meta name="description" content="{{site.description}}" />
   <meta name="author" content="{{site.author}}" />
   <link rel="icon" type="image/ico" href="/img/favicon.ico">
-
-
 </head>
+
+<script>
+  function myFunction() {
+    document.getElementById("codeTopic").classList.toggle("show");
+  }
+
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropbtn')) {
+
+      var dropdowns = document.getElementsByClassName("dropdown-content");
+      var i;
+      for (i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains('show')) {
+          openDropdown.classList.remove('show');
+        }
+      }
+    }
+  }
+</script>
 
 <body>
   <div id="wrapper1">
@@ -37,9 +55,18 @@
       <div>
         <table style="width:100%">
           <tr>
-            <td height="50" bgcolor="#CC0000" align="center"><a id="aox" href="projects">See our projects</bb>
+            <td height="50" bgcolor="#CC0000" align="center"><a id="aox" href="projects">See our projects</td>
+            <td bgcolor="#CC0000" align="center">
+              <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Explore source code</button>
+                <div id="codeTopic" class="dropdown-content">
+                  <a href="https://github.com/search?q=topic%3Acloud+org%3Aai-se&type=Repositories">Cloud</a>
+                  <a href="https://github.com/ai-se?utf8=%E2%9C%93&q=data&type=&language=">Data</a>
+                  <a href="https://github.com/ai-se?utf8=%E2%9C%93&q=tune&type=&language=">Parameter Tuning</a>
+                  <a href="https://github.com/ai-se">All</a>
+                </div>
+              </div>
             </td>
-            <td bgcolor="#CC0000" align="center"><a id="aox" href="https://github.com/ai-se?utf8=✓&q=reproduction&type=&language=">Explore source code</a></td>
             <td bgcolor="#CC0000" align="center"><a id="aox" href="contact">Contact us</a></td>
           </tr>
         </table>
