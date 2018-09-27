@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Tim Menzies
-excerpt: Lab Director, Ph.D. (UNSW), Professor 
+excerpt: Lab Director, Ph.D. (UNSW), Professor
 
 ---
 
- 
+
 <img align="left"
 src="/img/timm.png"> Tim Menzies (Ph.D.,
 UNSW, 1995) is a full Professor in CS at North
@@ -25,10 +25,9 @@ of over 230 referred publications; and is the author of one of the
        - **co-PC-chair:** SSBSE'17, ICSE NEIR'15, ASE'12
        - **PCs:**  ICSE'18, EASE'17, ASE'16, ISSRE'16, SSBSE'16, BIGDSE'16, PROMISE'16
        - **PCs, before:** ICSE, ASE, FSE, ISSRE, HASE, SSBSE, EASE, MSR, RAISE, etc, etc
-- **Papers:**: 250+ refereed [research papers](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao); h-index = 41
-- **Books**: 
+- **Papers:**: 250+ referred [research papers](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao); h-index = 41
+- **Books**:
 
  <a href="https://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img width="120" src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/shareBookCover.png"></a>&nbsp;<a
  href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width="120" src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/asdbookCover.png"></a>&nbsp;<a
   href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width="120" src="https://raw.githubusercontent.com/timm/timm.github.io/master/img/perspectivesBook.jpg"></a>
-
