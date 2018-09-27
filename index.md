@@ -15,10 +15,10 @@ The RAISE lab is a world leader in this area with tools that (e.g.)
 + tune data miners to the particulars of the task at hand
 + learn models from structured and unstructured sources
 + offer plans on what to change in order to improve software quality
-+ let humans explore huge sets of documents or software modules to find the "important" parts (i.e. + least/most buggy or least/most interesting for some current goal).
++ let humans explore huge sets of documents or software modules to find the "important" parts (least/most buggy or least/most interesting for some current goal).
 + open science methods to enable faster scientific exploration in our areas of research
 
-Members:
+<!-- Members:
 
 <a href="/people/2014/08/15/Tim-Menzies/"> <img src="/img/timm.png" alt="Tim Menzies" height="75" ></a>
 <a href="/people/2014/10/04/Rahul-Krishna/"> <img src="/img/rahlk.jpg" alt="Rahul Krishna" height="75" ></a>
@@ -35,7 +35,7 @@ Former members:
 <a href="/people/2015/05/13/Sushma-ravichandran/"> <img src="/img/sushma.jpg" alt="sushma" height="75"></a>
 <a href="/people/2016/01/20/Di-Chen/"> <img src="/img/jack.jpg" alt="Di Chen" height="75" ></a>
 <a href="/people/2014/09/30/Wei-Fu/"> <img src="/img/wei.jpg" alt="Wei FU" height="75" ></a>
-<a href="/people/2017/09/03/Junjie-Wang/"> <img src="/img/wang.jpg" alt="Junjie wang" height="75" ></a>
+<a href="/people/2017/09/03/Junjie-Wang/"> <img src="/img/wang.jpg" alt="Junjie wang" height="75" ></a> -->
 
 <!-- Contact:
 

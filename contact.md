@@ -1,6 +1,6 @@
 ---
 title: Contact us
-layout: subpage
+layout: page
 ---
 
 For more information on the AI for SE lab:

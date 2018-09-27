@@ -34,34 +34,23 @@
         {% include landingCarousel.html %}
       </div>
 
-      <div id="toolbar">
-          <table style="width:100%">
-            <tr>
-              <td height="50" bgcolor="#CC0000" align="center"><a id="aox" href="projects">See our projects</bb></td>
-              <td bgcolor="#CC0000" align="center"><a id="aox" href="https://github.com/ai-se">Explore source code</a></td>
-              <td bgcolor="#CC0000" align="center"><a id="aox" href="contact">Contact us</a></td>
-            </tr>
-          </table>
+      <div>
+        <table style="width:100%">
+          <tr>
+            <td height="50" bgcolor="#CC0000" align="center"><a id="aox" href="projects">See our projects</bb>
+            </td>
+            <td bgcolor="#CC0000" align="center"><a id="aox" href="https://github.com/ai-se">Explore source code</a></td>
+            <td bgcolor="#CC0000" align="center"><a id="aox" href="contact">Contact us</a></td>
+          </tr>
+        </table>
       </div>
 
       <div id="content">
-        <!-- {% if page.title %} <h3 style="color: #000000;weight=bold; font-size:20px;font-family:sans-serif;">{{ page.title }}</h3>  {% endif %} -->
-        <p><em>{% if page.date %} {{ page.date | date: "%b%-d '%y" }} {% endif %}
-            {% if page.author %} by {{ page.author }} {% endif %}
-          </em></p>
         {{content}}
         <div style="clear:both;">&nbsp;</div>
       </div>
     </div>
-  </div>
-  </div>
-  <!-- <div id="footer">
-  <p><img  align=middle alt="Creative Commons License"
-              style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /> &copy; Creative Commons Attribution 4.0 International License.
-    Design:
-       <a href="http://www.sixshootermedia.com">6 Shooter Media</a>.<br>
 
-  </p>
-</div> -->
+    {% include latestnews.html %}
 
 </html>
