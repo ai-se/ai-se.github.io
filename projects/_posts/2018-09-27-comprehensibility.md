@@ -5,7 +5,7 @@ layout: page
 excerpt: Comprehensibility, Actionable, Interpretability of models is equally important
 ---
 
-with _[Amritanshu Agrawal](/people/2014/05/17/Amritanshu-Agrawal/),_ NC State
+with _[Amritanshu Agrawal](/people/2015/09/01/Amritanshu-Agrawal/),_ NC State
      
 <img align="left" width="300"
  src="/img/comprehensibility.png"> 
