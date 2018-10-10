@@ -6,9 +6,11 @@ layout: page
    <h1>PEOPLE</h1>
     <div class="row">
       {% for post in site.categories.people reversed do %}
-      <div class="column" id="peoplecontent">
-        <p>{{post.content}}</p>
-      </div>
+        {% if post.alumni == yes %} <!-- this is the PEOPLE page. not sure why this condition statemnt works. Oct 10 2018 Jianfeng -->
+          <div class="column" id="peoplecontent">
+            <p>{{post.content}}</p>
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
   </div>

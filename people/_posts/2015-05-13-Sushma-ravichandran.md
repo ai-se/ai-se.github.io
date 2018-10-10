@@ -2,6 +2,7 @@
 layout: page
 title: Sushma Ravichandran
 excerpt: Masters' Student
+alumni: yes
 ---
 
 

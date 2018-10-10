@@ -1,0 +1,17 @@
+---
+title: Alumni
+layout: page
+---
+<div id="hgdiv">
+   <h1>ALUMNI</h1>
+   <div class="row">
+     {% for post in site.categories.people reversed do %}
+       {% if post.alumni != yes %} <!-- this is the ALUMNI page. not sure why this condition statemnt works. Oct 10 2018 Jianfeng -->
+         <div class="column" id="peoplecontent">
+           <p>{{post.content}}</p>
+         </div>
+       {% endif %}
+     {% endfor %}
+   </div>
+ </div>
+ </div>
