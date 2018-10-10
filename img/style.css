@@ -144,6 +144,7 @@ a:hover {
 }
 
 #newcontent {
+  font-style: normal;
 	font-size:15px;
 	background:#f4f4f4;
 	padding:10px;
@@ -167,8 +168,9 @@ a:hover {
 #mores {
 	display:block;
 	text-decoration:none;
-	text-align:justify;
+	text-align:left;
 	border:none;
+  font-style: normal;
 }
 
 #content {
