@@ -366,6 +366,15 @@ Social Media Styles
   height: 40px;
 }
 
+#searchbar {
+  width: 70%;
+  font-size: 15px;
+  padding: 3px 3px 3px 3px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+
 #myCarousel {
   margin-left: 0px;
   margin-right: 0px;

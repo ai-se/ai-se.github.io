@@ -30,8 +30,10 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 <mark> Click headers to sort the table.</mark><br>
 Submit new talks <a href="https://github.com/ai-se/ai-se.github.io/edit/master/talks/index.html">using this link</a>  (permission required)<br><br>
 
+<input type="text" id="searchbar" onkeyup="myFunction()" placeholder="Search for sepakers/ titles/..." title="Type in a name">
 
-<table class="sortable" border="0" cellspacing="20" cellpadding="5" frame=hsides >
+
+<table id="talktable" class="sortable" border="0" cellspacing="20" cellpadding="5" frame=hsides >
 <thead>
 	<tr><th width="130">Speaker</th><th width="80">Year</th><th width="150">Type</th><th>Title (link)</th></tr>
 </thead>
