@@ -31,6 +31,7 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2015/09/01/Amritanshu-Agrawal/"> <img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz" alt="Amritanshu Agrawal" height="100" ></a>
 <a href="/people/2017/09/01/Tianpei-Xia/"> <img src="/img/xia.jpg" alt="Tianpei-Xia" height="100" ></a>
 <a href="/people/2017/09/02/Huy-Tu/"> <img src="/img/huy.jpg" alt="Huy-Tu" height="100"></a>
+<a href="/people/2018/11/18/Suvodeep-Majumder/"> <img src="/img/suvodeep.JPG" alt="Suvodeep-Majumder" height="100"></a>
 
 ## FORMER MEMBERS
 <a href="/people/2015/05/13/Sushma-ravichandran/"> <img src="/img/sushma.jpg" alt="sushma" height="100"></a>
