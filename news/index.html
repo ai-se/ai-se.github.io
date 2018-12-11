@@ -6,8 +6,8 @@ layout: page
   <h1>RAISE NEWS</h1>
    <div class="row">
      {% for post in site.categories.news do %}
-     <div class="column" id="newcontent">
-<!--      <div class="column" id="newcontent" style="background-image: url(img/IEEE_logo.jpg); height: 200px; width: 400px; border: 1px solid black;"> -->
+<!--      <div class="column" id="newcontent"> -->
+     <div class="column" id="newcontent" style="background-image: url(img/IEEE_logo.jpg); background-size: contain;">
        <font color="#CC0303" size=3.5>
          <b><em>{{ post.date | date: "%b %d, %Y"}}
          </em></b></font></br>
