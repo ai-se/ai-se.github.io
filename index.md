@@ -32,6 +32,7 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2017/09/01/Tianpei-Xia/"> <img src="/img/xia.jpg" alt="Tianpei-Xia" height="100" ></a>
 <a href="/people/2017/09/02/Huy-Tu/"> <img src="/img/huy.jpg" alt="Huy-Tu" height="100"></a>
 <a href="/people/2018/11/18/Suvodeep-Majumder/"> <img src="/img/suvodeep.JPG" alt="Suvodeep-Majumder" height="100"></a>
+<a href="/people/2018/08/20/Rui-Shu/"> <img src="/img/Rui_Shu.jpg" alt="Rui-Shu" height="100"></a>
 
 ## FORMER MEMBERS
 <a href="/people/2015/05/13/Sushma-ravichandran/"> <img src="/img/sushma.jpg" alt="sushma" height="100"></a>
