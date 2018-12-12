@@ -3,6 +3,7 @@ layout: page
 title: RAISE reading group continous in new semester
 author: Admin
 excerpt: Reading Group
+img: reading.jpg
 ---
 RAISE reading group continued in the new semester on Jan 10, 2018! Jianfeng Chen presented the paper ["FairFuzz: Targeting Rare Branches to Rapidly Increase Greybox Fuzz Testing Coverage"](https://arxiv.org/abs/1709.07101). Dozens of graduate students from the Department of Computer Science and Computer Engineering attended and discussed in the meeting.
 

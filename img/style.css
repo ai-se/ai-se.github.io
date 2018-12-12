@@ -6,7 +6,6 @@ body {
   padding: 0;
   margin: 0;
   text-align: justify;
-
   background-attachment: fixed;
 }
 
@@ -16,8 +15,8 @@ body {
 }
 
 a:hover {
-    /* background-color: yellow; */
-    color: #CC0000;
+  /* background-color: yellow; */
+  color: #CC0000;
 }
 
 #wrapper1 {
@@ -78,8 +77,6 @@ a:hover {
   color: #fff;
 }
 
-
-
 #header h1 {
   font: 2.7em Arial;
   letter-spacing: -1px;
@@ -128,48 +125,48 @@ a:hover {
   clear: left;
 }
 
-#hgdiv h2 a{
+#hgdiv h2 a {
   color: #CC0000;
 }
+
 .column {
-    float: left;
-    width: 33.33%;
+  float: left;
+  width: 33.33%;
 }
 
 /* Clear floats after the columns */
 .row:after {
-    content: "";
-    display: table;
-    clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 
 #newcontent {
   font-style: normal;
-	font-size:15px;
-	background:#f4f4f4;
-	padding:10px;
+  font-size: 15px;
+  background: #f4f4f4;
+  padding: 10px;
   max-width: 250px;
   height: 170px;
-	margin:0 0 10px 0;
-	border-left:10px solid #FFFFFF;
+  margin: 0 0 10px 0;
+  border-left: 10px solid #FFFFFF;
 }
 
 #peoplecontent {
-	font-size:15px;
-	background:#f4f4f4;
-	padding:10px;
+  font-size: 15px;
+  background: #f4f4f4;
+  padding: 10px;
   width: 1000px;
   /* height: 170px; */
-	margin:0 0 10px 0;
-	border-left:10px solid #FFFFFF;
+  margin: 0 0 10px 0;
+  border-left: 10px solid #FFFFFF;
 }
 
-
 #mores {
-	display:block;
-	text-decoration:none;
-	text-align:left;
-	border:none;
+  display: block;
+  text-decoration: none;
+  text-align: left;
+  border: none;
   font-style: normal;
 }
 
@@ -297,12 +294,12 @@ ul {
 li {
   margin: 0 0 0 0px;
   xpadding: 5px;
-  font-size:1.1em;
+  font-size: 1.1em;
 }
 
 #content img {
   padding: 3px;
-  border: 1px solid #eee;
+  /* border: 1px solid #eee; */
   margin: 5px;
 }
 
@@ -372,6 +369,20 @@ Social Media Styles
   padding: 3px 3px 3px 3px;
   border: 1px solid #ddd;
   margin-bottom: 12px;
+}
+
+
+
+ul.newspanel li {
+  display: block;
+  /* text-align: center; */
+  min-height: 166px;
+  width: 800px;
+  /* line-height:2px; */
+  list-style-type: none;
+  border-bottom: 1px dashed;
+  padding: 0;
+  margin: 0;
 }
 
 
@@ -457,41 +468,44 @@ Social Media Styles
 }
 
 .dropbtn {
-    background-color: transparent;
-    color: white;
-    font-family: Helvetica;
-    font-size: 15pt;
-    border: none;
-    cursor: pointer;
+  background-color: transparent;
+  color: white;
+  font-family: Helvetica;
+  font-size: 15pt;
+  border: none;
+  cursor: pointer;
 }
 
 .dropbtn:hover, .dropbtn:focus {
-    background-color: transparent;
+  background-color: transparent;
 }
 
 .dropdown {
-    position: relative;
-    display: inline-block;
+  position: relative;
+  display: inline-block;
 }
 
 .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #CC0000;
-
-    min-width: 160px;
-    overflow: auto;
-    z-index: 1;
+  display: none;
+  position: absolute;
+  background-color: #CC0000;
+  min-width: 160px;
+  overflow: auto;
+  z-index: 1;
 }
 
 .dropdown-content a {
-    color: white;
-    font-family: Helvetica;
-    font-size: 13pt;
-    text-decoration: none;
-    display: block;
+  color: white;
+  font-family: Helvetica;
+  font-size: 13pt;
+  text-decoration: none;
+  display: block;
 }
 
-.dropdown a:hover {background-color: #FF0000  ;}
+.dropdown a:hover {
+  background-color: #FF0000;
+}
 
-.show {display: block;}
+.show {
+  display: block;
+}
