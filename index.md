@@ -24,7 +24,6 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 
 <a href="/people/2014/08/15/Tim-Menzies/"> <img src="/img/timm.png" alt="Tim Menzies" height="100" ></a>
 <a href="/people/2014/10/04/Rahul-Krishna/"> <img src="/img/rahlk.jpg" alt="Rahul Krishna" height="100" ></a>
-<a href="/people/2014/10/15/Vivek-Nair/"> <img src="/img/vivek.jpg" alt="Vivek Nair" height="100" ></a>
 <a href="/people/2014/12/30/George-Mathew/"> <img src="https://avatars0.githubusercontent.com/u/5582924?v=3&s=460" alt="George Mathew" height="100" ></a>
 <a href="/people/2015/08/15/Jianfeng-Chen/"> <img src="/img/chen.jpg" alt="Jianfeng Chen" height="100" ></a>
 <a href="/people/2015/08/30/Zhe-Yu/"> <img src="/img/Zhe.jpg" alt="Zhe Yu" height="100"  ></a>
@@ -40,3 +39,4 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2016/01/20/Di-Chen/"> <img src="/img/jack.jpg" alt="Di Chen" height="100" ></a>
 <a href="/people/2014/09/30/Wei-Fu/"> <img src="/img/wei.jpg" alt="Wei FU" height="100" ></a>
 <a href="/people/2017/09/03/Junjie-Wang/"> <img src="/img/wang.jpg" alt="Junjie wang" height="100" ></a>
+<a href="/people/2014/10/15/Vivek-Nair/"> <img src="/img/vivek.jpg" alt="Vivek Nair" height="100" ></a>

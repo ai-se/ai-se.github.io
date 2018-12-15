@@ -3,6 +3,7 @@ layout: page
 title: Multiple awards at HPCC Summit
 author: Admin
 excerpt: Multiple awards at HPCC Summit
+img: award.jpeg
 ---
 George Mathews won third prize at the 2nd annual HPCC Systems technical poster presentations competition. Along with George, Vivek Nair won the community award for innovative use of HPCC Systems. Dr. Menzies was a part of a panel discussingTalent Gap in Data Science.
 
