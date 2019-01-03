@@ -35,6 +35,7 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2018/11/11/Xueqi-Yang/"> <img src="/img/sherry_yang.jpg" alt="Xueqi-Yang" height="100"></a>
 <a href="/people/2018/12/22/Shrikanth-NC"> <img src="/img/shrikanth.jpg" alt="Shrikanth-NC" height="100"></a>
 <a href="/people/2018/12/29/Joy-Chakraborty"> <img src="/img/joymallya.jpg" alt="Joy-Chakraborty" height="100"></a>
+<a href="/people/2019/02/01/FahmidMorshed-Fahid"> <img src="/img/fahmidmorshed.jpg" alt="FahmidMorshed-Fahid" height="100"></a>
 
 ## FORMER MEMBERS
 <a href="/people/2015/05/13/Sushma-ravichandran/"> <img src="/img/sushma.jpg" alt="sushma" height="100"></a>
