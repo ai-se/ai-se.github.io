@@ -12,7 +12,9 @@ layout: page
     <ul style="list-style: none;" class="newspanel">
       {% for post in year.items %}
       <li>
+        {% if post.img %}
         <p style="float: left;"><img src="/img/{{post.img}}" width="180" height="120"></p>
+        {% endif %}
         <a href="{{ post.url }}" style="color: #c00; font-family:Tahoma;">
           <h4 style="font-size: 16px;">{{ post.title| strip_html| truncatewords: 20 }}</h4>
         </a>

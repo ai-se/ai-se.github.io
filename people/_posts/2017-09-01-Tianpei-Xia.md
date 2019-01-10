@@ -2,6 +2,8 @@
 layout: page
 title: Tianpei (Patrick) Xia
 excerpt: PhD Student
+home: http://xiatianpei.com
+resume: 
 ---
 
 

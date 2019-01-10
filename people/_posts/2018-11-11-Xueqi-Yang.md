@@ -2,6 +2,8 @@
 layout: page
 title: Xueqi (Sherry) Yang
 excerpt: PhD Student
+home: http://xueqi.us
+resume: http://xueqi.us/resume.pdf
 ---
 
 

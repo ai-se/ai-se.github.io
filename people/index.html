@@ -3,15 +3,25 @@ title: People
 layout: page
 ---
 <div id="hgdiv">
-   <h1>PEOPLE</h1>
-    <div class="row">
-      {% for post in site.categories.people reversed do %}
-        {% if post.alumni == yes %} <!-- this is the PEOPLE page. not sure why this condition statemnt works. Oct 10 2018 Jianfeng -->
-          <div class="column" id="peoplecontent">
-            <p>{{post.content}}</p>
-          </div>
+  <h1>PEOPLE</h1>
+  <div class="row">
+    {% for post in site.categories.people reversed do %}
+    {% if post.alumni == yes %}
+    <!-- this is the PEOPLE page. not sure why this condition statemnt works. Oct 10 2018 Jianfeng -->
+    <div class="column" id="peoplecontent">
+      <p>
+        <font face="Arial Black" size="4" color="#cc0000">{{post.title}}</font>
+        {%if post.home %}
+        <font face="Arial Black" size="4" color="black"> | <a href="{{%post.home}}"> Homepage</a></font>
         {% endif %}
-      {% endfor %}
+        {%if post.resume %}
+        <font face="Arial Black" size="4" color="black"> | <a href="{{%post.resume}}"> Resume</a></font>
+        {% endif %}
+      </p>
+      <p>{{post.content}}</p>
     </div>
+    {% endif %}
+    {% endfor %}
   </div>
-  </div>
+</div>
+</div>

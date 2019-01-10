@@ -2,6 +2,8 @@
 layout: page
 title: Joymallya Chakraborty
 excerpt: PhD Student
+home: https://joymallyac.github.io
+resume: https://drive.google.com/file/d/1T13lnlHtUBFvnk8na3tFE3qUPrFIFw7S/view?usp=sharing
 ---
 
 

@@ -2,7 +2,8 @@
 layout: page
 title: Tim Menzies
 excerpt: Lab Director, Ph.D. (UNSW), Professor
-
+home: http://menzies.us
+resume: http://menzies.us/bio.html
 ---
 
 
