@@ -19,7 +19,7 @@ of over 230 referred publications; and is the author of one of the
 100 most cited papers in SE (cites/year).  For more information, see [his home page](http://menzies.us)  or [his list of publications](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en). Also:
 
 - **Funding**: $10M  in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-) from  NSF, NIJ, DoD, NASA, NARA, USDA, LEXIS NEXIS, GRAMMATECH and others.
-- **Grad students:**: Graduated: 10 PhD + 23 masters (by resaerch) (https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing); and 12  current Ph.D.;
+- **Grad students:**: [Graduated: 10 PhD + 23 masters (by resaerch)](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing); and 12  current Ph.D.;
 - **Editorial boards:**: TOSEM,  TSE, EMSE, IST, ASE, SQJ, Big Data journal
 - **Conference Work**
      - **co-General chair:** ICMSE'16
