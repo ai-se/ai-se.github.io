@@ -14,6 +14,8 @@ layout: page
       <li>
         {% if post.img %}
         <p style="float: left;"><img src="/img/{{post.img}}" width="180" height="120"></p>
+        {% else %}
+        <p style="float: left;"><img src="/img/logo.png" height="120"></p>
         {% endif %}
         <a href="{{ post.url }}" style="color: #c00; font-family:Tahoma;">
           <h4 style="font-size: 16px;">{{ post.title| strip_html| truncatewords: 20 }}</h4>
