@@ -80,6 +80,7 @@ a:hover {
 #header h1 {
   font: 2.7em Arial;
   letter-spacing: -1px;
+  width: 100%;
   color: #222;
   float: left;
   padding: 10px 10px 14px 5px;
@@ -452,8 +453,7 @@ ul.newspanel li {
 
 .header {
   color: white;
-  width: 1000px;
-  xxx: 500px;
+  width:  1000px;
   font-family: PT Sans;
   margin-left: 20px;
   font-size: 25px;
