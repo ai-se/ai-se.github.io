@@ -452,7 +452,8 @@ ul.newspanel li {
 
 .header {
   color: white;
-  width: 500px;
+  width: 100%;
+  xxx: 500px;
   font-family: PT Sans;
   margin-left: 20px;
   font-size: 25px;
