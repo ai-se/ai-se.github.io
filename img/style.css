@@ -448,7 +448,7 @@ ul.newspanel li {
   position: absolute;
   bottom: 100px;
   left: 350px;
-  text-align: center;
+  text-align: left;
 }
 
 .header {
