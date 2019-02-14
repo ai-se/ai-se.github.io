@@ -42,8 +42,8 @@ a:hover {
 }
 
 #nav {
-  border-top: 10px solid #CC0303;
-  padding: 0px 0px 0px 0px;
+  /* border-top: 10px solid #CC0303; */
+  padding: 30px 0px 0px 0px;
 }
 
 #nav a:link, a:visited {
@@ -372,8 +372,6 @@ Social Media Styles
   margin-bottom: 12px;
 }
 
-
-
 ul.newspanel li {
   display: block;
   /* text-align: center; */
@@ -385,7 +383,6 @@ ul.newspanel li {
   padding: 0;
   margin: 0;
 }
-
 
 #myCarousel {
   margin-left: 0px;
@@ -453,7 +450,7 @@ ul.newspanel li {
 
 .header {
   color: white;
-  width:  1000px;
+  width: 1000px;
   font-family: PT Sans;
   margin-left: 20px;
   font-size: 25px;
