@@ -202,7 +202,7 @@
 
 @media (min-width:768px) {
   #ncstate-utility-bar .ncstate-utility-bar-wrapper {
-    width: 750px
+    /* width: 750px */
   }
 }
 
