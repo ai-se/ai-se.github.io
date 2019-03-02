@@ -3,7 +3,7 @@ layout: page
 title: Suvodeep Majumder
 excerpt: Master Student
 home: https://www.suvodeepmajumder.us/
-resume:
+resume: https://docs.wixstatic.com/ugd/e2d0e5_06cda4c326b24112abceedc21f8b37e3.pdf
 ---
 
 

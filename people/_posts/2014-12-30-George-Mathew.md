@@ -3,7 +3,7 @@ layout: page
 title: George Mathew
 excerpt: PhD Student
 home: http://bigfatnoob.us/
-resume:
+resume: http://bigfatnoob.us/other-files/resume.pdf
 ---
 
 
