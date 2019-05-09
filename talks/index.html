@@ -1,468 +1,520 @@
 ---
 layout: page
-title:  Talks
+title: Talks
 ---
 <h1>TALKS</h1>
 <style>
-table {
+  table {
     border-collapse: collapse;
     width: 100%;
-}
-th, td {
+  }
+
+  th,
+  td {
     text-align: left;
     padding: 8px;
-}
-tr:nth-child(even) {background-color: #f2f2f2;}
-table thead th { border-bottom: 1px solid #000; background-color: #f0f0f0;}
-table.sortable thead {
-    background-color:#eee;
-    color:#000000;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  table thead th {
+    border-bottom: 1px solid #000;
+    background-color: #f0f0f0;
+  }
+
+  table.sortable thead {
+    background-color: #eee;
+    color: #000000;
     font-weight: bold;
     cursor: default;
-}
-table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
+  }
+
+  table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
     content: " \25B4\25BE"
-}
+  }
 </style>
 <script src="sorttable.js"></script>
 
 
 <mark> Click headers to sort the table.</mark><br>
 
-<input type="text" id="searchbar" onkeyup="myFunction()" placeholder="Search for sepakers/ titles/..." title="Type in a name">
+<input type="text" id="searchbar" onkeyup="myFunction()" placeholder="Search for sepakers/ titles/..."
+  title="Type in a name">
 
 
-<table id="talktable" class="sortable" border="0" cellspacing="20" cellpadding="5" frame=hsides >
-<thead>
-	<tr><th width="130">Speaker</th><th width="80">Year</th><th width="150">Type</th><th>Title (link)</th></tr>
-</thead>
-<tbody>
-<tr>
-	<td>Amritanshu Agrawal</td>
-	<td>2019</td>
-	<td>Final Defense</td>
-	<td><a href="http://tiny.cc/amrit19defense">On the Nature of Software Engineering Data</a></td>
-</tr>
-	
-<tr>
-	<td>Amritanshu Agrawal</td>
-	<td>2019</td>
-	<td>Oral Prelim</td>
-	<td><a href="http://tiny.cc/amrit18oral">On the Nature of Software Engineering Data</a></td>
-</tr>
-	<tr>
-	<td>Tim Menzies</td>
-	<td>2019</td>
-	<td>CS Gateway </td>
-	<td><a href="https://youtu.be/WgoUFyQg4Js">Q What's Wrong with Computational Science Software? A:Nothing</a></td>
-</tr>
-	
-	<tr>
-	<td>Tim Menzies</td>
-	<td>2019</td>
-	<td>CodeFreeze'19 </td>
-	<td><a href="http://tiny.cc/code19">SE for AI for SE (after data mining, what's next)</a></td>
-</tr>
-<tr>
-	<td>Vivek Nair</td>
-	<td>2018</td>
-	<td>Final Defense</td>
-	<td><a href="http://vivekaxl.github.io/assets/vivek-final-defense-ppt.pdf">Frugal Ways of Finding “Good” Configurations</a></td>
-</tr>
-
- <tr>
-    <td>Tim Menzies</td>
-    <td>2018</td>
-    <td>FSE'18</td>
-    <td><a href="https://tiny.cc/timFse18">Applciations of Psychology to Software Analytics
-  </a></td>
-  </tr>
+<table id="talktable" class="sortable" border="0" cellspacing="20" cellpadding="5" frame=hsides>
+  <thead>
+    <tr>
+      <th width="130">Speaker</th>
+      <th width="80">Year</th>
+      <th width="150">Type</th>
+      <th>Title (link)</th>
+    </tr>
+  </thead>
+  <tbody>
 
     <tr>
-    <td>Tim Menzies</td>
+      <td>Jianfeng Chen</td>
+      <td>2019</td>
+      <td>Final Defense</td>
+      <td><a href="http://tiny.cc/jcdefense">On the value of sampling and pruning on SBSE</a></td>
+    </tr>
+
+    <tr>
+      <td>Amritanshu Agrawal</td>
+      <td>2019</td>
+      <td>Final Defense</td>
+      <td><a href="http://tiny.cc/amrit19defense">On the Nature of Software Engineering Data</a></td>
+    </tr>
+
+    <tr>
+      <td>Amritanshu Agrawal</td>
+      <td>2019</td>
+      <td>Oral Prelim</td>
+      <td><a href="http://tiny.cc/amrit18oral">On the Nature of Software Engineering Data</a></td>
+    </tr>
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2019</td>
+      <td>CS Gateway </td>
+      <td><a href="https://youtu.be/WgoUFyQg4Js">Q What's Wrong with Computational Science Software? A:Nothing</a></td>
+    </tr>
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2019</td>
+      <td>CodeFreeze'19 </td>
+      <td><a href="http://tiny.cc/code19">SE for AI for SE (after data mining, what's next)</a></td>
+    </tr>
+    <tr>
+      <td>Vivek Nair</td>
+      <td>2018</td>
+      <td>Final Defense</td>
+      <td><a href="http://vivekaxl.github.io/assets/vivek-final-defense-ppt.pdf">Frugal Ways of Finding “Good”
+          Configurations</a></td>
+    </tr>
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2018</td>
+      <td>FSE'18</td>
+      <td><a href="https://tiny.cc/timFse18">Applciations of Psychology to Software Analytics
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2018</td>
+      <td>EAQSE'18</td>
+      <td><a href="https://tiny.cc/18empse">Empirical SE: status report
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Zhe Yu</td>
+      <td>2018</td>
+      <td>Oral Prelim</td>
+      <td><a href="https://tiny.cc/Zhe_Oral">Total Recall and Software Engineering
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Tianpei (Patrick) Xia</td>
+      <td>2018</td>
+      <td>Written Prelim</td>
+      <td><a href="http://tiny.cc/csc890_xia">Hyperparameter Optimization for Software Effort Estimation
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2018</td>
+      <td>Keynote, FSE 2018</td>
+      <td><a href="http://tiny.cc/fse18">In the age of Software 2.0. what role for software engineers?
+        </a></td>
+
+
+    <tr>
+      <td>Jianfeng Chen</td>
+      <td>2018</td>
+      <td>Seminar, RAISE Lab</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/1U8q3XIGn3dpb0Ifq8NnEaasvVJ7hNeY4OGrInI9ri38/edit?usp=sharing">Summer
+          Internship 2018
+        </a></td>
+
+    <tr>
+      <td>Amritanshu Agrawal</td>
+      <td>2018</td>
+      <td>FSE, SWAN</td>
+      <td><a href="http://tiny.cc/swan18ci"> Characterizing the Influence of Continuous Integration
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2018</td>
+      <td>Seminar, RAISE Lab</td>
+      <td><a href="http://tiny.cc/tim18howl">Anti-Patterns of RAISE research
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Zhe Yu</td>
+      <td>2018</td>
+      <td>Seminar, RAISE Lab</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/17ZZGt7q5qmp_H7sVQghFBAGwyLWDiXF0i4h-BZv6iCo/edit?usp=sharing">Summer
+          Internship 2018
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Amritanshu Agrawal</td>
+      <td>2018</td>
+      <td>Seminar, RAISE Lab</td>
+      <td><a href="http://tiny.cc/amrit18intern">Landing a Successful Job/Internship in Current World!
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Rahul Krishna</td>
+      <td>2018</td>
+      <td>Seminar, Raise Lab</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/1t3RRu1TbMmuBJQMX0D7ZJrcbJzDZJwR1e92YUhD1Wfo/edit?usp=sharing">
+          Eliciting Domain Knowledge
+          from Legacy Systems</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>Rahul Krishna</td>
+      <td>2018</td>
+      <td>ICSE-SEIP</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/1JTXyxjrPKXykEp432qGkKsuS4qQ1eilOxGgmxUiDEGI/edit?usp=sharing">
+          Connection Between Issues, Bugs, and Enhancements
+          (Lessons Learned from 800+ Projects)
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Jianfeng Chen</td>
+      <td>2018</td>
+      <td>IEEE Cloud</td>
+      <td><a href="http://tiny.cc/mickycloud"> Micky: A Cheaper Alternative for Selecting Cloud Instances
+        </a></td>
+    </tr>
+
+
+    <td>Jianfeng Chen</td>
     <td>2018</td>
-    <td>EAQSE'18</td>
-    <td><a href="https://tiny.cc/18empse">Empirical SE: status report
-  </a></td>
-  </tr>
-
-  <tr>
-    <td>Zhe Yu</td>
-    <td>2018</td>
-    <td>Oral Prelim</td>
-    <td><a href="https://tiny.cc/Zhe_Oral">Total Recall and Software Engineering
-  </a></td>
-  </tr>
-
-<tr>
-  <td>Tianpei (Patrick) Xia</td>
-  <td>2018</td>
-  <td>Written Prelim</td>
-  <td><a href="http://tiny.cc/csc890_xia">Hyperparameter Optimization for Software Effort Estimation
-</a></td>
-</tr>
-
-  <tr>
-    <td>Tim Menzies</td>
-    <td>2018</td>
-    <td>Keynote, FSE 2018</td>
-    <td><a href="http://tiny.cc/fse18">In the age of Software 2.0. what role for software engineers?
-  </a></td>
-
-
-<tr>
-  <td>Jianfeng Chen</td>
-  <td>2018</td>
-  <td>Seminar, RAISE Lab</td>
-  <td><a href="https://docs.google.com/presentation/d/1U8q3XIGn3dpb0Ifq8NnEaasvVJ7hNeY4OGrInI9ri38/edit?usp=sharing">Summer Internship 2018
-</a></td>
-
-<tr>
-  <td>Amritanshu Agrawal</td>
-  <td>2018</td>
-  <td>FSE, SWAN</td>
-  <td><a href="http://tiny.cc/swan18ci"> Characterizing the Influence of Continuous Integration
-</a></td>
-</tr>
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2018</td>
-  <td>Seminar, RAISE Lab</td>
-  <td><a href="http://tiny.cc/tim18howl">Anti-Patterns of RAISE research
-</a></td>
-</tr>
-
-<tr>
-  <td>Zhe Yu</td>
-  <td>2018</td>
-  <td>Seminar, RAISE Lab</td>
-  <td><a href="https://docs.google.com/presentation/d/17ZZGt7q5qmp_H7sVQghFBAGwyLWDiXF0i4h-BZv6iCo/edit?usp=sharing">Summer Internship 2018
-</a></td>
-</tr>
-
-<tr>
-  <td>Amritanshu Agrawal</td>
-  <td>2018</td>
-  <td>Seminar, RAISE Lab</td>
-  <td><a href="http://tiny.cc/amrit18intern">Landing a Successful Job/Internship in Current World!
-</a></td>
-</tr>
-
-<tr>
-  <td>Rahul Krishna</td>
-  <td>2018</td>
-  <td>Seminar, Raise Lab</td>
-  <td><a href="https://docs.google.com/presentation/d/1t3RRu1TbMmuBJQMX0D7ZJrcbJzDZJwR1e92YUhD1Wfo/edit?usp=sharing"> Eliciting Domain Knowledge
-from Legacy Systems</a>
-  </td>
-</tr>
-
-<tr>
-  <td>Rahul Krishna</td>
-  <td>2018</td>
-  <td>ICSE-SEIP</td>
-  <td><a href="https://docs.google.com/presentation/d/1JTXyxjrPKXykEp432qGkKsuS4qQ1eilOxGgmxUiDEGI/edit?usp=sharing"> Connection Between Issues, Bugs, and Enhancements
-(Lessons Learned from 800+ Projects)
-</a></td>
-</tr>
-
-<tr>
-  <td>Jianfeng Chen</td>
-  <td>2018</td>
-  <td>IEEE Cloud</td>
-  <td><a href="http://tiny.cc/mickycloud"> Micky: A Cheaper Alternative for Selecting Cloud Instances
-</a></td>
-</tr>
-
-
-  <td>Jianfeng Chen</td>
-  <td>2018</td>
-  <td>IEEE Cloud</td>
-  <td><a href="http://tiny.cc/riotcloud"> Riot: A Stochastic-based Method for Workflow Scheduling in the Cloud
-</a></td>
-</tr>
-
-
-<tr>
-  <td>Wei Fu</td>
-  <td>2017</td>
-  <td>FSE'17</td>
-  <td><a href="http://fuwei.us/pdf/FSE17_EasythanDL.pdf"> Easy over Hard: A Case Study on Deep Learning
-</a></td>
-</tr>
-
-<tr>
-  <td>Wei Fu</td>
-  <td>2017</td>
-  <td>FSE'17</td>
-  <td><a href="http://fuwei.us/pdf/FSE17_Unsup.pdf">Revisiting Unsupervised Learning for Defect Prediction
-</a></td>
-</tr>
-
-<tr>
-  <td>Wei Fu</td>
-  <td>2016</td>
-  <td>Written Prelim</td>
-  <td><a href="http://fuwei.us/pdf/Wei_Written_prelim.pdf">Tuning for Software Analytics: is it Really Necessary?
-</a></td>
-</tr>
-
-<tr>
-  <td>Wei Fu</td>
-  <td>2017</td>
-  <td>Oral Prelim</td>
-  <td><a href="http://fuwei.us/pdf/Wei_Oral_Exam.pdf">Faster Methods for Software Analytids!
-</a></td>
-</tr>
-
-<tr>
-  <td>Wei Fu</td>
-  <td>2018</td>
-  <td>Defense</td>
-  <td><a href="http://fuwei.us/pdf/Wei_Defense.pdf">Simpler Software Analytics: When? When Not?
-</a></td>
-</tr>
-
-<tr>
-  <td>Zhe Yu</td>
-  <td>2017</td>
-  <td>Written Prelim</td>
-  <td><a href="http://docdro.id/AMZ7ead">How to Read Less:
-On the Benefit of Human-in-the-loop Incremental Learning for Systematic Literature Reviews
-</a></td>
-</tr>
-
-<tr>
-  <td>Jianfeng Chen</td>
-  <td>2017</td>
-  <td>Written Prelim</td>
-  <td><a href="https://docs.google.com/presentation/d/17f-Uocyyo9zFUWLoOcBFe8xTUYMw8MXT8mFx6UCtIz0/edit?usp=sharing">SWAY: A Baseline Method for Search-Based Software Engineering
-</a></td>
-</tr>
-
-
-
-<tr>
-  <td>Jianfeng Chen</td>
-  <td>2018</td>
-  <td>Oral Prelim</td>
-  <td><a href="https://www.slideshare.net/jianfengcs/on-the-value-of-sampling-and-pruning-for-sbse-94687398">On the value of Sampling and Pruning for Search-Based Software Engineering
-</a></td>
-</tr>
-
-
-
-<tr>
-  <td>Vivek Nair</td>
-  <td>2016</td>
-  <td>Written Prelim</td>
-  <td><a href="http://vivekaxl.github.io/assets/Frugal.pdf">Frugal: Cheaper Methods for SBSE</a></td>
-</tr>
-
-
-<tr>
-  <td>Vivek Nair</td>
-  <td>2017</td>
-  <td>Oral Prelim</td>
-  <td><a href="http://tiny.cc/Frugal2"> Frugal ways to find good configurations (for configurable systems)
-</a></td>
-</tr>
-
-
-<tr>
-  <td>Vivek Nair</td>
-  <td>2017</td>
-  <td>SWAN&#39;17</td>
-  <td><a href="http://vivekaxl.github.io/assets/AdvancedAnalytics.pdf">Plant a (decision) TREE and save the world*!</a></td>
-</tr>
-
-
-<tr>
-  <td>Vivek Nair</td>
-  <td>2017</td>
-  <td>FSE&#39;17</td>
-  <td><a href="http://vivekaxl.github.io/assets/UsingBadLearnerstofindGoodConfiguration.pdf">Using Bad Learners to find Good Configurations</a></td>
-</tr>
-
-
-<tr>
-  <td>Amritanshu Agrawal</td>
-  <td>2017</td>
-  <td>Written Prelim</td>
-  <td><a href="http://tiny.cc/amrit17exam">What is Wrong With Topic Modeling?
-</a></td>
-</tr>
-
-<tr>
-  <td>Amritanshu Agrawal</td>
-  <td>2018</td>
-  <td>ICSE</td>
-  <td><a href="http://tiny.cc/icse18smote">Is "Better Data" Better Than "Better Data Miners"? (On the Benefits of Tuning SMOTE for Defect Prediction)
-</a></td>
-</tr>
-
-<tr>
-  <td>Amritanshu Agrawal</td>
-  <td>2018</td>
-  <td>ICSE-SEIP</td>
-  <td><a href="http://tiny.cc/icse18hero">We Don't Need Another Hero? (The Impact of "Heroes" on Software Development)
-</a></td>
-</tr>
-
-
-<tr>
-  <td>George  Mathew</td>
-  <td>2017</td>
-  <td>Written Prelim</td>
-  <td><a href="http://docdro.id/dYl6LuM">"SHORT"er Reasoning About Larger Requirement Models
-</a></td>
-</tr>
-
-
-<tr>
-  <td>George  Mathew</td>
-  <td>2017</td>
-  <td>RE'17</td>
-  <td><a href="http://tiny.cc/bfn17re">"SHORT"er Reasoning About Larger Requirement Models
-</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2017</td>
-  <td>Invited Talk, Monash Univeristy, 2017</td>
-  <td><a href="http://tiny.cc/tim17vic">More less: seeking simpler  software analytics (why?, how?)</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2017</td>
-  <td>Keynote: data-drive search-based SE</td>
-  <td><a href="http://tiny.cc/17search">when data mienrs meet optimizers</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2016</td>
-  <td>SSBSE&#39;17</td>
-  <td><a href="http://tiny.cc/timm10">An (Accidental) Exploration of Alternatives to Evolutionary Algorithms</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2018</td>
-  <td>Keynote RAISE18
-Inivted talk, Naval Research Labs
-Invited talk SE ML summer school</td>
-  <td><a href="http://tiny.cc/18semla">Software assurance and AI:  how to achieve SA assurance for systems that
-use machine learning or other AI methods
-</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2017</td>
-  <td>Invited talk
-CREST52, UCL</td>
-  <td><a href="http://tiny.cc/timcow52">Analytics without SBSE Considered Harmful</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2016</td>
-  <td>Invited talk, workshop on search-based SE</td>
-  <td><a href="http://tiny.cc/timm4">Data Science2  =
-( Test * DataScience )</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2017</td>
-  <td>Invited talk, IBM developers conference</td>
-  <td><a href="http://tiny.cc/tim17ibm">Empriical SE research @data.IBM.honeypot</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2018</td>
-  <td>MSR&#39;18</td>
-  <td><a href="http://tiny.cc/18msr">Data-Driven Search-based SE</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2015</td>
-  <td>FSE&#39;15</td>
-  <td><a href="https://www.slideshare.net/timmenzies/gale-geometric-active-learning-for-searchbased-software-engineering">GALE: geometric active learning for search-based SE</a></td>
-</tr>
-
-
-<tr>
-  <td>Tim Menzies</td>
-  <td>2018</td>
-  <td>FSE&#39;17</td>
-  <td><a href="http://tiny.cc/die">Are delayed issues Harder to Resolve?</a></td>
-</tr>
-
-
-<tr>
-  <td>Rahul Krishna</td>
-  <td>2016</td>
-  <td>ASE 2016</td>
-  <td><a href="http://tiny.cc/ase16bw">Too Much Automation?</a></td>
-</tr>
-
-
-<tr>
-  <td>Rahul Krishna</td>
-  <td>2017</td>
-  <td>Written Exam</td>
-  <td><a href="http://tiny.cc/rkrsnWritten"> Don’t Tell Me What Is; Tell Me What Ought To Be! Planning in Software Engineering</a></td>
-</tr>
-
-
-<tr>
-  <td>Rahul Krishna</td>
-  <td>2017</td>
-  <td>ASE 17 Doctoral Symposium</td>
-  <td><a href="http://tiny.cc/rkrsn_ase17_ds">Learning Effective Changes in Software Engineering
-</a></td>
-</tr>
-
-<tr>
-  <td>Zhe Yu</td>
-  <td>2017</td>
-  <td>HPCC Community Day 2017</td>
-  <td><a href="https://docs.google.com/presentation/d/1PQ5d0yQuMA6EzPlxzFRsp8LtU8ai3C5dAxVHWje3OF0/edit?usp=sharing">Needle in a Haystack
-</a></td>
-</tr>
-
-<tr>
-  <td>Zhe Yu</td>
-  <td>2017</td>
-  <td>CLEF'17</td>
-  <td><a href="https://docs.google.com/presentation/d/19k93BjFo_wh2hy97KTfqQ7va6YjAvLND3Cslwy5nwqw/edit?usp=sharing">Data Balancing for Technologically Assisted Reviews
-</a></td>
-</tr>
-
-<tr>
-  <td>Zhe Yu</td>
-  <td>2016</td>
-  <td>BIGDSE'16</td>
-  <td><a href="https://docs.google.com/presentation/d/1_gyPhBymMjlrijGExOfB_Vhac4A2PmT9baR2CjxjkJ8/edit?usp=sharing">BigSE: Lessons Learned from Validating Industrial Text Mining
-</a></td>
-</tr>
-
-</tbody>
+    <td>IEEE Cloud</td>
+    <td><a href="http://tiny.cc/riotcloud"> Riot: A Stochastic-based Method for Workflow Scheduling in the Cloud
+      </a></td>
+    </tr>
+
+
+    <tr>
+      <td>Wei Fu</td>
+      <td>2017</td>
+      <td>FSE'17</td>
+      <td><a href="http://fuwei.us/pdf/FSE17_EasythanDL.pdf"> Easy over Hard: A Case Study on Deep Learning
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Wei Fu</td>
+      <td>2017</td>
+      <td>FSE'17</td>
+      <td><a href="http://fuwei.us/pdf/FSE17_Unsup.pdf">Revisiting Unsupervised Learning for Defect Prediction
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Wei Fu</td>
+      <td>2016</td>
+      <td>Written Prelim</td>
+      <td><a href="http://fuwei.us/pdf/Wei_Written_prelim.pdf">Tuning for Software Analytics: is it Really Necessary?
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Wei Fu</td>
+      <td>2017</td>
+      <td>Oral Prelim</td>
+      <td><a href="http://fuwei.us/pdf/Wei_Oral_Exam.pdf">Faster Methods for Software Analytids!
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Wei Fu</td>
+      <td>2018</td>
+      <td>Defense</td>
+      <td><a href="http://fuwei.us/pdf/Wei_Defense.pdf">Simpler Software Analytics: When? When Not?
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Zhe Yu</td>
+      <td>2017</td>
+      <td>Written Prelim</td>
+      <td><a href="http://docdro.id/AMZ7ead">How to Read Less:
+          On the Benefit of Human-in-the-loop Incremental Learning for Systematic Literature Reviews
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Jianfeng Chen</td>
+      <td>2017</td>
+      <td>Written Prelim</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/17f-Uocyyo9zFUWLoOcBFe8xTUYMw8MXT8mFx6UCtIz0/edit?usp=sharing">SWAY:
+          A Baseline Method for Search-Based Software Engineering
+        </a></td>
+    </tr>
+
+
+
+    <tr>
+      <td>Jianfeng Chen</td>
+      <td>2018</td>
+      <td>Oral Prelim</td>
+      <td><a href="https://www.slideshare.net/jianfengcs/on-the-value-of-sampling-and-pruning-for-sbse-94687398">On the
+          value of Sampling and Pruning for Search-Based Software Engineering
+        </a></td>
+    </tr>
+
+
+
+    <tr>
+      <td>Vivek Nair</td>
+      <td>2016</td>
+      <td>Written Prelim</td>
+      <td><a href="http://vivekaxl.github.io/assets/Frugal.pdf">Frugal: Cheaper Methods for SBSE</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Vivek Nair</td>
+      <td>2017</td>
+      <td>Oral Prelim</td>
+      <td><a href="http://tiny.cc/Frugal2"> Frugal ways to find good configurations (for configurable systems)
+        </a></td>
+    </tr>
+
+
+    <tr>
+      <td>Vivek Nair</td>
+      <td>2017</td>
+      <td>SWAN&#39;17</td>
+      <td><a href="http://vivekaxl.github.io/assets/AdvancedAnalytics.pdf">Plant a (decision) TREE and save the
+          world*!</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Vivek Nair</td>
+      <td>2017</td>
+      <td>FSE&#39;17</td>
+      <td><a href="http://vivekaxl.github.io/assets/UsingBadLearnerstofindGoodConfiguration.pdf">Using Bad Learners to
+          find Good Configurations</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Amritanshu Agrawal</td>
+      <td>2017</td>
+      <td>Written Prelim</td>
+      <td><a href="http://tiny.cc/amrit17exam">What is Wrong With Topic Modeling?
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Amritanshu Agrawal</td>
+      <td>2018</td>
+      <td>ICSE</td>
+      <td><a href="http://tiny.cc/icse18smote">Is "Better Data" Better Than "Better Data Miners"? (On the Benefits of
+          Tuning SMOTE for Defect Prediction)
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Amritanshu Agrawal</td>
+      <td>2018</td>
+      <td>ICSE-SEIP</td>
+      <td><a href="http://tiny.cc/icse18hero">We Don't Need Another Hero? (The Impact of "Heroes" on Software
+          Development)
+        </a></td>
+    </tr>
+
+
+    <tr>
+      <td>George Mathew</td>
+      <td>2017</td>
+      <td>Written Prelim</td>
+      <td><a href="http://docdro.id/dYl6LuM">"SHORT"er Reasoning About Larger Requirement Models
+        </a></td>
+    </tr>
+
+
+    <tr>
+      <td>George Mathew</td>
+      <td>2017</td>
+      <td>RE'17</td>
+      <td><a href="http://tiny.cc/bfn17re">"SHORT"er Reasoning About Larger Requirement Models
+        </a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2017</td>
+      <td>Invited Talk, Monash Univeristy, 2017</td>
+      <td><a href="http://tiny.cc/tim17vic">More less: seeking simpler software analytics (why?, how?)</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2017</td>
+      <td>Keynote: data-drive search-based SE</td>
+      <td><a href="http://tiny.cc/17search">when data mienrs meet optimizers</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2016</td>
+      <td>SSBSE&#39;17</td>
+      <td><a href="http://tiny.cc/timm10">An (Accidental) Exploration of Alternatives to Evolutionary Algorithms</a>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2018</td>
+      <td>Keynote RAISE18
+        Inivted talk, Naval Research Labs
+        Invited talk SE ML summer school</td>
+      <td><a href="http://tiny.cc/18semla">Software assurance and AI: how to achieve SA assurance for systems that
+          use machine learning or other AI methods
+        </a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2017</td>
+      <td>Invited talk
+        CREST52, UCL</td>
+      <td><a href="http://tiny.cc/timcow52">Analytics without SBSE Considered Harmful</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2016</td>
+      <td>Invited talk, workshop on search-based SE</td>
+      <td><a href="http://tiny.cc/timm4">Data Science2  =
+          ( Test * DataScience )</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2017</td>
+      <td>Invited talk, IBM developers conference</td>
+      <td><a href="http://tiny.cc/tim17ibm">Empriical SE research @data.IBM.honeypot</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2018</td>
+      <td>MSR&#39;18</td>
+      <td><a href="http://tiny.cc/18msr">Data-Driven Search-based SE</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2015</td>
+      <td>FSE&#39;15</td>
+      <td><a
+          href="https://www.slideshare.net/timmenzies/gale-geometric-active-learning-for-searchbased-software-engineering">GALE:
+          geometric active learning for search-based SE</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Tim Menzies</td>
+      <td>2018</td>
+      <td>FSE&#39;17</td>
+      <td><a href="http://tiny.cc/die">Are delayed issues Harder to Resolve?</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Rahul Krishna</td>
+      <td>2016</td>
+      <td>ASE 2016</td>
+      <td><a href="http://tiny.cc/ase16bw">Too Much Automation?</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Rahul Krishna</td>
+      <td>2017</td>
+      <td>Written Exam</td>
+      <td><a href="http://tiny.cc/rkrsnWritten"> Don’t Tell Me What Is; Tell Me What Ought To Be! Planning in Software
+          Engineering</a></td>
+    </tr>
+
+
+    <tr>
+      <td>Rahul Krishna</td>
+      <td>2017</td>
+      <td>ASE 17 Doctoral Symposium</td>
+      <td><a href="http://tiny.cc/rkrsn_ase17_ds">Learning Effective Changes in Software Engineering
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Zhe Yu</td>
+      <td>2017</td>
+      <td>HPCC Community Day 2017</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/1PQ5d0yQuMA6EzPlxzFRsp8LtU8ai3C5dAxVHWje3OF0/edit?usp=sharing">Needle
+          in a Haystack
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Zhe Yu</td>
+      <td>2017</td>
+      <td>CLEF'17</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/19k93BjFo_wh2hy97KTfqQ7va6YjAvLND3Cslwy5nwqw/edit?usp=sharing">Data
+          Balancing for Technologically Assisted Reviews
+        </a></td>
+    </tr>
+
+    <tr>
+      <td>Zhe Yu</td>
+      <td>2016</td>
+      <td>BIGDSE'16</td>
+      <td><a
+          href="https://docs.google.com/presentation/d/1_gyPhBymMjlrijGExOfB_Vhac4A2PmT9baR2CjxjkJ8/edit?usp=sharing">BigSE:
+          Lessons Learned from Validating Industrial Text Mining
+        </a></td>
+    </tr>
+
+  </tbody>
 </table>
-Submit new talks <a href="https://github.com/ai-se/ai-se.github.io/edit/master/talks/index.html">using this link</a>  (permission required)<br><br>
+Submit new talks <a href="https://github.com/ai-se/ai-se.github.io/edit/master/talks/index.html">using this link</a>
+(permission required)<br><br>

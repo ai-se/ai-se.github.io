@@ -4,6 +4,7 @@ title: Amritanshu Agrawal
 excerpt: PhD Student
 home: http://www.amritanshu.us
 resume: http://tiny.cc/amrit_ag
+alumni: yes
 ---
 
 
