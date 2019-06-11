@@ -1,599 +1,638 @@
 ---
 layout: page
-title:  Papers
+title: Papers
 ---
 <h1>PAPERS</h1>
 <style>
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-th, td {
-    text-align: left;
-    padding: 8px;
-}
-tr:nth-child(even) {background-color: #f2f2f2;}
-table thead th { border-bottom: 1px solid #000; background-color: #f0f0f0;}
-table.sortable thead {
-    background-color:#eee;
-    color:#000000;
-    font-weight: bold;
-    cursor: default;
-}
-table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
-    content: " \25B4\25BE"
-}
+	table {
+		border-collapse: collapse;
+		width: 100%;
+	}
+
+	th,
+	td {
+		text-align: left;
+		padding: 8px;
+	}
+
+	tr:nth-child(even) {
+		background-color: #f2f2f2;
+	}
+
+	table thead th {
+		border-bottom: 1px solid #000;
+		background-color: #f0f0f0;
+	}
+
+	table.sortable thead {
+		background-color: #eee;
+		color: #000000;
+		font-weight: bold;
+		cursor: default;
+	}
+
+	table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
+		content: " \25B4\25BE"
+	}
 </style>
 <script src="sorttable.js"></script>
 
 
 <mark> Click headers to sort the table.</mark><br>
 
-<input type="text" id="searchbar" onkeyup="myFunction()" placeholder="Search for names / titles / conferences.." title="Type in a name">
+<input type="text" id="searchbar" onkeyup="myFunction()" placeholder="Search for names / titles / conferences.."
+	title="Type in a name">
 
 <table id="papertable" class="sortable" border="0" cellspacing="20" cellpadding="5" frame=hsides>
-<thead>
-	<tr><th width="100">Conference/Journal</th><th width="30">Year</th><th width="400">Authors</th><th width="400">Title (link)</th></tr>
-</thead>
-<tbody>
-
-<tr>
-    <td>FSE Industrial</td>
-    <td>2019</td>
-    <td>Jianfeng Chen, Joymallya Chakraborty, Philip Clark, Kevin Haverlock, Snehit Cherian, Tim Menzies</td>
-    <td><a href="https://arxiv.org/pdf/1905.06390.pdf">
-      Predicting Breakdowns in Cloud Services (with SPIKE)
-  </a></td>
-  </tr>
-
-	
-<tr>
-    <td>ASE (under review)</td>
-    <td>2019</td>
-    <td>Rui Shu, Tianpei Xia, Laurie Williams, Tim Menzies</td>
-    <td><a href="http://ai4se.net/">
-      Better Security Bug Report Classification via Hyperparameter Optimization
-  </a></td>
-  </tr>
-
-<tr>
-    <td>ASE (under review)</td>
-    <td>2019</td>
-    <td>Jianfeng Chen, Tim Menzies</td>
-    <td><a href="https://arxiv.org/abs/1905.05358">
-      Faster Creation of Smaller Test Suites (with SNAP)
-  </a></td>
-  </tr>
-	
-<tr>
-    <td><a href="https://www.computer.org/csdl/journal/ts">TSE (Under Review)</a></td>
-    <td>2019</td>
-    <td>Shrikanth N. C., Tim Menzies</td>
-    <td><a href="https://arxiv.org/pdf/1904.05794.pdf">
-      Assessing Developer Beliefs: A Reply to "Perceptions, Expectations, and Challenges in Defect Prediction"
-  </a></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://conf.researchr.org/home/icpc-2019">ICPC19</a></td>
-    <td>2019</td>
-    <td>Di Chen, Kathyrn Stolee, Tim Menzies</td>
-    <td><a href="https://arxiv.org/pdf/1902.04060.pdf">
-      Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance
-  </a></td>
-  </tr>
-
-  <tr>
-    <td>TSE (Under Review)</td>
-    <td>2019</td>
-    <td>Amritanshu Agrawal, Wei Fu, Di Chen, Xipeng Shen, and Tim Menzies</td>
-    <td><a href="https://arxiv.org/pdf/1902.01838.pdf">
-      How to "DODGE" Complex Software Analytics?
-  </a></td>
-  </tr>
-
-<tr>
-    <td>TSE</td>
-    <td>2019</td>
-    <td>Junjie Wang, Song Wang, Jianfeng Chen, Tim Menzies, Qiang Cui, Miao Xie, Qing Wang</td>
-    <td>Characterizing Crowds to Better Optimize Worker Recommendation in Crowdsourced Testing
-    </td>
-  </tr>
-
-<tr>
-    <td>ICSE (SIGSOFT Distinguished Paper)</td>
-    <td>2019</td>
-    <td>Junjie Wang, Yang Ye, Rahul Krishna, Tim Menzies, Qing Wang</td>
-    <td>
-      iSENSE: Completion-Aware Crowdtesting Management
-    </td>
-  </tr>
-
-  <tr>
-    <td>Empirical Software Engineering (under review)</td>
-    <td>2018</td>
-    <td>Amritanshu Agrawal, Tim Menzies, Leandro L. Minku, Markus Wagner, Zhe Yu</td>
-    <td><a href="https://arxiv.org/pdf/1812.01550.pdf">
-      Better Software Analytics via "DUO": Data Mining Algorithms Using/Used-by Optimizers
-  </a></td>
-  </tr>
-
-
-
-  <tr>
-    <td>Expert Systems with Applications</td>
-    <td>2018</td>
-    <td>Zhe Yu and Tim Menzies</td>
-    <td><a href="https://arxiv.org/pdf/1705.05420.pdf">
-      FAST2: a Better Text Miner for Faster Understanding of the SE Literature
-  </a></td>
-  </tr>
-
-
-
-
-<tr>
-  <td>Under Submission</td>
-  <td>2018</td>
-  <td>Zhe Yu, Christopher Theisen, Laurie Williams, Tim Menzies</td>
-  <td><a href="https://arxiv.org/pdf/1803.06545.pdf"> Improving Vulnerability Inspection Efficiency Using Active Learning
-</a></td>
-</tr>
-
-<tr>
-  <td><a href="https://nl4se2018.github.io/">NL4SE</a></td>
-  <td>2018</td>
-  <td>Zhe Yu, Tim Menzies</td>
-  <td><a href="https://arxiv.org/pdf/1809.00039.pdf"> Total Recall, Language Processing, and Software Engineering
-</a></td>
-</tr>
-
-
-<tr>
-  <td>Under Submission</td>
-  <td>2018</td>
-  <td>Tianpei Xia, Rahul Krishna, Jianfeng Chen, George Mathew, Xipeng Shen, Tim Menzies</td>
-  <td><a href="https://arxiv.org/pdf/1805.00336.pdf"> Hyperparameter Optimization for Effort Estimation
-</a></td>
-</tr>
-
-
-
-<tr>
-  <td>Under Submission</td>
-  <td>2018</td>
-  <td>Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang</td>
-  <td>
-    Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information
-</td>
-</tr>
-
-<tr>
-  <td>Under Submission</td>
-  <td>2018</td>
-  <td>Rahul Krishna and Tim Menzies</td>
-  <td><a href="https://arxiv.org/pdf/1708.05442.pdf">
-      From prediction to planning: improving software quality with BELLTREE
-</a></td>
-</tr>
-
-<tr>
-	<td>SWAN</td>
-	<td>2018</td>
-	<td>Huy Tu, Vivek Nair</td>
-	<td><a href="https://arxiv.org/pdf/1807.11112.pdf">
-	  Is One Hyperparameter Optimizer Enough?
-	</a></td>
-</tr>
-
-<tr>
-	<td>TSE</td>
-	<td>2018</td>
-	<td>Vivek Nair, Zhe Yu, Tim Menzies, Norbert Siegmund and Sven Apel</td>
-	<td><a href="https://arxiv.org/pdf/1801.02175.pdf">
-	  Finding Faster Configurations using FLASH
-	</a></td>
-</tr>
-
-<tr>
-	<td>TSE</td>
-	<td>2018</td>
-	<td>George Mathew, Amritanshu Agrawal and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1608.08100.pdf">
-		A Method for Finding Trends in Software Research
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>FSE'18</td>
-	<td>2018</td>
-	<td>Di Chen, Wei Fu, Rahul Krishna, Tim Menzies</td>
-	<td><a href="https://arxiv.org/abs/1803.05067">
-		Applications of Psychological Science for Actionable Analytics
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>IEEE CLOUD'18</td>
-	<td>2018</td>
-	<td>Chin-Jung Hsu, Vivek Nair, Tim Menzies, Vincent Freeh</td>
-	<td><a href="https://arxiv.org/abs/1803.05587">
-		Micky: A Cheaper Alternative for Selecting Cloud Instances
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>IEEE CLOUD'18</td>
-	<td>2018</td>
-	<td>Jianfeng Chen and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1708.08127.pdf">
-		RIOT: a Novel Stochastic Method for Rapidly Configuring Cloud-Based Workflows
-	</a></td>
-</tr>
-
-<tr>
-	<td>SWAN'18</td>
-	<td>2018</td>
-	<td>Rahman, Akond, Amritanshu Agrawal, Rahul Krishna, and Alexander Sobran</td>
-	<td><a href="https://arxiv.org/pdf/1711.03933.pdf">
-		Characterizing The Influence of Continuous Integration. Empirical Results from 250+ Open Source and Proprietary Projects.
-	</a></td>
-</tr>
-
-<tr>
-	<td>MSR'18</td>
-	<td>2018</td>
-	<td>Majumder, Suvodeep, Nikhila Balaji, Katie Brey, Wei Fu, and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1802.05319.pdf">
-		500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining StackOverflow).
-	</a></td>
-</tr>
-
-<tr>
-	<td>MSR'18</td>
-	<td>2018</td>
-	<td>Vivek Nair, Amritanshu Agrawal, Jianfeng Chen, Wei Fu, George Mathew, Tim Menzies, Leandro Minku, Markus Wagner, and Zhe Yu</td>
-	<td><a href="https://arxiv.org/pdf/1801.10241.pdf">
-		Data-Driven Search-based Software Engineering
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>TSE</td>
-	<td>2018</td>
-	<td>Rahul Krishna and Tim Menzies</td>
-	<td><a href="https://arxiv.org/abs/1703.06218">
-		Bellwethers: A Baseline Method For Transfer Learning
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>IST</td>
-	<td>2018</td>
-	<td>Amritanshu Agrawal, Wei Fu, and Tim Menzies</td>
-	<td><a href="https://arxiv.org/abs/1608.08176">
-		What is Wrong with Topic Modeling?(and How to Fix it Using Search-based SE).
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>ICSE SEIP'18</td>
-	<td>2018</td>
-	<td>Rahul Krishna, Amritanshu Agrawal, Akond Rahman, Alexander Sobran and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1710.08736.pdf">
-		What is the Connection Between Issues, Bugs, and Enhancements? (Lessons Learned from 800+ Software Projects)
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>SWAN'18</td>
-	<td>2018</td>
-	<td>Akond Rahman, Amritanshu Agrawal, Rahul Krishna, Alexander Sobran</td>
-	<td><a href="https://arxiv.org/pdf/1711.03933.pdf">
-		Characterizing The Influence of Continuous Integration. Empirical Results from 250+ Open Source and Proprietary Projects
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>ICSE</td>
-	<td>2018</td>
-	<td>Amritanshu Agrawal and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1705.03697.pdf">
-		Is "Better Data" Better than "Better Data Miners"? (On the Benefits of Tuning SMOTE for Defect Prediction)
-	</a></td>
-</tr>
-
-
-<tr>
-  <td>Under Submission</td>
-  <td>2017</td>
-  <td>Vivek Nair, Rahul Krishna, Tim Menzies, Pooyan Jamshidi</td>
-  <td><a href="https://arxiv.org/abs/1803.03900">Transfer Learning with Bellwethers to find Good Configurations
-</a></td>
-</tr>
-
-
-<tr>
-  <td>Under Submission</td>
-  <td>2017</td>
-  <td>Tim Menzies, Martin Shepperd</td>
-  <td><a href="https://arxiv.org/abs/1803.05518">Bad Smells in Software Analytics Papers"
-</a></td>
-</tr>
-
-<tr>
-	<td>TSE</td>
-	<td>2017</td>
-	<td>Jianfeng Chen, Vivek Nair, Rahul Krishna, and Tim Menzies.</td>
-	<td><a href="https://arxiv.org/abs/1608.07617">
-		Sampling as a Baseline Optimizer for Search-based Software Engineering
-	</a></td>
-</tr>
-
-<tr>
-	<td>EMSE</td>
-	<td>2017</td>
-	<td>Zhe Yu, Nicholas A. Kraft and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1612.03224">
-    Finding Better Active Learners for Faster Literature Reviews
-  </a></td>
-</tr>
-
-<tr>
-	<td>IST</td>
-	<td>2017</td>
-	<td>Jianfeng Chen, Vivek Nair, Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1701.07950.pdf">
-		Beyond Evolutionary Algorithms for Search-based Software Engineering
-	</a></td>
-</tr>
-
-<tr>
-	<td>IST</td>
-	<td>2017</td>
-	<td>Rahul Krishna, Tim Menzies, and Lucas Layman</td>
-	<td><a href="https://arxiv.org/abs/1609.03614">
-		Less is More: Minimizing Code Reorganization using XTREE
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>ASE'17 (Doctoral Symposium)</td>
-	<td>2017</td>
-	<td>Krishna, Rahul</td>
-	<td><a href="https://arxiv.org/pdf/1708.04589.pdf">
-		Don't Tell Me What Is, Tell Me What Ought To Be! Learning Effective Changes for Software Projects.
-	</a></td>
-</tr>
-
-<tr>
-	<td>TSE</td>
-	<td>2017</td>
-	<td>Jaechang Nam, Wei Fu, Sunghun Kim, Tim Menzies, and Lin Tan</td>
-	<td><a href="https://ieeexplore.ieee.org/abstract/document/7959597/">
-      Heterogeneous Defect Prediction
-	</a></td>
-</tr>
-
-<tr>
-	<td>FSE'17</td>
-	<td>2017</td>
-	<td>Wei Fu, and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1703.00132">
-		Revisiting Unsupervised Learning for Defect Prediction
-	</a></td>
-</tr>
-
-<tr>
-	<td>FSE'17</td>
-	<td>2017</td>
-	<td>Wei Fu, and Tim Menzies</td>
-	<td><a href="https://arxiv.org/pdf/1703.00133">
-		Easy over Hard: A Case Study on Deep Learning
-	</a></td>
-</tr>
-
-<tr>
-	<td>FSE'17</td>
-	<td>2017</td>
-	<td>Vivek Nair, Tim Menzies,  Norbert Siegmund, and Sven Apel</td>
-	<td><a href="https://arxiv.org/pdf/1702.05701">
-		Using Bad Learners to find Good Configurations
-	</a></td>
-</tr>
-
-<tr>
-	<td>EMSE</td>
-	<td>2017</td>
-	<td>Tim Menzies, William Nichols, Forrest Shull and Lucas Layman</td>
-	<td><a href="https://arxiv.org/pdf/1609.04886">
-		Are Delayed Issues Harder to Resolve? Revisiting Cost-to-Fix of Defects throughout the Lifecycle
-	</a></td>
-</tr>
-
-<tr>
-	<td>CLEF'17</td>
-	<td>2017</td>
-	<td>Yu, Zhe, and Tim Menzies</td>
-	<td><a href="http://ceur-ws.org/Vol-1866/paper_120.pdf">
-		Data Balancing for Technologically Assisted Reviews: Undersampling or Reweighting.
-	</a></td>
-</tr>
-
-
-<tr>
-  <td>TSE</td>
-  <td>2017</td>
-  <td>Morakot Choetkiertikul, Hoa Khanh Dam, Truyen Tran, Trang Pham, Aditya Ghose and Tim Menzies</td>
-  <td><a href="https://arxiv.org/pdf/1609.00489">
-    A deep learning model for estimating story points
-</a></td>
-</tr>
-
-
-<tr>
-	<td>EMSE</td>
-	<td>2016</td>
-	<td>Tim Menzies, Ye Yang, George Mathew, Jairus Hihn and  Barry Boehm</td>
-	<td><a href="http://arxiv.org/pdf/1609.05563.pdf">
-		Negative Results for Software Effort Estimation.
-	</a></td>
-</tr>
-
-<tr>
-	<td>IST</td>
-	<td>2016</td>
-	<td>Fu, Wei, Tim Menzies, and Xipeng Shen
-	<td><a href="https://arxiv.org/pdf/1609.01759.pdf">
-    Tuning for software analytics: Is it really necessary?
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>ASE</td>
-	<td>2016</td>
-	<td>Rahul Krishna, Tim Menzies, and Wei Fu</td>
-	<td><a href="http://dl.acm.org/citation.cfm?id=2970339">
-		Too much automation? the bellwether effect and its implications for transfer learning.
-	</a></td>
-</tr>
-
-
-
-<tr>
-	<td>SSBSE</td>
-	<td>2016</td>
-	<td>Nair, Vivek, Tim Menzies, and Jianfeng Chen</td>
-	<td><a href="http://link.springer.com/chapter/10.1007/978-3-319-47106-8_7">
-		An (Accidental) Exploration of Alternatives to Evolutionary Algorithms for SBSE
-	</a></td>
-</tr>
-
-<tr>
-	<td>International Workshop on BIG Data Software Engineering</td>
-	<td>2016</td>
-	<td>Krishna, Rahul, Zhe Yu, Amritanshu Agrawal, Manuel Dominguez, and David Wolf </td>
-	<td>The BigSE project: lessons learned from validating industrial text mining</td>
-</tr>
-
-
-<tr>
-	<td>ASEW</td>
-	<td>2015</td>
-	<td>Krishna, Rahul, and Tim Menzies</td>
-	<td>
-Actionable= Cluster+ Contrast?
-	</td>
-</tr>
-
-
-
-<tr>
-	<td>TSE</td>
-	<td>2015</td>
-	<td>Tim Menzies</td>
-	<td><a href="http://ieeexplore.ieee.org/document/7368014/">
-		Cross-Project Data for Software Engineering
-	</a></td>
-</tr>
-
-
-
-<tr>
-	<td>ASEW'15</td>
-	<td>2015</td>
-	<td>Jaitus Hihn, and Tim Menzies.</td>
-	<td><a href="http://ieeexplore.ieee.org/document/7426628/">
-		Data Mining Methods and Cost Estimation Models: Why is it So Hard to Infuse New Ideas?
-	</a></td>
-</tr>
-
-
-
-<tr>
-	<td>American journal of preventive medicine</td>
-	<td>2015</td>
-	<td>Partington, Susan N., Tim J. Menzies, Trina A. Colburn, Brian E. Saelens, and Karen Glanz</td>
-	<td><a href="http://www.ncbi.nlm.nih.gov/pubmed/26208427">
-		Reduced-Item Food Audits Based on the Nutrition Environment Measures Surveys
-	</a></td>
-</tr>
-
-
-
-<tr>
-	<td>ELSEVIER(book)</td>
-	<td>2015</td>
-	<td>Christian Bird, Tim Menzies, and Thomas Zimmermann</td>
-	<td><a href="http://store.elsevier.com/The-Art-and-Science-of-Analyzing-Software-Data/isbn-9780124115194/">
-		The Art and Science of Analyzing Software Data
-	</a></td>
-</tr>
-
-
-
-<tr>
-	<td>AUSE</td>
-	<td>2015</td>
-	<td>Tim Menzies, and Corina Pasareanu.</td>
-	<td><a href="http://link.springer.com/article/10.1007/s10515-015-0180-8">
-		Guest editorial: special multi-issue on selected topics in Automated Software Engineering.
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>EMSE</td>
-	<td>2015</td>
-	<td>Ekrem Kocaguneli, Tim Menzies, and Emilia Mendes.</td>
-	<td><a href="http://link.springer.com/article/10.1007/s10664-014-9300-5">
-		Transfer learning in effort estimation
-	</a></td>
-</tr>
-
-
-<tr>
-	<td>BIGDSE'15</td>
-	<td>2015</td>
-	<td>Baresi, L., Tim Menzies, Metzger, A., & Zimmermann, T.</td>
-	<td><a href="http://dl.acm.org/citation.cfm?id=2819232&dl=ACM&coll=DL&CFID=834208647&CFTOKEN=70884316">
-		1st international workshop on big data software engineering (BIGDSE 2015)
-	</a></td>
-</tr>
-
-
-
-<tr>
-	<td>ICSE'15</td>
-	<td>2015</td>
-	<td>Peters, Fayola, Tim Menzies, and Lucas Layman.</td>
-	<td><a href="http://ieeexplore.ieee.org/document/7194627/?reload=true&arnumber=7194627&filter%3DAND(p_IS_Number:7194545">
-		LACE2: better privacy-preserving data sharing for cross project defect prediction
-	</a></td>
-</tr>
-
-
-
-<tr>
-	<td>TSE</td>
-	<td>2015</td>
-	<td>Joseph Krall, Tim Menzies, and Misty Davies</td>
-	<td><a href="https://www.computer.org/csdl/trans/ts/2015/10/07105950.pdf">
-		Gale: Geometric active learning for search-based software engineering
-	</a></td>
-</tr>
-
-</tbody>
+	<thead>
+		<tr>
+			<th width="100">Conference/Journal</th>
+			<th width="30">Year</th>
+			<th width="400">Authors</th>
+			<th width="400">Title (link)</th>
+		</tr>
+	</thead>
+	<tbody>
+
+
+		<tr>
+			<td>FSE Industrial</td>
+			<td>2019</td>
+			<td>Zhe Yu, Fahmid M. Fahid, Tim Menzies, Gregg Rothermel, Kyle Patrick, Snehit Cherian</td>
+			<td><a href="https://arxiv.org/pdf/1905.07019.pdf">
+					TERMINATOR: Better Automated UI Test Case Prioritization
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>FSE Industrial</td>
+			<td>2019</td>
+			<td>Jianfeng Chen, Joymallya Chakraborty, Philip Clark, Kevin Haverlock, Snehit Cherian, Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1905.06390.pdf">
+					Predicting Breakdowns in Cloud Services (with SPIKE)
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>ASE (under review)</td>
+			<td>2019</td>
+			<td>Rui Shu, Tianpei Xia, Laurie Williams, Tim Menzies</td>
+			<td><a href="http://ai4se.net/">
+					Better Security Bug Report Classification via Hyperparameter Optimization
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>ASE (under review)</td>
+			<td>2019</td>
+			<td>Jianfeng Chen, Tim Menzies</td>
+			<td><a href="https://arxiv.org/abs/1905.05358">
+					Faster Creation of Smaller Test Suites (with SNAP)
+				</a></td>
+		</tr>
+
+		<tr>
+			<td><a href="https://www.computer.org/csdl/journal/ts">TSE (Under Review)</a></td>
+			<td>2019</td>
+			<td>Shrikanth N. C., Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1904.05794.pdf">
+					Assessing Developer Beliefs: A Reply to "Perceptions, Expectations, and Challenges in Defect
+					Prediction"
+				</a></td>
+		</tr>
+
+		<tr>
+			<td><a href="https://conf.researchr.org/home/icpc-2019">ICPC19</a></td>
+			<td>2019</td>
+			<td>Di Chen, Kathyrn Stolee, Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1902.04060.pdf">
+					Replication Can Improve Prior Results: A GitHub Study of Pull Request Acceptance
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>TSE (Under Review)</td>
+			<td>2019</td>
+			<td>Amritanshu Agrawal, Wei Fu, Di Chen, Xipeng Shen, and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1902.01838.pdf">
+					How to "DODGE" Complex Software Analytics?
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>TSE</td>
+			<td>2019</td>
+			<td>Junjie Wang, Song Wang, Jianfeng Chen, Tim Menzies, Qiang Cui, Miao Xie, Qing Wang</td>
+			<td>Characterizing Crowds to Better Optimize Worker Recommendation in Crowdsourced Testing
+			</td>
+		</tr>
+
+		<tr>
+			<td>ICSE (SIGSOFT Distinguished Paper)</td>
+			<td>2019</td>
+			<td>Junjie Wang, Yang Ye, Rahul Krishna, Tim Menzies, Qing Wang</td>
+			<td>
+				iSENSE: Completion-Aware Crowdtesting Management
+			</td>
+		</tr>
+
+		<tr>
+			<td>Empirical Software Engineering (under review)</td>
+			<td>2018</td>
+			<td>Amritanshu Agrawal, Tim Menzies, Leandro L. Minku, Markus Wagner, Zhe Yu</td>
+			<td><a href="https://arxiv.org/pdf/1812.01550.pdf">
+					Better Software Analytics via "DUO": Data Mining Algorithms Using/Used-by Optimizers
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>Expert Systems with Applications</td>
+			<td>2018</td>
+			<td>Zhe Yu and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1705.05420.pdf">
+					FAST2: a Better Text Miner for Faster Understanding of the SE Literature
+				</a></td>
+		</tr>
+
+
+
+
+		<tr>
+			<td>Under Submission</td>
+			<td>2018</td>
+			<td>Zhe Yu, Christopher Theisen, Laurie Williams, Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1803.06545.pdf"> Improving Vulnerability Inspection Efficiency Using
+					Active Learning
+				</a></td>
+		</tr>
+
+		<tr>
+			<td><a href="https://nl4se2018.github.io/">NL4SE</a></td>
+			<td>2018</td>
+			<td>Zhe Yu, Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1809.00039.pdf"> Total Recall, Language Processing, and Software
+					Engineering
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>Under Submission</td>
+			<td>2018</td>
+			<td>Tianpei Xia, Rahul Krishna, Jianfeng Chen, George Mathew, Xipeng Shen, Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1805.00336.pdf"> Hyperparameter Optimization for Effort Estimation
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>Under Submission</td>
+			<td>2018</td>
+			<td>Wunjie Wang, Mingyang Li, Song Wang, Tim Menzies and Qing Wang</td>
+			<td>
+				Images Don’t Lie: Duplicate Crowdsourced Test Report Detection With Screenshot Information
+			</td>
+		</tr>
+
+		<tr>
+			<td>Under Submission</td>
+			<td>2018</td>
+			<td>Rahul Krishna and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1708.05442.pdf">
+					From prediction to planning: improving software quality with BELLTREE
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>SWAN</td>
+			<td>2018</td>
+			<td>Huy Tu, Vivek Nair</td>
+			<td><a href="https://arxiv.org/pdf/1807.11112.pdf">
+					Is One Hyperparameter Optimizer Enough?
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>TSE</td>
+			<td>2018</td>
+			<td>Vivek Nair, Zhe Yu, Tim Menzies, Norbert Siegmund and Sven Apel</td>
+			<td><a href="https://arxiv.org/pdf/1801.02175.pdf">
+					Finding Faster Configurations using FLASH
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>TSE</td>
+			<td>2018</td>
+			<td>George Mathew, Amritanshu Agrawal and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1608.08100.pdf">
+					A Method for Finding Trends in Software Research
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>FSE'18</td>
+			<td>2018</td>
+			<td>Di Chen, Wei Fu, Rahul Krishna, Tim Menzies</td>
+			<td><a href="https://arxiv.org/abs/1803.05067">
+					Applications of Psychological Science for Actionable Analytics
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>IEEE CLOUD'18</td>
+			<td>2018</td>
+			<td>Chin-Jung Hsu, Vivek Nair, Tim Menzies, Vincent Freeh</td>
+			<td><a href="https://arxiv.org/abs/1803.05587">
+					Micky: A Cheaper Alternative for Selecting Cloud Instances
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>IEEE CLOUD'18</td>
+			<td>2018</td>
+			<td>Jianfeng Chen and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1708.08127.pdf">
+					RIOT: a Novel Stochastic Method for Rapidly Configuring Cloud-Based Workflows
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>SWAN'18</td>
+			<td>2018</td>
+			<td>Rahman, Akond, Amritanshu Agrawal, Rahul Krishna, and Alexander Sobran</td>
+			<td><a href="https://arxiv.org/pdf/1711.03933.pdf">
+					Characterizing The Influence of Continuous Integration. Empirical Results from 250+ Open Source and
+					Proprietary Projects.
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>MSR'18</td>
+			<td>2018</td>
+			<td>Majumder, Suvodeep, Nikhila Balaji, Katie Brey, Wei Fu, and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1802.05319.pdf">
+					500+ Times Faster Than Deep Learning (A Case Study Exploring Faster Methods for Text Mining
+					StackOverflow).
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>MSR'18</td>
+			<td>2018</td>
+			<td>Vivek Nair, Amritanshu Agrawal, Jianfeng Chen, Wei Fu, George Mathew, Tim Menzies, Leandro Minku, Markus
+				Wagner, and Zhe Yu</td>
+			<td><a href="https://arxiv.org/pdf/1801.10241.pdf">
+					Data-Driven Search-based Software Engineering
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>TSE</td>
+			<td>2018</td>
+			<td>Rahul Krishna and Tim Menzies</td>
+			<td><a href="https://arxiv.org/abs/1703.06218">
+					Bellwethers: A Baseline Method For Transfer Learning
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>IST</td>
+			<td>2018</td>
+			<td>Amritanshu Agrawal, Wei Fu, and Tim Menzies</td>
+			<td><a href="https://arxiv.org/abs/1608.08176">
+					What is Wrong with Topic Modeling?(and How to Fix it Using Search-based SE).
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>ICSE SEIP'18</td>
+			<td>2018</td>
+			<td>Rahul Krishna, Amritanshu Agrawal, Akond Rahman, Alexander Sobran and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1710.08736.pdf">
+					What is the Connection Between Issues, Bugs, and Enhancements? (Lessons Learned from 800+ Software
+					Projects)
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>SWAN'18</td>
+			<td>2018</td>
+			<td>Akond Rahman, Amritanshu Agrawal, Rahul Krishna, Alexander Sobran</td>
+			<td><a href="https://arxiv.org/pdf/1711.03933.pdf">
+					Characterizing The Influence of Continuous Integration. Empirical Results from 250+ Open Source and
+					Proprietary Projects
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>ICSE</td>
+			<td>2018</td>
+			<td>Amritanshu Agrawal and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1705.03697.pdf">
+					Is "Better Data" Better than "Better Data Miners"? (On the Benefits of Tuning SMOTE for Defect
+					Prediction)
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>Under Submission</td>
+			<td>2017</td>
+			<td>Vivek Nair, Rahul Krishna, Tim Menzies, Pooyan Jamshidi</td>
+			<td><a href="https://arxiv.org/abs/1803.03900">Transfer Learning with Bellwethers to find Good
+					Configurations
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>Under Submission</td>
+			<td>2017</td>
+			<td>Tim Menzies, Martin Shepperd</td>
+			<td><a href="https://arxiv.org/abs/1803.05518">Bad Smells in Software Analytics Papers"
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>TSE</td>
+			<td>2017</td>
+			<td>Jianfeng Chen, Vivek Nair, Rahul Krishna, and Tim Menzies.</td>
+			<td><a href="https://arxiv.org/abs/1608.07617">
+					Sampling as a Baseline Optimizer for Search-based Software Engineering
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>EMSE</td>
+			<td>2017</td>
+			<td>Zhe Yu, Nicholas A. Kraft and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1612.03224">
+					Finding Better Active Learners for Faster Literature Reviews
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>IST</td>
+			<td>2017</td>
+			<td>Jianfeng Chen, Vivek Nair, Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1701.07950.pdf">
+					Beyond Evolutionary Algorithms for Search-based Software Engineering
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>IST</td>
+			<td>2017</td>
+			<td>Rahul Krishna, Tim Menzies, and Lucas Layman</td>
+			<td><a href="https://arxiv.org/abs/1609.03614">
+					Less is More: Minimizing Code Reorganization using XTREE
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>ASE'17 (Doctoral Symposium)</td>
+			<td>2017</td>
+			<td>Krishna, Rahul</td>
+			<td><a href="https://arxiv.org/pdf/1708.04589.pdf">
+					Don't Tell Me What Is, Tell Me What Ought To Be! Learning Effective Changes for Software Projects.
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>TSE</td>
+			<td>2017</td>
+			<td>Jaechang Nam, Wei Fu, Sunghun Kim, Tim Menzies, and Lin Tan</td>
+			<td><a href="https://ieeexplore.ieee.org/abstract/document/7959597/">
+					Heterogeneous Defect Prediction
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>FSE'17</td>
+			<td>2017</td>
+			<td>Wei Fu, and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1703.00132">
+					Revisiting Unsupervised Learning for Defect Prediction
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>FSE'17</td>
+			<td>2017</td>
+			<td>Wei Fu, and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1703.00133">
+					Easy over Hard: A Case Study on Deep Learning
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>FSE'17</td>
+			<td>2017</td>
+			<td>Vivek Nair, Tim Menzies, Norbert Siegmund, and Sven Apel</td>
+			<td><a href="https://arxiv.org/pdf/1702.05701">
+					Using Bad Learners to find Good Configurations
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>EMSE</td>
+			<td>2017</td>
+			<td>Tim Menzies, William Nichols, Forrest Shull and Lucas Layman</td>
+			<td><a href="https://arxiv.org/pdf/1609.04886">
+					Are Delayed Issues Harder to Resolve? Revisiting Cost-to-Fix of Defects throughout the Lifecycle
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>CLEF'17</td>
+			<td>2017</td>
+			<td>Yu, Zhe, and Tim Menzies</td>
+			<td><a href="http://ceur-ws.org/Vol-1866/paper_120.pdf">
+					Data Balancing for Technologically Assisted Reviews: Undersampling or Reweighting.
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>TSE</td>
+			<td>2017</td>
+			<td>Morakot Choetkiertikul, Hoa Khanh Dam, Truyen Tran, Trang Pham, Aditya Ghose and Tim Menzies</td>
+			<td><a href="https://arxiv.org/pdf/1609.00489">
+					A deep learning model for estimating story points
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>EMSE</td>
+			<td>2016</td>
+			<td>Tim Menzies, Ye Yang, George Mathew, Jairus Hihn and Barry Boehm</td>
+			<td><a href="http://arxiv.org/pdf/1609.05563.pdf">
+					Negative Results for Software Effort Estimation.
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>IST</td>
+			<td>2016</td>
+			<td>Fu, Wei, Tim Menzies, and Xipeng Shen
+			<td><a href="https://arxiv.org/pdf/1609.01759.pdf">
+					Tuning for software analytics: Is it really necessary?
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>ASE</td>
+			<td>2016</td>
+			<td>Rahul Krishna, Tim Menzies, and Wei Fu</td>
+			<td><a href="http://dl.acm.org/citation.cfm?id=2970339">
+					Too much automation? the bellwether effect and its implications for transfer learning.
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>SSBSE</td>
+			<td>2016</td>
+			<td>Nair, Vivek, Tim Menzies, and Jianfeng Chen</td>
+			<td><a href="http://link.springer.com/chapter/10.1007/978-3-319-47106-8_7">
+					An (Accidental) Exploration of Alternatives to Evolutionary Algorithms for SBSE
+				</a></td>
+		</tr>
+
+		<tr>
+			<td>International Workshop on BIG Data Software Engineering</td>
+			<td>2016</td>
+			<td>Krishna, Rahul, Zhe Yu, Amritanshu Agrawal, Manuel Dominguez, and David Wolf </td>
+			<td>The BigSE project: lessons learned from validating industrial text mining</td>
+		</tr>
+
+
+		<tr>
+			<td>ASEW</td>
+			<td>2015</td>
+			<td>Krishna, Rahul, and Tim Menzies</td>
+			<td>
+				Actionable= Cluster+ Contrast?
+			</td>
+		</tr>
+
+
+
+		<tr>
+			<td>TSE</td>
+			<td>2015</td>
+			<td>Tim Menzies</td>
+			<td><a href="http://ieeexplore.ieee.org/document/7368014/">
+					Cross-Project Data for Software Engineering
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>ASEW'15</td>
+			<td>2015</td>
+			<td>Jaitus Hihn, and Tim Menzies.</td>
+			<td><a href="http://ieeexplore.ieee.org/document/7426628/">
+					Data Mining Methods and Cost Estimation Models: Why is it So Hard to Infuse New Ideas?
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>American journal of preventive medicine</td>
+			<td>2015</td>
+			<td>Partington, Susan N., Tim J. Menzies, Trina A. Colburn, Brian E. Saelens, and Karen Glanz</td>
+			<td><a href="http://www.ncbi.nlm.nih.gov/pubmed/26208427">
+					Reduced-Item Food Audits Based on the Nutrition Environment Measures Surveys
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>ELSEVIER(book)</td>
+			<td>2015</td>
+			<td>Christian Bird, Tim Menzies, and Thomas Zimmermann</td>
+			<td><a href="http://store.elsevier.com/The-Art-and-Science-of-Analyzing-Software-Data/isbn-9780124115194/">
+					The Art and Science of Analyzing Software Data
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>AUSE</td>
+			<td>2015</td>
+			<td>Tim Menzies, and Corina Pasareanu.</td>
+			<td><a href="http://link.springer.com/article/10.1007/s10515-015-0180-8">
+					Guest editorial: special multi-issue on selected topics in Automated Software Engineering.
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>EMSE</td>
+			<td>2015</td>
+			<td>Ekrem Kocaguneli, Tim Menzies, and Emilia Mendes.</td>
+			<td><a href="http://link.springer.com/article/10.1007/s10664-014-9300-5">
+					Transfer learning in effort estimation
+				</a></td>
+		</tr>
+
+
+		<tr>
+			<td>BIGDSE'15</td>
+			<td>2015</td>
+			<td>Baresi, L., Tim Menzies, Metzger, A., & Zimmermann, T.</td>
+			<td><a href="http://dl.acm.org/citation.cfm?id=2819232&dl=ACM&coll=DL&CFID=834208647&CFTOKEN=70884316">
+					1st international workshop on big data software engineering (BIGDSE 2015)
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>ICSE'15</td>
+			<td>2015</td>
+			<td>Peters, Fayola, Tim Menzies, and Lucas Layman.</td>
+			<td><a
+					href="http://ieeexplore.ieee.org/document/7194627/?reload=true&arnumber=7194627&filter%3DAND(p_IS_Number:7194545">
+					LACE2: better privacy-preserving data sharing for cross project defect prediction
+				</a></td>
+		</tr>
+
+
+
+		<tr>
+			<td>TSE</td>
+			<td>2015</td>
+			<td>Joseph Krall, Tim Menzies, and Misty Davies</td>
+			<td><a href="https://www.computer.org/csdl/trans/ts/2015/10/07105950.pdf">
+					Gale: Geometric active learning for search-based software engineering
+				</a></td>
+		</tr>
+
+	</tbody>
 </table>
 
-Post new papers <a href="https://github.com/ai-se/ai-se.github.io/edit/master/papers/index.html">using this link</a>  (permission required)<br><br>
+Post new papers <a href="https://github.com/ai-se/ai-se.github.io/edit/master/papers/index.html">using this link</a>
+(permission required)<br><br>
