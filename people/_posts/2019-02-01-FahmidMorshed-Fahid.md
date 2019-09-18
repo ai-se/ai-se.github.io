@@ -2,6 +2,7 @@
 layout: page
 title: Fahmid Morshed Fahid
 excerpt: PhD Student
+alumni: yes
 ---
 
 
