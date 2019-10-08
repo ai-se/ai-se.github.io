@@ -4,6 +4,7 @@ title: Rahul Krishna
 excerpt: Ph.D. candidate
 home: http://rahlk.github.io
 resume: https://drive.google.com/file/d/0B2hE1bM2VB6JWWpSVUctdEFuS0k/view
+alumni: yes
 ---
 
 
