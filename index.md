@@ -33,7 +33,11 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2018/08/20/Rui-Shu/"> <img src="/img/Rui_Shu.jpg" alt="Rui-Shu" height="100"></a>
 <a href="/people/2018/11/11/Xueqi-Yang/"> <img src="/img/sherry_yang.jpg" alt="Xueqi-Yang" height="100"></a>
 <a href="/people/2018/12/22/Shrikanth-NC"> <img src="/img/shrikanth.jpg" alt="Shrikanth-NC" height="100"></a>
-<a href="/people/2018/12/29/Joy-Chakraborty"> <img src="/img/joymallya.jpg" alt="Joy-Chakraborty" height="100"></a>
+<a href="/people/2018/12/29/Joy-Chakraborty"> <img src="/img/joymallya.jpg" alt="Joy Chakraborty" height="100"></a>
+<a href="/people/2018/12/29/Dylan-Wilson"> <img src="/img/Dylan.jpg" alt="Dylan Wilson" height="100"></a>
+<a href="/people/2018/12/29/Rahul-Yedida"> <img src="/img/Rahul_ Yedida.png" alt="Rahul Yedida" height="100"></a>
+<a href="/people/2018/12/29/Andre-Motta"> <img src="/img/AndreMotta.png" alt="Andre Motta" height="100"></a>
+
 
 
 ## FORMER MEMBERS
