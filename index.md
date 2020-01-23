@@ -39,6 +39,9 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2020/01/22/Andre-Motta"> <img src="/img/AndreMotta.jpg" alt="Andre Motta" height="100"></a>
 
 
+## MASTERS STUDENTS
+
+<a href="/people/2020/01/22/Pranav-Mody"> <img src="/img/Pranav.jpg" alt="Pranav Mody" height="100"></a>
 
 ## FORMER MEMBERS
 
