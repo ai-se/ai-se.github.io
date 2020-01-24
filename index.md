@@ -35,7 +35,7 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2018/12/22/Shrikanth-NC"> <img src="/img/shrikanth.jpg" alt="Shrikanth-NC" height="100"></a>
 <a href="/people/2018/12/29/Joy-Chakraborty"> <img src="/img/joymallya.jpg" alt="Joy Chakraborty" height="100"></a>
 <a href="/people/2020/01/22/Dylan-Wilson"> <img src="/img/Dylan.jpg" alt="Dylan Wilson" height="100"></a>
-<a href="/people/2020/01/22/Rahul-Yedida"> <img src="/img/Rahul_Yedida.jpg" alt="Rahul Yedida" height="100"></a>
+<a href="/people/2020/01/22/Rahul-Yedida"> <img src="/img/Rahul_Yedida.jpeg" alt="Rahul Yedida" height="100"></a>
 <a href="/people/2020/01/22/Andre-Motta"> <img src="/img/AndreMotta.jpg" alt="Andre Motta" height="100"></a>
 <a href="/people/2020/01/22/Kewen-Peng"> <img src="/img/KewenPeng.jpg" alt="Kewen Peng" height="100"></a>
 
