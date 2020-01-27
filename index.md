@@ -24,8 +24,6 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 ## MEMBERS
 
 <a href="/people/2014/08/15/Tim-Menzies/"> <img src="/img/timm.png" alt="Tim Menzies" height="100" ></a>
-<a href="/people/2014/10/04/Rahul-Krishna/"> <img src="/img/rahlk.jpg" alt="Rahul Krishna" height="100" ></a>
-<a href="/people/2014/12/30/George-Mathew/"> <img src="https://avatars0.githubusercontent.com/u/5582924?v=3&s=460" alt="George Mathew" height="100" ></a>
 <a href="/people/2015/08/30/Zhe-Yu/"> <img src="/img/Zhe.jpg" alt="Zhe Yu" height="100"  ></a>
 <a href="/people/2017/09/01/Tianpei-Xia/"> <img src="/img/xia.jpg" alt="Tianpei-Xia" height="100" ></a>
 <a href="/people/2017/09/02/Huy-Tu/"> <img src="/img/huy.jpg" alt="Huy-Tu" height="100"></a>
@@ -54,3 +52,5 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2015/08/15/Jianfeng-Chen/"> <img src="/img/chen.jpg" alt="Jianfeng Chen" height="100" ></a>
 <a href="/people/2015/09/01/Amritanshu-Agrawal/"> <img src="http://static.wixstatic.com/media/1bf308_01e141375f454173b368feb66f3ee865.png_srz_p_325_348_75_22_0.50_1.20_0.00_png_srz" alt="Amritanshu Agrawal" height="100" ></a>
 <a href="people/2019/02/01/FahmidMorshed-Fahid/"> <img src="/img/fahmidmorshed.jpg" alt="FahmidMorshed Fahid" height="100" ></a>
+<a href="/people/2014/10/04/Rahul-Krishna/"> <img src="/img/rahlk.jpg" alt="Rahul Krishna" height="100" ></a>
+<a href="/people/2014/12/30/George-Mathew/"> <img src="https://avatars0.githubusercontent.com/u/5582924?v=3&s=460" alt="George Mathew" height="100" ></a>
