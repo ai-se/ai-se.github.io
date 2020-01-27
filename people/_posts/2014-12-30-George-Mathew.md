@@ -9,7 +9,7 @@ alumni: yes
 
 
 <img align="left" width="150"
-src="https://avatars0.githubusercontent.com/u/5582924?v=3&s=460"> George Mathew is a second
+src="https://avatars0.githubusercontent.com/u/5582924?v=3&s=460"> George Mathew is a fifth
 year PhD student in CS at North Carolina State University.
 He is a full stack software engineer. His prime areas of interests
 are machine learning and software development. In his free time
