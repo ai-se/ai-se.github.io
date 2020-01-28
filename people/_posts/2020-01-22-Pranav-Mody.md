@@ -4,6 +4,7 @@ title: Pranav Mody
 excerpt: Masters Student
 home: https://www.linkedin.com/in/pranav-mody96/
 resume: https://drive.google.com/open?id=1S4M5WPj_LH0rY7sfmHzOWj0uW5pYEtBj
+masters: yes
 ---
 
 
