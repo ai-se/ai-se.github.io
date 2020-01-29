@@ -41,7 +41,7 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 ## MASTERS STUDENTS
 
 <a href="/people/2020/01/22/Pranav-Mody"> <img src="/img/pranav.jpg" alt="Pranav Mody" height="100"></a>
-<a href="/people/2020/01/22/Pranav-Mody"> <img src="/img/rishabh.jpg" alt="Rishabh Agrawal" height="100"></a>
+<a href="/people/2020/01/22/Rishabh-Agrawal"> <img src="/img/rishabh.jpg" alt="Rishabh Agrawal" height="100"></a>
 
 
 ## FORMER MEMBERS
