@@ -24,7 +24,6 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 ## MEMBERS
 
 <a href="/people/2014/08/15/Tim-Menzies/"> <img src="/img/timm.png" alt="Tim Menzies" height="100" ></a>
-<a href="/people/2015/08/30/Zhe-Yu/"> <img src="/img/Zhe.jpg" alt="Zhe Yu" height="100"  ></a>
 <a href="/people/2017/09/01/Tianpei-Xia/"> <img src="/img/xia.jpg" alt="Tianpei-Xia" height="100" ></a>
 <a href="/people/2017/09/02/Huy-Tu/"> <img src="/img/huy.jpg" alt="Huy-Tu" height="100"></a>
 <a href="/people/2018/11/18/Suvodeep-Majumder/"> <img src="/img/suvodeep.JPG" alt="Suvodeep-Majumder" height="100"></a>
@@ -40,12 +39,12 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 
 ## MASTERS STUDENTS
 
-<a href="/people/2020/01/22/Pranav-Mody"> <img src="/img/pranav.jpg" alt="Pranav Mody" height="100"></a>
 <a href="/people/2020/01/29/Rishabh-Agrawal"> <img src="/img/rishabh.jpg" alt="Rishabh Agrawal" height="100"></a>
 
 
 ## FORMER MEMBERS
 
+<a href="/people/2015/08/30/Zhe-Yu/"> <img src="/img/Zhe.jpg" alt="Zhe Yu" height="100"  ></a>
 <a href="/people/2015/05/13/Sushma-ravichandran/"> <img src="/img/sushma.jpg" alt="sushma" height="100"></a>
 <a href="/people/2016/01/20/Di-Chen/"> <img src="/img/jack.jpg" alt="Di Chen" height="100" ></a>
 <a href="/people/2014/09/30/Wei-Fu/"> <img src="/img/wei.jpg" alt="Wei FU" height="100" ></a>
