@@ -6,4 +6,4 @@ excerpt: Funding
 ---
 
 
-Shrikanth et al's paper ``Assessing Practitioner Beliefs about Software Engineering`` accepted in EMSE Journal 2021.
+Shrikanth et al's paper "Assessing Practitioner Beliefs about Software Engineering" accepted in EMSE Journal 2021.
