@@ -3,7 +3,7 @@ layout: page
 title: Tianpei (Patrick) Xia
 excerpt: PhD Student
 home: http://xiatianpei.com
-resume: http://xiatianpei.com/files/resume_xia2021.pdf
+resume: https://xiatianpei.com/files/resume_xia2021mid.pdf
 ---
 
 
