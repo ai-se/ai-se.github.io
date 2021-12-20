@@ -4,6 +4,7 @@ title: Tianpei (Patrick) Xia
 excerpt: PhD Student
 home: http://xiatianpei.com
 resume: https://xiatianpei.com/files/resume_xia2021mid.pdf
+alumni: yes
 ---
 
 
