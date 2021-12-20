@@ -4,7 +4,6 @@ title: Rishabh Agrawal
 excerpt: Masters Student
 home: https://www.linkedin.com/in/rishabh-agrawal-653907b0/
 resume:  https://drive.google.com/file/d/1cFEdImnMBJVghJxIXnphhl6LMhkEa0Tv/view
-masters: yes
 alumni: yes
 ---
 
