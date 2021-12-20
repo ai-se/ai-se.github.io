@@ -4,6 +4,7 @@ title: Shrikanth N C
 excerpt: Ph.D. student
 home: http://snaraya7.github.io
 resume: https://snaraya7.github.io/pdf/Resume_Shrikanth.pdf
+alumni: yes
 ---
 
 
