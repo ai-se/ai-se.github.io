@@ -29,6 +29,7 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2020/01/22/Rahul-Yedida"> <img src="/img/Rahul_Yedida.jpg" alt="Rahul Yedida" height="100"></a>
 <a href="/people/2020/01/22/Andre-Motta"> <img src="/img/AndreMotta.jpg" alt="Andre Motta" height="100"></a>
 <a href="/people/2020/01/22/Kewen-Peng"> <img src="/img/KewenPeng.jpg" alt="Kewen Peng" height="100"></a>
+<a href="/people/2022/05/11/Xiao-Ling"> <img src="/img/xiao.png" alt="Xiao Ling" height="100"></a>
 
 
 <!---
