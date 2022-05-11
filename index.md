@@ -26,7 +26,6 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2014/08/15/Tim-Menzies/"> <img src="/img/timm.png" alt="Tim Menzies" height="100" ></a>
 <a href="/people/2018/11/18/Suvodeep-Majumder/"> <img src="/img/suvodeep.JPG" alt="Suvodeep-Majumder" height="100"></a>
 <a href="/people/2018/11/11/Xueqi-Yang/"> <img src="/img/sherry_yang.jpg" alt="Xueqi-Yang" height="100"></a>
-<a href="/people/2018/12/29/Joy-Chakraborty"> <img src="/img/joymallya.jpg" alt="Joy Chakraborty" height="100"></a>
 <a href="/people/2020/01/22/Rahul-Yedida"> <img src="/img/Rahul_Yedida.jpg" alt="Rahul Yedida" height="100"></a>
 <a href="/people/2020/01/22/Andre-Motta"> <img src="/img/AndreMotta.jpg" alt="Andre Motta" height="100"></a>
 <a href="/people/2020/01/22/Kewen-Peng"> <img src="/img/KewenPeng.jpg" alt="Kewen Peng" height="100"></a>
@@ -53,5 +52,6 @@ The RAISE lab is a world leader in this area with tools that (e.g.):
 <a href="/people/2017/09/01/Tianpei-Xia/"> <img src="/img/xia.jpg" alt="Tianpei-Xia" height="100" ></a>
 <a href="/people/2017/09/02/Huy-Tu/"> <img src="/img/huy.jpg" alt="Huy-Tu" height="100"></a>
 <a href="/people/2018/12/22/Shrikanth-NC"> <img src="/img/shrikanth.jpg" alt="Shrikanth-NC" height="100"></a>
+<a href="/people/2018/12/29/Joy-Chakraborty"> <img src="/img/joymallya.jpg" alt="Joy Chakraborty" height="100"></a>
 <a href="/people/2020/01/22/Dylan-Wilson"> <img src="/img/Dylan.jpg" alt="Dylan Wilson" height="100"></a>
 <a href="/people/2020/01/29/Rishabh-Agrawal"> <img src="/img/rishabh.jpg" alt="Rishabh Agrawal" height="100"></a>
